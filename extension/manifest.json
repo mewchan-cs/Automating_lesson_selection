@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "دستیار مدیر گروه | تحلیل کارنامه",
+  "version": "0.3.0",
+  "description": "استخراج کارنامه بازشده در پرتال و ارسال انتخابی آن به موتور تحلیل محلی پایتون",
+  "permissions": ["activeTab", "scripting", "storage", "downloads"],
+  "host_permissions": ["http://127.0.0.1:8765/*"],
+  "action": {
+    "default_title": "تحلیل کارنامه مدیر گروه",
+    "default_popup": "popup.html"
+  }
+}

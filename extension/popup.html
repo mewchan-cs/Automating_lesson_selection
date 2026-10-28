@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>تحلیل کارنامه | مدیر گروه</title>
+  <link rel="stylesheet" href="dashboard.css">
+</head>
+<body><main>
+  <header class="hero"><span class="eyebrow">دستیار آموزشی · تحلیل کارنامه</span><h1>مسیر تحصیلی، روشن‌تر از همیشه</h1><p>نمای یکپارچه نمرات، نیمسال‌ها و جزئیات دروس</p></header>
+  <button id="openDashboard" class="secondary">باز کردن در صفحه بزرگ</button>
+  <section class="card" id="connection">
+    <label for="token">کد اتصال موتور (نمایش‌داده‌شده در پنجره پایتون)</label>
+    <input id="token" type="password" autocomplete="off" placeholder="کد اتصال را وارد کنید">
+    <label for="chart">چارت مربوط به سال ورودی دانشجو</label>
+    <select id="chart">
+      <option value="">ابتدا چارت صحیح را انتخاب کنید</option>
+      <option value="1395-1400">ورودی‌های ۱۳۹۵ تا ۱۴۰۰</option>
+      <option value="1401-1402">ورودی‌های ۱۴۰۱ تا ۱۴۰۲</option>
+      <option value="1403-plus">ورودی‌های ۱۴۰۳ به بعد</option>
+    </select>
+    <button id="analyze">استخراج و تحلیل کارنامه باز</button>
+    <p id="message" aria-live="polite" class="muted">ابتدا موتور پایتون را اجرا کنید و صفحه «اطلاعیه نمرات» را باز نگه دارید.</p>
+  </section>
+  <section id="results" class="card">
+    <h2>نمای کلی کارنامه</h2>
+    <div id="student" class="muted"></div>
+    <div class="grid" id="metrics"></div>
+    <h2 class="section-title">توضیحات و تحلیل بیشتر</h2>
+    <div id="insights" class="note"></div>
+    <h2 class="section-title">روند معدل نیمسال‌ها</h2><p class="muted">فقط معدل اعلام‌شده سامانه؛ نیمسال بدون معدل با خط تیره نمایش داده می‌شود.</p><div id="trend" class="trend"></div>
+    <h2 class="section-title">جزئیات هر نیمسال</h2><div id="semesters"></div>
+    <h2 class="section-title">همه درس‌ها و نمره‌ها</h2>
+    <p class="muted">قبولی / مردودی در این نما بر پایه آستانه نمایشی ۱۰ است؛ وضعیت رسمی آموزشی در داده موجود نیست. هر بار اخذ جداگانه نمایش داده می‌شود.</p>
+    <div class="toolbar"><input id="search" aria-label="جستجوی نام یا کد درس" placeholder="جستجوی نام یا کد درس…"><select id="statusFilter" aria-label="فیلتر وضعیت"><option value="all">همه وضعیت‌ها</option><option value="good">پاس‌شده با نمره ۱۰ و بیشتر</option><option value="bad">افتاده با نمره کمتر از ۱۰</option><option value="pending">بدون نمره</option></select></div>
+    <p id="courseCount" class="muted" aria-live="polite"></p><div id="courses"></div>
+    <h2 style="margin-top:12px;">دروس تکرارشده</h2>
+    <ul class="items" id="repeated"></ul>
+    <h2>دروس یافت‌نشده در چارت</h2>
+    <ul class="items" id="unmatched"></ul>
+    <h2>هشدارها</h2>
+    <ul class="items" id="warnings"></ul>
+    <div class="actions"><button id="print" class="secondary">چاپ / ذخیره PDF</button><button id="download" class="secondary">ذخیره گزارش کامل JSON</button>
+    <button id="downloadTranscript" class="secondary">ذخیره کارنامه استخراج‌شده JSON</button></div>
+    <p class="muted">گزارش اولیه است؛ تا ثبت قوانین آموزشی، برنامه درباره قبولی، مجوز انتخاب واحد یا فارغ‌التحصیلی تصمیم قطعی نمی‌گیرد.</p>
+  </section>
+  <script src="popup.js"></script>
+<footer>تحلیل محلی روی رایانه شما · نسخه بازطراحی‌شده ۰٫۳</footer></main></body></html>

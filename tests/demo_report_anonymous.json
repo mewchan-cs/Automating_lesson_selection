@@ -1,0 +1,754 @@
+{
+  "schema_version": "1.0",
+  "report_type": "PRELIMINARY_TRANSCRIPT_ANALYSIS",
+  "curriculum": "1401-1402",
+  "student": {
+    "student_id": "1402000000",
+    "full_name": "دانشجوی نمونه",
+    "major": "مهندسی کامپیوتر (گروه :مهندسی کامپیوتر)"
+  },
+  "overview": {
+    "semester_count": 8,
+    "course_attempts": 48,
+    "attempted_credits_from_rows": 107.0,
+    "latest_reported_passed_credits": 97,
+    "latest_reported_gpa": 15.62,
+    "observed_grades_at_least_10": 44,
+    "observed_grades_below_10": 4,
+    "observed_missing_grades": 0,
+    "matched_attempts": 48,
+    "unmatched_attempts": 0,
+    "repeated_course_count": 3
+  },
+  "semesters": [
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "attempt_count": 8,
+      "credits_from_rows": 17.0,
+      "reported_attempted_credits": 17.0,
+      "reported_passed_credits": 14,
+      "reported_term_gpa": 13.74,
+      "reported_cumulative_gpa": 14.59,
+      "reported_cumulative_passed_credits": 14
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "attempt_count": 7,
+      "credits_from_rows": 13.0,
+      "reported_attempted_credits": 13.0,
+      "reported_passed_credits": 13,
+      "reported_term_gpa": 15.08,
+      "reported_cumulative_gpa": 14.82,
+      "reported_cumulative_passed_credits": 27
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "attempt_count": 6,
+      "credits_from_rows": 14.0,
+      "reported_attempted_credits": 14.0,
+      "reported_passed_credits": 11,
+      "reported_term_gpa": 12.3,
+      "reported_cumulative_gpa": 14.28,
+      "reported_cumulative_passed_credits": 38
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "attempt_count": 7,
+      "credits_from_rows": 19.0,
+      "reported_attempted_credits": 19.0,
+      "reported_passed_credits": 16,
+      "reported_term_gpa": 14.49,
+      "reported_cumulative_gpa": 14.7,
+      "reported_cumulative_passed_credits": 54
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 3,
+      "attempt_count": 1,
+      "credits_from_rows": 3.0,
+      "reported_attempted_credits": 3.0,
+      "reported_passed_credits": 3,
+      "reported_term_gpa": 17.0,
+      "reported_cumulative_gpa": 14.82,
+      "reported_cumulative_passed_credits": 57
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "attempt_count": 9,
+      "credits_from_rows": 18.0,
+      "reported_attempted_credits": 18.0,
+      "reported_passed_credits": 18,
+      "reported_term_gpa": 16.08,
+      "reported_cumulative_gpa": 15.13,
+      "reported_cumulative_passed_credits": 75
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "attempt_count": 8,
+      "credits_from_rows": 20.0,
+      "reported_attempted_credits": 20.0,
+      "reported_passed_credits": 20,
+      "reported_term_gpa": 17.55,
+      "reported_cumulative_gpa": 15.64,
+      "reported_cumulative_passed_credits": 95
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 3,
+      "attempt_count": 2,
+      "credits_from_rows": 3.0,
+      "reported_attempted_credits": 3.0,
+      "reported_passed_credits": 2,
+      "reported_term_gpa": 15.0,
+      "reported_cumulative_gpa": 15.62,
+      "reported_cumulative_passed_credits": 97
+    }
+  ],
+  "unmatched_courses": [],
+  "ambiguous_courses": [],
+  "repeated_courses": [
+    {
+      "identity": "CRS_EC6BE2AE497B",
+      "course_name": "ریاضی 1",
+      "attempts": [
+        {
+          "academic_year_start": 1402,
+          "term": 1,
+          "grade": 9.75,
+          "course_code": "2101"
+        },
+        {
+          "academic_year_start": 1402,
+          "term": 2,
+          "grade": 14.5,
+          "course_code": "2101"
+        }
+      ]
+    },
+    {
+      "identity": "CRS_890FF93028BF",
+      "course_name": "ریاضیات گسسته",
+      "attempts": [
+        {
+          "academic_year_start": 1403,
+          "term": 1,
+          "grade": 9.99,
+          "course_code": "30006"
+        },
+        {
+          "academic_year_start": 1403,
+          "term": 2,
+          "grade": 14.5,
+          "course_code": "30006"
+        }
+      ]
+    },
+    {
+      "identity": "CRS_BCA7B1DB9E9A",
+      "course_name": "مهندسی نرم افزار 1",
+      "attempts": [
+        {
+          "academic_year_start": 1403,
+          "term": 2,
+          "grade": 8.0,
+          "course_code": "30025"
+        },
+        {
+          "academic_year_start": 1404,
+          "term": 2,
+          "grade": 17.5,
+          "course_code": "30025"
+        }
+      ]
+    }
+  ],
+  "course_attempts": [
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "1101",
+      "course_id": "CRS_AA3D74F3CDFA",
+      "course_name": "اندیشه اسلامی 1 (مبدأ و معاد)",
+      "credits": 2.0,
+      "grade": 17.5,
+      "course_type": "O",
+      "chart_course_name": "اندیشه اسلامی ۱ (مبدأ و معاد)",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "1107",
+      "course_id": "CRS_C7C1EF22A454",
+      "course_name": "زبان فارسی",
+      "credits": 3.0,
+      "grade": 10.75,
+      "course_type": "OE",
+      "chart_course_name": "زبان فارسی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "1109",
+      "course_id": "CRS_6C0C48A919F4",
+      "course_name": "تربیت بدنی (1)",
+      "credits": 1.0,
+      "grade": 19.0,
+      "course_type": "OE",
+      "chart_course_name": "تربیت بدنی ۱",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "2101",
+      "course_id": "CRS_EC6BE2AE497B",
+      "course_name": "ریاضی 1",
+      "credits": 3.0,
+      "grade": 9.75,
+      "course_type": "P",
+      "chart_course_name": "ریاضی عمومی 1",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "30001",
+      "course_id": "CRS_F11366438FA2",
+      "course_name": "زبان انگلیسی 1",
+      "credits": 1.0,
+      "grade": 16.5,
+      "course_type": "OE",
+      "chart_course_name": "زبان انگلیسی ۱",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "30004",
+      "course_id": "CRS_5F09C77118FD",
+      "course_name": "مبانی کامپیوتر وبرنامه نویسی",
+      "credits": 3.0,
+      "grade": 17.5,
+      "course_type": "A",
+      "chart_course_name": "مبانی کامپیوتر و برنامه‌نویسی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "30005",
+      "course_id": "CRS_7677167740A6",
+      "course_name": "کارگاه مبانی کامپیوتر وبرنامه نویسی",
+      "credits": 1.0,
+      "grade": 19.0,
+      "course_type": "A",
+      "chart_course_name": "کارگاه مبانی کامپیوتر و برنامه‌نویسی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "271477",
+      "course_id": "CRS_4D8E1A81A859",
+      "course_name": "فیزیک 1",
+      "credits": 3.0,
+      "grade": 10.0,
+      "course_type": "P",
+      "chart_course_name": "فیزیک ۱",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "1102",
+      "course_id": "CRS_161266772774",
+      "course_name": "اندیشه اسلامی 2 (نبوت و امامت)",
+      "credits": 2.0,
+      "grade": 18.25,
+      "course_type": "O",
+      "chart_course_name": "اندیشه اسلامی ۲ (نبوت و امامت)",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "1110",
+      "course_id": "CRS_83719EE82C75",
+      "course_name": "تربیت بدنی (2)",
+      "credits": 1.0,
+      "grade": 20.0,
+      "course_type": "OE",
+      "chart_course_name": "تربیت بدنی ۲",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "2101",
+      "course_id": "CRS_EC6BE2AE497B",
+      "course_name": "ریاضی 1",
+      "credits": 3.0,
+      "grade": 14.5,
+      "course_type": "P",
+      "chart_course_name": "ریاضی عمومی 1",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "30002",
+      "course_id": "CRS_2C0C23D8F377",
+      "course_name": "زبان انگلیسی2",
+      "credits": 2.0,
+      "grade": 14.0,
+      "course_type": "OE",
+      "chart_course_name": "زبان انگلیسی ۲",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "30003",
+      "course_id": "CRS_FB72FAA0E398",
+      "course_name": "کارگاه عمومی یا کارگاه برق",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "P",
+      "chart_course_name": "کارگاه عمومی یا کارگاه برق",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "30007",
+      "course_id": "CRS_37B1150DE68E",
+      "course_name": "برنامه نویسی پیشرفته",
+      "credits": 3.0,
+      "grade": 12.75,
+      "course_type": "A",
+      "chart_course_name": "برنامه نویسی پیشرفته",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "30008",
+      "course_id": "CRS_71DD849206C5",
+      "course_name": "کارگاه برنامه نویسی پیشرفته",
+      "credits": 1.0,
+      "grade": 12.75,
+      "course_type": "A",
+      "chart_course_name": "کارگاه برنامه‌نویسی پیشرفته",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "2102",
+      "course_id": "CRS_01AF92175286",
+      "course_name": "ریاضی 2",
+      "credits": 3.0,
+      "grade": 13.75,
+      "course_type": "P",
+      "chart_course_name": "ریاضی عمومی 2",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "30006",
+      "course_id": "CRS_890FF93028BF",
+      "course_name": "ریاضیات گسسته",
+      "credits": 3.0,
+      "grade": 9.99,
+      "course_type": "A",
+      "chart_course_name": "ریاضیات گسسته",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "30009",
+      "course_id": "CRS_ACB8471FAC91",
+      "course_name": "مدارهای منطقی",
+      "credits": 3.0,
+      "grade": 14.5,
+      "course_type": "A",
+      "chart_course_name": "مدارهای منطقی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "30010",
+      "course_id": "CRS_688B4DAB1F5A",
+      "course_name": "آزمایشگاه مدارهای منطقی",
+      "credits": 1.0,
+      "grade": 16.0,
+      "course_type": "A",
+      "chart_course_name": "آزمایشگاه مدارهای منطقی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "30014",
+      "course_id": "CRS_6C1F7D4E0E7B",
+      "course_name": "زبان تخصصی",
+      "credits": 2.0,
+      "grade": 10.75,
+      "course_type": "A",
+      "chart_course_name": "زبان تخصصی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "272483",
+      "course_id": "CRS_6922B6E70B7B",
+      "course_name": "تاریخ تحلیلی صدر اسلام",
+      "credits": 2.0,
+      "grade": 10.0,
+      "course_type": "O",
+      "chart_course_name": "تاریخ تحلیلی صدر اسلام",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "course_code": "2135",
+      "course_id": "CRS_81DD3B74A849",
+      "course_name": "معادلات دیفرانسیل",
+      "credits": 3.0,
+      "grade": 18.5,
+      "course_type": "P",
+      "chart_course_name": "معادلات دیفرانسیل",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "course_code": "30006",
+      "course_id": "CRS_890FF93028BF",
+      "course_name": "ریاضیات گسسته",
+      "credits": 3.0,
+      "grade": 14.5,
+      "course_type": "A",
+      "chart_course_name": "ریاضیات گسسته",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "course_code": "30015",
+      "course_id": "CRS_E3DF69DC3026",
+      "course_name": "معماری کامپیوتر",
+      "credits": 3.0,
+      "grade": 17.8,
+      "course_type": "A",
+      "chart_course_name": "معماری کامپیوتر",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "course_code": "30016",
+      "course_id": "CRS_FDF9170DB53C",
+      "course_name": "آزمایشگاه معماری کامپیوتر",
+      "credits": 1.0,
+      "grade": 18.0,
+      "course_type": "A",
+      "chart_course_name": "آزمایشگاه معماری کامپیوتر",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "course_code": "30018",
+      "course_id": "CRS_E02DCD614769",
+      "course_name": "جبر خطی کاربردی",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "جبرخطی کاربردی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "course_code": "30025",
+      "course_id": "CRS_BCA7B1DB9E9A",
+      "course_name": "مهندسی نرم افزار 1",
+      "credits": 3.0,
+      "grade": 8.0,
+      "course_type": "A",
+      "chart_course_name": "مهندسی نرم افزار1",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "course_code": "271463",
+      "course_id": "CRS_2AFB6ECE9696",
+      "course_name": "آمار و احتمالات مهندسی",
+      "credits": 3.0,
+      "grade": 10.0,
+      "course_type": "P",
+      "chart_course_name": "آمار و احتمال مهندسی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 3,
+      "course_code": "231480",
+      "course_id": "CRS_760F4B7A0785",
+      "course_name": "فیزیک 2",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "P",
+      "chart_course_name": "فیزیک ۲",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "30011",
+      "course_id": "CRS_10F05F832F99",
+      "course_name": "ساختمان داده ها والگوریتم ها",
+      "credits": 3.0,
+      "grade": 13.5,
+      "course_type": "A",
+      "chart_course_name": "ساختمان داده‌ها و الگوریتم‌ها",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "30012",
+      "course_id": "CRS_107E45CF4850",
+      "course_name": "مدارهای الکتریکی والکترونیکی",
+      "credits": 3.0,
+      "grade": 18.0,
+      "course_type": "A",
+      "chart_course_name": "مدارهای الکتریکی و الکترونیکی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "30013",
+      "course_id": "CRS_112D7E5CBA9B",
+      "course_name": "آزمایشگاه مدارهای الکتریکی والکترونیکی",
+      "credits": 1.0,
+      "grade": 14.0,
+      "course_type": "A",
+      "chart_course_name": "آزمایشگاه مدارهای الکتریکی و الکترونیکی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "30019",
+      "course_id": "CRS_F23DFD7AE37B",
+      "course_name": "ریز پردازنده وزبان اسمبلی",
+      "credits": 3.0,
+      "grade": 20.0,
+      "course_type": "A",
+      "chart_course_name": "ریزپردازنده و زبان اسمبلی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "30020",
+      "course_id": "CRS_5E834601F42B",
+      "course_name": "آزمایشگاه ریزپردازنده وزبان اسمبلی",
+      "credits": 1.0,
+      "grade": 20.0,
+      "course_type": "A",
+      "chart_course_name": "آزمایشگاه ریزپردازنده و زبان اسمبلی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "30021",
+      "course_id": "CRS_E332D4A34B76",
+      "course_name": "سیستم های عامل",
+      "credits": 3.0,
+      "grade": 14.75,
+      "course_type": "A",
+      "chart_course_name": "سیستم های عامل",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "30022",
+      "course_id": "CRS_4C50C6ABB1DC",
+      "course_name": "آزمایشگاه سیستم های عامل",
+      "credits": 1.0,
+      "grade": 18.75,
+      "course_type": "A",
+      "chart_course_name": "آزمایشگاه سیستم‌های عامل",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "231484",
+      "course_id": "CRS_EE1F88E8C716",
+      "course_name": "آزمایشگاه فیزیک 2",
+      "credits": 1.0,
+      "grade": 18.0,
+      "course_type": "P",
+      "chart_course_name": "آزمایشگاه فیزیک ۲",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "272479",
+      "course_id": "CRS_0A259B9B17F8",
+      "course_name": "آیین زندگی (اخلاق کاربردی)",
+      "credits": 2.0,
+      "grade": 10.0,
+      "course_type": "O",
+      "chart_course_name": "آیین زندگی (اخلاق کاربردی)",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "30023",
+      "course_id": "CRS_CD908A72E109",
+      "course_name": "شبکه های کامپیوتری",
+      "credits": 3.0,
+      "grade": 18.75,
+      "course_type": "A",
+      "chart_course_name": "شبکه های کامپیوتری",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "30024",
+      "course_id": "CRS_27193B7F9C5D",
+      "course_name": "آزمایشگاه شبکه های کامپیوتری",
+      "credits": 1.0,
+      "grade": 20.0,
+      "course_type": "A",
+      "chart_course_name": "آزمایشگاه شبکه‌های کامپیوتری",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "30025",
+      "course_id": "CRS_BCA7B1DB9E9A",
+      "course_name": "مهندسی نرم افزار 1",
+      "credits": 3.0,
+      "grade": 17.5,
+      "course_type": "A",
+      "chart_course_name": "مهندسی نرم افزار1",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "30026",
+      "course_id": "CRS_972360A7E4E8",
+      "course_name": "روش پژوهش وارائه",
+      "credits": 2.0,
+      "grade": 17.75,
+      "course_type": "A",
+      "chart_course_name": "روش پژوهش و ارائه",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "30030",
+      "course_id": "CRS_ED00F6700AE6",
+      "course_name": "اصول طراحی پایگاه داده ها",
+      "credits": 3.0,
+      "grade": 14.61,
+      "course_type": "T",
+      "chart_course_name": "اصول طراحی پایگاه داده‌ها",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "30037",
+      "course_id": "CRS_A05FD49F581E",
+      "course_name": "سیگنال ها وسیستم ها",
+      "credits": 3.0,
+      "grade": 18.0,
+      "course_type": "T",
+      "chart_course_name": "سیگنال‌ها و سیستم‌ها",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "30111",
+      "course_id": "CRS_A2B2B2D3B7F5",
+      "course_name": "مباحث ویژه 1",
+      "credits": 3.0,
+      "grade": 16.5,
+      "course_type": "EK",
+      "chart_course_name": "مباحث ویژه 1",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "272481",
+      "course_id": "CRS_8BA1A6A99C85",
+      "course_name": "انقلاب اسلامی ایران",
+      "credits": 2.0,
+      "grade": 19.75,
+      "course_type": "O",
+      "chart_course_name": "انقلاب اسلامی ایران",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 3,
+      "course_code": "1139",
+      "course_id": "CRS_0838533DB9BF",
+      "course_name": "تفسیرموضوعی قرآن",
+      "credits": 2.0,
+      "grade": 15.0,
+      "course_type": "O",
+      "chart_course_name": "تفسیر موضوعی قرآن",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 3,
+      "course_code": "30027",
+      "course_id": "CRS_79DFEA4D15BB",
+      "course_name": "کارآموزی",
+      "credits": 1.0,
+      "grade": 0.0,
+      "course_type": "A",
+      "chart_course_name": "کارآموزی",
+      "matching": "EXACT_CODE"
+    }
+  ],
+  "warnings": [
+    "سال ورودی فقط از اولین نیمسال موجود تخمین زده شده و باید با مشخصات دانشجو تطبیق شود.",
+    "قوانین قبولی، مردودی، هم‌نیازی، سقف واحد و فارغ‌التحصیلی هنوز ثبت نشده‌اند؛ هیچ حکم آموزشی صادر نشده است."
+  ],
+  "limitations": "آستانه نمره ۱۰ فقط یک دسته‌بندی آماری است؛ به معنی قبولی یا جواز اخذ درس نیست."
+}

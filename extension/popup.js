@@ -39,6 +39,8 @@ function metric(label, value) {
 }
 function showReport(r) {
   $('results').style.display = 'block';
+  renderVisualSummary(r.visual_summary);
+  renderAcademicReview(r.academic_review);
   renderDetails(r);
   $('student').textContent = `${r.student.full_name || 'دانشجو'} | شماره دانشجویی: ${r.student.student_id || '—'} | ${r.student.major || 'رشته نامشخص'} | چارت: ${r.curriculum}`;
   $('metrics').replaceChildren();
@@ -59,6 +61,12 @@ function showReport(r) {
     'همه کدهای مشاهده‌شده در چارت انتخابی پیدا شدند.');
   fillList('warnings', r.warnings, x => x, 'هشداری ثبت نشده است.');
 }
+function selectTranscriptCandidate(results) {
+  const candidates=results.map(v=>v.result).filter(v=>v?.found&&v.transcript);
+  const unique=[...new Map(candidates.map(v=>[JSON.stringify([v.transcript.student,v.transcript.semesters]),v])).values()];
+  if(unique.length>1)throw new Error('چند کارنامه متفاوت باز است؛ فقط کارنامه دانشجوی موردنظر را باز نگه دارید.');
+  return unique[0];
+}
 async function extractFromOpenTab() {
   let [tab] = await chrome.tabs.query({active: true, currentWindow: true});
   if (new URLSearchParams(location.search).has('wide')) {
@@ -73,24 +81,31 @@ async function extractFromOpenTab() {
     target: {tabId: tab.id, allFrames: true},
     files: ['extractor.js']
   });
-  const found = injected.map(v => v.result).filter(v => v?.found && v.transcript)
-    .sort((a, b) => b.transcript.extraction.semester_count - a.transcript.extraction.semester_count)[0];
+  const found = selectTranscriptCandidate(injected);
   if (!found) {
     throw new Error('جدول کارنامه در صفحه فعلی پیدا نشد. «اطلاعیه نمرات» را باز کن؛ قالب صفحه مدیر گروه هم ممکن است متفاوت باشد.');
   }
   return found.transcript;
 }
 async function sendToEngine(transcript, chart, token) {
+  const reviewRequested=$('academicReviewEnabled').checked;
+  if (reviewRequested) {
+    transcript.extraction = {...transcript.extraction,history_complete:$('completeHistory').checked,
+                             completeness_source:'user_confirmation_for_this_analysis'};
+  }
   const response = await fetch('http://127.0.0.1:8765/analyze', {
     method: 'POST',
     headers: {'Content-Type': 'application/json', 'X-Local-Token': token},
-    body: JSON.stringify({chart, transcript}),
+    body: JSON.stringify({chart, transcript,academic_review:reviewRequested,review_mode:'graduation'}),
     cache: 'no-store'
   });
   const payload = await response.json();
   if (!response.ok) {
     if (response.status === 401) throw new Error('کد اتصال اشتباه است. کد نمایش‌داده‌شده در پنجره پایتون را بررسی کن.');
     throw new Error(payload.message || payload.error || `خطای موتور: ${response.status}`);
+  }
+  if(reviewRequested && payload.academic_review?.mode!=='graduation'){
+    throw new Error('موتور قبلی هنوز فعال است. پنجره پایتون قبلی را ببندید و start_server.bat همین بسته جدید را اجرا کنید.');
   }
   return payload;
 }
@@ -125,7 +140,12 @@ $('analyze').addEventListener('click', async () => {
     notify(`خطا: ${err?.message || String(err)}\nاگر اتصال رد شد، نخست فایل start_server.bat را اجرا کن.`, true);
   } finally {
     $('analyze').disabled = false;
+    $('completeHistory').checked = false;
   }
+});
+$('academicReviewEnabled').addEventListener('change',()=>{
+  $('academicOptions').hidden=!$('academicReviewEnabled').checked;
+  $('completeHistory').checked=false;
 });
 $('download').addEventListener('click', () => {
   if (currentReport) saveJSON(currentReport, 'advisor_report.json');

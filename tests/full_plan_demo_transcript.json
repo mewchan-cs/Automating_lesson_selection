@@ -1,0 +1,461 @@
+{
+  "schema_version": "1.0",
+  "student": {
+    "student_id": "FULL-PLAN-DEMO"
+  },
+  "semesters": [
+    {
+      "academic_year_start": 1401,
+      "term": 1,
+      "courses": [
+        {
+          "course_code": "30004",
+          "course_name": "مبانی کامپیوتر و برنامه‌نویسی",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30005",
+          "course_name": "کارگاه مبانی کامپیوتر و برنامه‌نویسی",
+          "credits": 1,
+          "grade": 17
+        },
+        {
+          "course_code": "1107",
+          "course_name": "زبان فارسی",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "2101",
+          "course_name": "ریاضی عمومی 1",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "271477",
+          "course_name": "فیزیک ۱",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "1101",
+          "course_name": "اندیشه اسلامی ۱ (مبدأ و معاد)",
+          "credits": 2,
+          "grade": 17
+        },
+        {
+          "course_code": "1109",
+          "course_name": "تربیت بدنی ۱",
+          "credits": 1,
+          "grade": 17
+        },
+        {
+          "course_code": "30001",
+          "course_name": "زبان انگلیسی ۱",
+          "credits": 1,
+          "grade": 17
+        }
+      ],
+      "reported_summary": {
+        "term_gpa": 15,
+        "cumulative_gpa": 15
+      }
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 2,
+      "courses": [
+        {
+          "course_code": "30006",
+          "course_name": "ریاضیات گسسته",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30007",
+          "course_name": "برنامه نویسی پیشرفته",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30008",
+          "course_name": "کارگاه برنامه‌نویسی پیشرفته",
+          "credits": 1,
+          "grade": 17
+        },
+        {
+          "course_code": "2102",
+          "course_name": "ریاضی عمومی 2",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "231480",
+          "course_name": "فیزیک ۲",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30003",
+          "course_name": "کارگاه عمومی یا کارگاه برق",
+          "credits": 1,
+          "grade": 17
+        },
+        {
+          "course_code": "1110",
+          "course_name": "تربیت بدنی ۲",
+          "credits": 1,
+          "grade": 17
+        },
+        {
+          "course_code": "30002",
+          "course_name": "زبان انگلیسی ۲",
+          "credits": 2,
+          "grade": 17
+        }
+      ],
+      "reported_summary": {
+        "term_gpa": 15,
+        "cumulative_gpa": 15
+      }
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "courses": [
+        {
+          "course_code": "30009",
+          "course_name": "مدارهای منطقی",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30010",
+          "course_name": "آزمایشگاه مدارهای منطقی",
+          "credits": 1,
+          "grade": 17
+        },
+        {
+          "course_code": "30011",
+          "course_name": "ساختمان داده‌ها و الگوریتم‌ها",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "2135",
+          "course_name": "معادلات دیفرانسیل",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30012",
+          "course_name": "مدارهای الکتریکی و الکترونیکی",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30013",
+          "course_name": "آزمایشگاه مدارهای الکتریکی و الکترونیکی",
+          "credits": 1,
+          "grade": 17
+        },
+        {
+          "course_code": "231484",
+          "course_name": "آزمایشگاه فیزیک ۲",
+          "credits": 1,
+          "grade": 17
+        },
+        {
+          "course_code": "30014",
+          "course_name": "زبان تخصصی",
+          "credits": 2,
+          "grade": 17
+        },
+        {
+          "course_code": "1102",
+          "course_name": "اندیشه اسلامی ۲ (نبوت و امامت)",
+          "credits": 2,
+          "grade": 17
+        }
+      ],
+      "reported_summary": {
+        "term_gpa": 15,
+        "cumulative_gpa": 15
+      }
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "courses": [
+        {
+          "course_code": "30015",
+          "course_name": "معماری کامپیوتر",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30016",
+          "course_name": "آزمایشگاه معماری کامپیوتر",
+          "credits": 1,
+          "grade": 17
+        },
+        {
+          "course_code": "30017",
+          "course_name": "نظریه زبان‌ها و ماشین‌ها",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "271463",
+          "course_name": "آمار و احتمال مهندسی",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30018",
+          "course_name": "جبرخطی کاربردی",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30029",
+          "course_name": "طراحی الگوریتم‌ها",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "272479",
+          "course_name": "آیین زندگی (اخلاق کاربردی)",
+          "credits": 2,
+          "grade": 17
+        }
+      ],
+      "reported_summary": {
+        "term_gpa": 15,
+        "cumulative_gpa": 15
+      }
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "courses": [
+        {
+          "course_code": "30019",
+          "course_name": "ریزپردازنده و زبان اسمبلی",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30020",
+          "course_name": "آزمایشگاه ریزپردازنده و زبان اسمبلی",
+          "credits": 1,
+          "grade": 17
+        },
+        {
+          "course_code": "30021",
+          "course_name": "سیستم های عامل",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30022",
+          "course_name": "آزمایشگاه سیستم‌های عامل",
+          "credits": 1,
+          "grade": 17
+        },
+        {
+          "course_code": "30030",
+          "course_name": "اصول طراحی پایگاه داده‌ها",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30023",
+          "course_name": "شبکه های کامپیوتری",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30024",
+          "course_name": "آزمایشگاه شبکه‌های کامپیوتری",
+          "credits": 1,
+          "grade": 17
+        },
+        {
+          "course_code": "272481",
+          "course_name": "انقلاب اسلامی ایران",
+          "credits": 2,
+          "grade": 17
+        }
+      ],
+      "reported_summary": {
+        "term_gpa": 15,
+        "cumulative_gpa": 15
+      }
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "courses": [
+        {
+          "course_code": "30037",
+          "course_name": "سیگنال‌ها و سیستم‌ها",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30051",
+          "course_name": "مبانی و کاربردهای هوش مصنوعی",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30052",
+          "course_name": "مبانی هوش محاسباتی",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30025",
+          "course_name": "مهندسی نرم افزار1",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30026",
+          "course_name": "روش پژوهش و ارائه",
+          "credits": 2,
+          "grade": 17
+        },
+        {
+          "course_code": "272461",
+          "course_name": "تاریخ امامت",
+          "credits": 2,
+          "grade": 17
+        }
+      ],
+      "reported_summary": {
+        "term_gpa": 15,
+        "cumulative_gpa": 15
+      }
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "courses": [
+        {
+          "course_code": "30054",
+          "course_name": "داده کاوی",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30035",
+          "course_name": "طراحی واسط کاربر",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30033",
+          "course_name": "مهندسی نرم‌افزار ۲",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "1139",
+          "course_name": "تفسیر موضوعی قرآن",
+          "credits": 2,
+          "grade": 17
+        },
+        {
+          "course_code": "30028",
+          "course_name": "پروژه پایانی",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30115",
+          "course_name": "کنترل پروژه (مهندسی صنایع)",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30111",
+          "course_name": "مباحث ویژه 1",
+          "credits": 3,
+          "grade": 17
+        }
+      ],
+      "reported_summary": {
+        "term_gpa": 15,
+        "cumulative_gpa": 15
+      }
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "courses": [
+        {
+          "course_code": "30036",
+          "course_name": "بازیابی اطلاعات",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30055",
+          "course_name": "اصول علم ربات",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "1124",
+          "course_name": "دانش خانواده و جمعیت",
+          "credits": 2,
+          "grade": 17
+        },
+        {
+          "course_code": "30109",
+          "course_name": "توسعه کسب و کار نوپا",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30107",
+          "course_name": "مدیریت پروژه فناوری اطلاعات",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30114",
+          "course_name": "اقتصاد مهندسی (مهندسی صنایع)",
+          "credits": 3,
+          "grade": 17
+        }
+      ],
+      "reported_summary": {
+        "term_gpa": 15,
+        "cumulative_gpa": 15
+      }
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 3,
+      "courses": [
+        {
+          "course_code": "30027",
+          "course_name": "کارآموزی",
+          "credits": 1,
+          "grade": 17
+        }
+      ],
+      "reported_summary": {
+        "term_gpa": 15,
+        "cumulative_gpa": 15
+      }
+    }
+  ],
+  "extraction": {
+    "history_complete": true
+  }
+}

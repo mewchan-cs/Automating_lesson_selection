@@ -1,0 +1,14 @@
+{
+  "1395-1400.json": {
+    "sha256": "eab846d00cbde1706af94b8f12e7dc67f373211584858d60c8aa1eeb2d021816",
+    "identical_to_initial_zip": true
+  },
+  "1401-1402.json": {
+    "sha256": "6735bd792aead118469680180c39f0b865248a0d374d7fa622ae5e52c3155d80",
+    "identical_to_initial_zip": true
+  },
+  "1403-plus.json": {
+    "sha256": "203518b99f818a90f602764e793fed4c49922ac619a234a324b2775ca5662f7e",
+    "identical_to_initial_zip": true
+  }
+}

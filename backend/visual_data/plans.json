@@ -1,0 +1,706 @@
+{
+  "1401-1402": {
+    "verified": true,
+    "total_credits": 142,
+    "required_ids": [
+      "CRS_01AF92175286",
+      "CRS_0838533DB9BF",
+      "CRS_0A259B9B17F8",
+      "CRS_107E45CF4850",
+      "CRS_10F05F832F99",
+      "CRS_112D7E5CBA9B",
+      "CRS_161266772774",
+      "CRS_27193B7F9C5D",
+      "CRS_2AFB6ECE9696",
+      "CRS_2C0C23D8F377",
+      "CRS_37B1150DE68E",
+      "CRS_3B269F85C223",
+      "CRS_3C3CAF71EF27",
+      "CRS_4C50C6ABB1DC",
+      "CRS_4D8E1A81A859",
+      "CRS_5C79A91DABD2",
+      "CRS_5E834601F42B",
+      "CRS_5F09C77118FD",
+      "CRS_665D15603306",
+      "CRS_688B4DAB1F5A",
+      "CRS_6C0C48A919F4",
+      "CRS_6C1F7D4E0E7B",
+      "CRS_71DD849206C5",
+      "CRS_760F4B7A0785",
+      "CRS_7677167740A6",
+      "CRS_79DFEA4D15BB",
+      "CRS_81DD3B74A849",
+      "CRS_83719EE82C75",
+      "CRS_890FF93028BF",
+      "CRS_899512540AAF",
+      "CRS_8C048E7C7206",
+      "CRS_972360A7E4E8",
+      "CRS_9EE73BB7839D",
+      "CRS_A05FD49F581E",
+      "CRS_A43B6A9B74B6",
+      "CRS_AA3D74F3CDFA",
+      "CRS_ACB8471FAC91",
+      "CRS_BCA7B1DB9E9A",
+      "CRS_C65C0BD3B525",
+      "CRS_C7C1EF22A454",
+      "CRS_C84172E75E62",
+      "CRS_CD908A72E109",
+      "CRS_E02DCD614769",
+      "CRS_E332D4A34B76",
+      "CRS_E3DF69DC3026",
+      "CRS_EBA3B5BC112B",
+      "CRS_EC6BE2AE497B",
+      "CRS_ED00F6700AE6",
+      "CRS_EE1F88E8C716",
+      "CRS_F11366438FA2",
+      "CRS_F23DFD7AE37B",
+      "CRS_FB72FAA0E398",
+      "CRS_FDF9170DB53C"
+    ],
+    "groups": [
+      {
+        "name": "انقلاب اسلامی یا اندیشه سیاسی امام",
+        "ids": [
+          "CRS_8BA1A6A99C85",
+          "CRS_AA5925A9FBCC"
+        ],
+        "credits": 2,
+        "category": "عمومی"
+      },
+      {
+        "name": "تاریخ تحلیلی اسلام یا تاریخ امامت",
+        "ids": [
+          "CRS_6922B6E70B7B",
+          "CRS_E36983CECDBC"
+        ],
+        "credits": 2,
+        "category": "عمومی"
+      },
+      {
+        "name": "کنترل پروژه و کسب‌وکار نوپا",
+        "ids": [
+          "CRS_FA5709664ED5",
+          "CRS_FD6E4757D9C1"
+        ],
+        "credits": 6,
+        "category": "اختیاری"
+      },
+      {
+        "name": "مباحث ویژه یا مبانی امنیت اطلاعات",
+        "ids": [
+          "CRS_6A18CF9362E1",
+          "CRS_9CCFC40A1A4A",
+          "CRS_A2B2B2D3B7F5"
+        ],
+        "credits": 3,
+        "category": "اختیاری"
+      },
+      {
+        "name": "اختیاری",
+        "ids": [
+          "CRS_0180FF1C09AA",
+          "CRS_489E480B902D",
+          "CRS_55E88E499A17",
+          "CRS_60C07AE41C92",
+          "CRS_64447F553FA7",
+          "CRS_6521BF3605DA",
+          "CRS_6E80AB13A570",
+          "CRS_9CCFC40A1A4A",
+          "CRS_A2B2B2D3B7F5",
+          "CRS_A9A036391CB5",
+          "CRS_B79F6DBAFABC",
+          "CRS_C61B3555056F",
+          "CRS_ED63066A58AC",
+          "CRS_FA5709664ED5",
+          "CRS_FD6E4757D9C1"
+        ],
+        "credits": 3,
+        "category": "اختیاری"
+      },
+      {
+        "name": "اختیاریِ خانه برنامه‌نویسی وب",
+        "ids": [
+          "CRS_0180FF1C09AA",
+          "CRS_0D830B080DF7",
+          "CRS_25787809672A",
+          "CRS_26845060B0EA",
+          "CRS_3F879927F9A3",
+          "CRS_43D3B0C7F8F1",
+          "CRS_489E480B902D",
+          "CRS_500FAEE7BB05",
+          "CRS_55E88E499A17",
+          "CRS_60C07AE41C92",
+          "CRS_64447F553FA7",
+          "CRS_6521BF3605DA",
+          "CRS_6A18CF9362E1",
+          "CRS_6E80AB13A570",
+          "CRS_7A048E51EE59",
+          "CRS_7EF6760ABAF5",
+          "CRS_8FC23E19F41A",
+          "CRS_94F49CE9CA90",
+          "CRS_9CCFC40A1A4A",
+          "CRS_9EE65FDBE1DF",
+          "CRS_A2B2B2D3B7F5",
+          "CRS_A9A036391CB5",
+          "CRS_B2A7F267F59C",
+          "CRS_B79F6DBAFABC",
+          "CRS_BF6326F9CC51",
+          "CRS_C2430EF0420D",
+          "CRS_C61B3555056F",
+          "CRS_D666ADECE5B5",
+          "CRS_ED63066A58AC",
+          "CRS_F923C0C17A07",
+          "CRS_FA5709664ED5",
+          "CRS_FD6E4757D9C1"
+        ],
+        "credits": 3,
+        "category": "اختیاری"
+      }
+    ],
+    "issues": [],
+    "source": "جمع واحدهای ردیف‌های تصویر اول و خانه‌های انتخابی؛ با جمع تیترهای هشت ترم (۱۴۲) تطبیق دارد. این یک برنامه مرجع تصویری است؛ معادل‌سازی و تغییر بسته خارج آن جدا بررسی می‌شود."
+  },
+  "1395-1400": {
+    "verified": true,
+    "total_credits": 141,
+    "required_ids": [
+      "CRS_01AF92175286",
+      "CRS_02C9572441A7",
+      "CRS_06AA453E2757",
+      "CRS_09AE8C9A3F8F",
+      "CRS_161266772774",
+      "CRS_27193B7F9C5D",
+      "CRS_2A7CEE5ED400",
+      "CRS_2AFB6ECE9696",
+      "CRS_36A411F3F922",
+      "CRS_37B1150DE68E",
+      "CRS_3B269F85C223",
+      "CRS_3C3CAF71EF27",
+      "CRS_3D9A23C6EADD",
+      "CRS_40DB4ADD6584",
+      "CRS_4C50C6ABB1DC",
+      "CRS_4D8E1A81A859",
+      "CRS_5159817F45E6",
+      "CRS_5A43B1809AD0",
+      "CRS_5AA0506605C9",
+      "CRS_5F09C77118FD",
+      "CRS_6C1F7D4E0E7B",
+      "CRS_760F4B7A0785",
+      "CRS_79DFEA4D15BB",
+      "CRS_7E5CA70C34A3",
+      "CRS_81DD3B74A849",
+      "CRS_890FF93028BF",
+      "CRS_8FC23E19F41A",
+      "CRS_9402587D7FCA",
+      "CRS_96696417CF3E",
+      "CRS_972360A7E4E8",
+      "CRS_A05FD49F581E",
+      "CRS_A2D0C0093A4E",
+      "CRS_AA3D74F3CDFA",
+      "CRS_ACB8471FAC91",
+      "CRS_C7C1EF22A454",
+      "CRS_C84172E75E62",
+      "CRS_CD908A72E109",
+      "CRS_E2356A22462B",
+      "CRS_E332D4A34B76",
+      "CRS_E3DF69DC3026",
+      "CRS_EC6BE2AE497B",
+      "CRS_EE1F88E8C716",
+      "CRS_EE626072DECC",
+      "CRS_F23DFD7AE37B",
+      "VIS3-1103",
+      "VIS3-1105",
+      "VIS3-1106",
+      "VIS3-1109"
+    ],
+    "variants": [
+      {
+        "name": "الگوریتم و محاسبات",
+        "groups": [
+          {
+            "name": "انقلاب اسلامی یا اندیشه سیاسی امام",
+            "ids": [
+              "CRS_8BA1A6A99C85",
+              "CRS_AA5925A9FBCC"
+            ],
+            "credits": 2,
+            "category": "عمومی"
+          },
+          {
+            "name": "اختیاری نظری",
+            "ids": [
+              "CRS_1B996C4F567A",
+              "CRS_64447F553FA7",
+              "CRS_9CCFC40A1A4A",
+              "CRS_A2B2B2D3B7F5",
+              "CRS_ECE2406890B3"
+            ],
+            "credits": 6,
+            "category": "اختیاری"
+          },
+          {
+            "name": "آزمایشگاه اختیاری",
+            "ids": [
+              "CRS_25C46A3BCC58",
+              "CRS_3A108ACFD600",
+              "CRS_3ACEADEA0498",
+              "CRS_3D8DE003752A",
+              "CRS_7138D0BF34B7",
+              "CRS_7C23EDCFB814",
+              "CRS_89E1E39AAEE7",
+              "CRS_AB81F6CDF39B",
+              "CRS_B84C482EF897",
+              "CRS_BA939FA74DE0",
+              "CRS_D4EB2D087DDC",
+              "CRS_EE53DA421655",
+              "CRS_F2CEF171F26F",
+              "CRS_FAC4721FCBB4"
+            ],
+            "credits": 3,
+            "category": "اختیاری"
+          },
+          {
+            "name": "چهار درس از تمرکز الگوریتم و محاسبات",
+            "ids": [
+              "CRS_31ECD7D23E3B",
+              "CRS_339ED2CD697E",
+              "CRS_358C2E7C59DD",
+              "CRS_37D55E181E42",
+              "CRS_3965E4446F70",
+              "CRS_55E88E499A17"
+            ],
+            "credits": 12,
+            "role": "focus",
+            "category": "تمرکز"
+          }
+        ]
+      },
+      {
+        "name": "امنیت رایانه",
+        "groups": [
+          {
+            "name": "انقلاب اسلامی یا اندیشه سیاسی امام",
+            "ids": [
+              "CRS_8BA1A6A99C85",
+              "CRS_AA5925A9FBCC"
+            ],
+            "credits": 2,
+            "category": "عمومی"
+          },
+          {
+            "name": "اختیاری نظری",
+            "ids": [
+              "CRS_1B996C4F567A",
+              "CRS_64447F553FA7",
+              "CRS_9CCFC40A1A4A",
+              "CRS_A2B2B2D3B7F5",
+              "CRS_ECE2406890B3"
+            ],
+            "credits": 6,
+            "category": "اختیاری"
+          },
+          {
+            "name": "آزمایشگاه اختیاری",
+            "ids": [
+              "CRS_25C46A3BCC58",
+              "CRS_3A108ACFD600",
+              "CRS_3ACEADEA0498",
+              "CRS_3D8DE003752A",
+              "CRS_7138D0BF34B7",
+              "CRS_7C23EDCFB814",
+              "CRS_89E1E39AAEE7",
+              "CRS_AB81F6CDF39B",
+              "CRS_B84C482EF897",
+              "CRS_BA939FA74DE0",
+              "CRS_D4EB2D087DDC",
+              "CRS_EE53DA421655",
+              "CRS_F2CEF171F26F",
+              "CRS_FAC4721FCBB4"
+            ],
+            "credits": 3,
+            "category": "اختیاری"
+          },
+          {
+            "name": "چهار درس از تمرکز امنیت رایانه",
+            "ids": [
+              "CRS_64C61DE955CC",
+              "CRS_6A92DC10D96D",
+              "CRS_A9A86CD7481F",
+              "CRS_CA6812B67E43"
+            ],
+            "credits": 12,
+            "role": "focus",
+            "category": "تمرکز"
+          }
+        ]
+      },
+      {
+        "name": "بازی‌های کامپیوتری",
+        "groups": [
+          {
+            "name": "انقلاب اسلامی یا اندیشه سیاسی امام",
+            "ids": [
+              "CRS_8BA1A6A99C85",
+              "CRS_AA5925A9FBCC"
+            ],
+            "credits": 2,
+            "category": "عمومی"
+          },
+          {
+            "name": "اختیاری نظری",
+            "ids": [
+              "CRS_1B996C4F567A",
+              "CRS_64447F553FA7",
+              "CRS_9CCFC40A1A4A",
+              "CRS_A2B2B2D3B7F5",
+              "CRS_ECE2406890B3"
+            ],
+            "credits": 6,
+            "category": "اختیاری"
+          },
+          {
+            "name": "آزمایشگاه اختیاری",
+            "ids": [
+              "CRS_25C46A3BCC58",
+              "CRS_3A108ACFD600",
+              "CRS_3ACEADEA0498",
+              "CRS_3D8DE003752A",
+              "CRS_7138D0BF34B7",
+              "CRS_7C23EDCFB814",
+              "CRS_89E1E39AAEE7",
+              "CRS_AB81F6CDF39B",
+              "CRS_B84C482EF897",
+              "CRS_BA939FA74DE0",
+              "CRS_D4EB2D087DDC",
+              "CRS_EE53DA421655",
+              "CRS_F2CEF171F26F",
+              "CRS_FAC4721FCBB4"
+            ],
+            "credits": 3,
+            "category": "اختیاری"
+          },
+          {
+            "name": "چهار درس از تمرکز بازی‌های کامپیوتری",
+            "ids": [
+              "CRS_60C07AE41C92",
+              "CRS_70A2ECF89AEA",
+              "CRS_A9A036391CB5",
+              "CRS_CD741303BD5B"
+            ],
+            "credits": 12,
+            "role": "focus",
+            "category": "تمرکز"
+          }
+        ]
+      },
+      {
+        "name": "سیستم‌های اطلاعاتی",
+        "groups": [
+          {
+            "name": "انقلاب اسلامی یا اندیشه سیاسی امام",
+            "ids": [
+              "CRS_8BA1A6A99C85",
+              "CRS_AA5925A9FBCC"
+            ],
+            "credits": 2,
+            "category": "عمومی"
+          },
+          {
+            "name": "اختیاری نظری",
+            "ids": [
+              "CRS_1B996C4F567A",
+              "CRS_64447F553FA7",
+              "CRS_9CCFC40A1A4A",
+              "CRS_A2B2B2D3B7F5",
+              "CRS_ECE2406890B3"
+            ],
+            "credits": 6,
+            "category": "اختیاری"
+          },
+          {
+            "name": "آزمایشگاه اختیاری",
+            "ids": [
+              "CRS_25C46A3BCC58",
+              "CRS_3A108ACFD600",
+              "CRS_3ACEADEA0498",
+              "CRS_3D8DE003752A",
+              "CRS_7138D0BF34B7",
+              "CRS_7C23EDCFB814",
+              "CRS_89E1E39AAEE7",
+              "CRS_AB81F6CDF39B",
+              "CRS_B84C482EF897",
+              "CRS_BA939FA74DE0",
+              "CRS_D4EB2D087DDC",
+              "CRS_EE53DA421655",
+              "CRS_F2CEF171F26F",
+              "CRS_FAC4721FCBB4"
+            ],
+            "credits": 3,
+            "category": "اختیاری"
+          },
+          {
+            "name": "چهار درس از تمرکز سیستم‌های اطلاعاتی",
+            "ids": [
+              "CRS_7B92BE0224F7",
+              "CRS_8C0750A203A8",
+              "CRS_9BA6988FFD43",
+              "CRS_9D0EB96F16F5"
+            ],
+            "credits": 12,
+            "role": "focus",
+            "category": "تمرکز"
+          }
+        ]
+      },
+      {
+        "name": "سیستم‌های مجتمع",
+        "groups": [
+          {
+            "name": "انقلاب اسلامی یا اندیشه سیاسی امام",
+            "ids": [
+              "CRS_8BA1A6A99C85",
+              "CRS_AA5925A9FBCC"
+            ],
+            "credits": 2,
+            "category": "عمومی"
+          },
+          {
+            "name": "اختیاری نظری",
+            "ids": [
+              "CRS_1B996C4F567A",
+              "CRS_64447F553FA7",
+              "CRS_9CCFC40A1A4A",
+              "CRS_A2B2B2D3B7F5",
+              "CRS_ECE2406890B3"
+            ],
+            "credits": 6,
+            "category": "اختیاری"
+          },
+          {
+            "name": "آزمایشگاه اختیاری",
+            "ids": [
+              "CRS_25C46A3BCC58",
+              "CRS_3A108ACFD600",
+              "CRS_3ACEADEA0498",
+              "CRS_3D8DE003752A",
+              "CRS_7138D0BF34B7",
+              "CRS_7C23EDCFB814",
+              "CRS_89E1E39AAEE7",
+              "CRS_AB81F6CDF39B",
+              "CRS_B84C482EF897",
+              "CRS_BA939FA74DE0",
+              "CRS_D4EB2D087DDC",
+              "CRS_EE53DA421655",
+              "CRS_F2CEF171F26F",
+              "CRS_FAC4721FCBB4"
+            ],
+            "credits": 3,
+            "category": "اختیاری"
+          },
+          {
+            "name": "چهار درس از تمرکز سیستم‌های مجتمع",
+            "ids": [
+              "CRS_0E22F48C6536",
+              "CRS_6ADC7E875D85",
+              "CRS_C2430EF0420D",
+              "CRS_D666ADECE5B5",
+              "CRS_ED19728D6EDF",
+              "CRS_FDCF9BD946C8"
+            ],
+            "credits": 12,
+            "role": "focus",
+            "category": "تمرکز"
+          }
+        ]
+      },
+      {
+        "name": "سیستم‌های نرم‌افزاری",
+        "groups": [
+          {
+            "name": "انقلاب اسلامی یا اندیشه سیاسی امام",
+            "ids": [
+              "CRS_8BA1A6A99C85",
+              "CRS_AA5925A9FBCC"
+            ],
+            "credits": 2,
+            "category": "عمومی"
+          },
+          {
+            "name": "اختیاری نظری",
+            "ids": [
+              "CRS_1B996C4F567A",
+              "CRS_64447F553FA7",
+              "CRS_9CCFC40A1A4A",
+              "CRS_A2B2B2D3B7F5",
+              "CRS_ECE2406890B3"
+            ],
+            "credits": 6,
+            "category": "اختیاری"
+          },
+          {
+            "name": "آزمایشگاه اختیاری",
+            "ids": [
+              "CRS_25C46A3BCC58",
+              "CRS_3A108ACFD600",
+              "CRS_3ACEADEA0498",
+              "CRS_3D8DE003752A",
+              "CRS_7138D0BF34B7",
+              "CRS_7C23EDCFB814",
+              "CRS_89E1E39AAEE7",
+              "CRS_AB81F6CDF39B",
+              "CRS_B84C482EF897",
+              "CRS_BA939FA74DE0",
+              "CRS_D4EB2D087DDC",
+              "CRS_EE53DA421655",
+              "CRS_F2CEF171F26F",
+              "CRS_FAC4721FCBB4"
+            ],
+            "credits": 3,
+            "category": "اختیاری"
+          },
+          {
+            "name": "چهار درس از تمرکز سیستم‌های نرم‌افزاری",
+            "ids": [
+              "CRS_0032C6A73916",
+              "CRS_6521BF3605DA",
+              "CRS_9EE65FDBE1DF",
+              "CRS_CF334C5F5C2F"
+            ],
+            "credits": 12,
+            "role": "focus",
+            "category": "تمرکز"
+          }
+        ]
+      },
+      {
+        "name": "شبکه‌های کامپیوتری",
+        "groups": [
+          {
+            "name": "انقلاب اسلامی یا اندیشه سیاسی امام",
+            "ids": [
+              "CRS_8BA1A6A99C85",
+              "CRS_AA5925A9FBCC"
+            ],
+            "credits": 2,
+            "category": "عمومی"
+          },
+          {
+            "name": "اختیاری نظری",
+            "ids": [
+              "CRS_1B996C4F567A",
+              "CRS_64447F553FA7",
+              "CRS_9CCFC40A1A4A",
+              "CRS_A2B2B2D3B7F5",
+              "CRS_ECE2406890B3"
+            ],
+            "credits": 6,
+            "category": "اختیاری"
+          },
+          {
+            "name": "آزمایشگاه اختیاری",
+            "ids": [
+              "CRS_25C46A3BCC58",
+              "CRS_3A108ACFD600",
+              "CRS_3ACEADEA0498",
+              "CRS_3D8DE003752A",
+              "CRS_7138D0BF34B7",
+              "CRS_7C23EDCFB814",
+              "CRS_89E1E39AAEE7",
+              "CRS_AB81F6CDF39B",
+              "CRS_B84C482EF897",
+              "CRS_BA939FA74DE0",
+              "CRS_D4EB2D087DDC",
+              "CRS_EE53DA421655",
+              "CRS_F2CEF171F26F",
+              "CRS_FAC4721FCBB4"
+            ],
+            "credits": 3,
+            "category": "اختیاری"
+          },
+          {
+            "name": "چهار درس از تمرکز شبکه‌های کامپیوتری",
+            "ids": [
+              "CRS_6A92DC10D96D",
+              "CRS_78D2F7D39900",
+              "CRS_7EF6760ABAF5",
+              "CRS_C2430EF0420D"
+            ],
+            "credits": 12,
+            "role": "focus",
+            "category": "تمرکز"
+          }
+        ]
+      },
+      {
+        "name": "هوش مصنوعی",
+        "groups": [
+          {
+            "name": "انقلاب اسلامی یا اندیشه سیاسی امام",
+            "ids": [
+              "CRS_8BA1A6A99C85",
+              "CRS_AA5925A9FBCC"
+            ],
+            "credits": 2,
+            "category": "عمومی"
+          },
+          {
+            "name": "اختیاری نظری",
+            "ids": [
+              "CRS_1B996C4F567A",
+              "CRS_64447F553FA7",
+              "CRS_9CCFC40A1A4A",
+              "CRS_A2B2B2D3B7F5",
+              "CRS_ECE2406890B3"
+            ],
+            "credits": 6,
+            "category": "اختیاری"
+          },
+          {
+            "name": "آزمایشگاه اختیاری",
+            "ids": [
+              "CRS_25C46A3BCC58",
+              "CRS_3A108ACFD600",
+              "CRS_3ACEADEA0498",
+              "CRS_3D8DE003752A",
+              "CRS_7138D0BF34B7",
+              "CRS_7C23EDCFB814",
+              "CRS_89E1E39AAEE7",
+              "CRS_AB81F6CDF39B",
+              "CRS_B84C482EF897",
+              "CRS_BA939FA74DE0",
+              "CRS_D4EB2D087DDC",
+              "CRS_EE53DA421655",
+              "CRS_F2CEF171F26F",
+              "CRS_FAC4721FCBB4"
+            ],
+            "credits": 3,
+            "category": "اختیاری"
+          },
+          {
+            "name": "چهار درس از تمرکز هوش مصنوعی",
+            "ids": [
+              "CRS_1B86D1D13D16",
+              "CRS_32DCC4DEE8E3",
+              "CRS_A43B6A9B74B6",
+              "CRS_D5B9B811998A"
+            ],
+            "credits": 12,
+            "role": "focus",
+            "category": "تمرکز"
+          }
+        ]
+      }
+    ],
+    "issues": [],
+    "source": "۱۴۰ واحد هشت ترم به‌علاوه کارآموزی تابستان یک‌واحدی تصویر سوم؛ ۱۴۱ واحد. تکمیل یک مسیر همگن تمرکز شرط کافی برای تأیید برنامه مرجع است؛ اختلاط مسیرها خودکار تأیید نمی‌شود."
+  },
+  "1403-plus": {
+    "verified": false,
+    "total_credits": null,
+    "issues": [
+      "در تصویر دوم، جمع واحد شکل‌ها در ترم هفتم ۱۷ و در ترم هشتم ۱۹ است، ولی تیترها به‌ترتیب ۱۸ و ۱۷ نوشته‌اند.",
+      "کد رسمی درس‌ها در تصویر دوم چاپ نشده است."
+    ],
+    "source": "اختلاف در خود تصویر؛ از تأیید خودکار کل واحد فارغ‌التحصیلی خودداری می‌شود."
+  }
+}

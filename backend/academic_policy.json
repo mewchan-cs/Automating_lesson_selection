@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "source": "قواعد صریح اعلام‌شده توسط کاربر در این پروژه؛ انتساب به آیین‌نامه رسمی دانشگاه تأیید نشده است.",
+  "scope_confirmed": true,
+  "applicable_charts": [
+    "1395-1400",
+    "1401-1402",
+    "1403-plus"
+  ],
+  "status_rules": {
+    "probation_below": 12,
+    "honors_at_least": 17,
+    "minimum_effective_credits": 0,
+    "summer_affects_status": null
+  },
+  "credit_limits": {
+    "probation": {
+      "min": 0,
+      "max": 14,
+      "approval_required": false
+    },
+    "normal": {
+      "min": 0,
+      "max": 20,
+      "approval_required": false
+    },
+    "honors": {
+      "min": 0,
+      "max": 24,
+      "approval_required": false
+    },
+    "final": {
+      "min": 0,
+      "max": 24,
+      "approval_required": false,
+      "remaining_at_most": 24,
+      "overrides_status": true,
+      "waive_pre_corequisites": true
+    }
+  },
+  "graduation": {},
+  "note": "حد قبولی همه درس‌ها با تأیید کاربر ۱۰ است. کف قانونی واحد، ضابطه تابستان و جدول کامل الزامات فارغ‌التحصیلی هنوز تعیین نشده‌اند؛ min=0 به معنای تعیین کف قانونی نیست."
+}

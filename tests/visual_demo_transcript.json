@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "student": {
+    "student_id": "DEMO-ONLY"
+  },
+  "semesters": [
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "courses": [
+        {
+          "course_code": "1107",
+          "course_name": "زبان فارسی",
+          "credits": 3,
+          "grade": 17
+        },
+        {
+          "course_code": "30001",
+          "course_name": "زبان انگلیسی ۱",
+          "credits": 1,
+          "grade": 17
+        },
+        {
+          "course_code": "30100",
+          "course_name": "گرافیک کامپیوتری",
+          "credits": 3,
+          "grade": 17
+        }
+      ]
+    }
+  ]
+}

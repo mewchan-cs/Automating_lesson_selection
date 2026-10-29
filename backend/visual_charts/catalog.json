@@ -1,0 +1,2483 @@
+{
+  "schema_version": "1.0",
+  "precedence": "visual_before_legacy",
+  "note": "تصویر ۱ عنوان ۱۴۰۱ به بعد دارد؛ طبق تأیید کاربر تصویر ۲ برای ۱۴۰۳ به بعد مقدم است. روابط ناخوانا حدس زده نمی‌شوند.",
+  "charts": [
+    {
+      "chart": "1401-1402",
+      "image": "image-1.png",
+      "sha256": "7750840ee4709197a20c42c26f25460a1afe465873c818fc3269597b0c0dfe78",
+      "entry_year_from": 1401,
+      "entry_year_to": 1402,
+      "year_source": "image_title",
+      "nodes": [
+        {
+          "course_id": "CRS_5F09C77118FD",
+          "course_name": "مبانی کامپیوتر و برنامه‌نویسی",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30004",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [
+            "30005"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30004"
+        },
+        {
+          "course_id": "CRS_7677167740A6",
+          "course_name": "کارگاه مبانی کامپیوتر و برنامه‌نویسی",
+          "credits": 1,
+          "course_type": "A",
+          "course_code": "30005",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [
+            "30004"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30005"
+        },
+        {
+          "course_id": "CRS_C7C1EF22A454",
+          "course_name": "زبان فارسی",
+          "credits": 3,
+          "course_type": "OE",
+          "course_code": "1107",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "1107"
+        },
+        {
+          "course_id": "CRS_EC6BE2AE497B",
+          "course_name": "ریاضی عمومی 1",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "2101",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "2101"
+        },
+        {
+          "course_id": "CRS_4D8E1A81A859",
+          "course_name": "فیزیک ۱",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "271477",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "271477"
+        },
+        {
+          "course_id": "CRS_AA3D74F3CDFA",
+          "course_name": "اندیشه اسلامی ۱ (مبدأ و معاد)",
+          "credits": 2,
+          "course_type": "O",
+          "course_code": "1101",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "1101"
+        },
+        {
+          "course_id": "CRS_6C0C48A919F4",
+          "course_name": "تربیت بدنی ۱",
+          "credits": 1,
+          "course_type": "OE",
+          "course_code": "1109",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "1109"
+        },
+        {
+          "course_id": "CRS_F11366438FA2",
+          "course_name": "زبان انگلیسی ۱",
+          "credits": 1,
+          "course_type": "OE",
+          "course_code": "30001",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30001"
+        },
+        {
+          "course_id": "CRS_890FF93028BF",
+          "course_name": "ریاضیات گسسته",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30006",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "2101",
+            "30004"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30006"
+        },
+        {
+          "course_id": "CRS_37B1150DE68E",
+          "course_name": "برنامه نویسی پیشرفته",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30007",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "30004"
+          ],
+          "corequisites": [
+            "30008"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30007"
+        },
+        {
+          "course_id": "CRS_71DD849206C5",
+          "course_name": "کارگاه برنامه‌نویسی پیشرفته",
+          "credits": 1,
+          "course_type": "A",
+          "course_code": "30008",
+          "suggested_semester": 2,
+          "prerequisites": [],
+          "corequisites": [
+            "30007"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30008"
+        },
+        {
+          "course_id": "CRS_01AF92175286",
+          "course_name": "ریاضی عمومی 2",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "2102",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "2101"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "2102"
+        },
+        {
+          "course_id": "CRS_760F4B7A0785",
+          "course_name": "فیزیک ۲",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "231480",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "271477"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "231480"
+        },
+        {
+          "course_id": "CRS_FB72FAA0E398",
+          "course_name": "کارگاه عمومی یا کارگاه برق",
+          "credits": 1,
+          "course_type": "P",
+          "course_code": "30003",
+          "suggested_semester": 2,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30003"
+        },
+        {
+          "course_id": "CRS_83719EE82C75",
+          "course_name": "تربیت بدنی ۲",
+          "credits": 1,
+          "course_type": "OE",
+          "course_code": "1110",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "1109"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "1110"
+        },
+        {
+          "course_id": "CRS_2C0C23D8F377",
+          "course_name": "زبان انگلیسی ۲",
+          "credits": 2,
+          "course_type": "OE",
+          "course_code": "30002",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "30001"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30002"
+        },
+        {
+          "course_id": "CRS_ACB8471FAC91",
+          "course_name": "مدارهای منطقی",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30009",
+          "suggested_semester": 3,
+          "prerequisites": [],
+          "corequisites": [
+            "30006",
+            "30010"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30009"
+        },
+        {
+          "course_id": "CRS_688B4DAB1F5A",
+          "course_name": "آزمایشگاه مدارهای منطقی",
+          "credits": 1,
+          "course_type": "A",
+          "course_code": "30010",
+          "suggested_semester": 3,
+          "prerequisites": [],
+          "corequisites": [
+            "30009"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30010"
+        },
+        {
+          "course_id": "CRS_10F05F832F99",
+          "course_name": "ساختمان داده‌ها و الگوریتم‌ها",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30011",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "30006",
+            "30007"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30011"
+        },
+        {
+          "course_id": "CRS_81DD3B74A849",
+          "course_name": "معادلات دیفرانسیل",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "2135",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "2101"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "2135"
+        },
+        {
+          "course_id": "CRS_107E45CF4850",
+          "course_name": "مدارهای الکتریکی و الکترونیکی",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30012",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "231480"
+          ],
+          "corequisites": [
+            "2135",
+            "30013"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30012"
+        },
+        {
+          "course_id": "CRS_112D7E5CBA9B",
+          "course_name": "آزمایشگاه مدارهای الکتریکی و الکترونیکی",
+          "credits": 1,
+          "course_type": "A",
+          "course_code": "30013",
+          "suggested_semester": 3,
+          "prerequisites": [],
+          "corequisites": [
+            "30012"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30013"
+        },
+        {
+          "course_id": "CRS_EE1F88E8C716",
+          "course_name": "آزمایشگاه فیزیک ۲",
+          "credits": 1,
+          "course_type": "P",
+          "course_code": "231484",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "231480"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "231484"
+        },
+        {
+          "course_id": "CRS_6C1F7D4E0E7B",
+          "course_name": "زبان تخصصی",
+          "credits": 2,
+          "course_type": "A",
+          "course_code": "30014",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "30002"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30014"
+        },
+        {
+          "course_id": "CRS_161266772774",
+          "course_name": "اندیشه اسلامی ۲ (نبوت و امامت)",
+          "credits": 2,
+          "course_type": "O",
+          "course_code": "1102",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "1101"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "1102"
+        },
+        {
+          "course_id": "CRS_E3DF69DC3026",
+          "course_name": "معماری کامپیوتر",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30015",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "30009"
+          ],
+          "corequisites": [
+            "30016"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30015"
+        },
+        {
+          "course_id": "CRS_FDF9170DB53C",
+          "course_name": "آزمایشگاه معماری کامپیوتر",
+          "credits": 1,
+          "course_type": "A",
+          "course_code": "30016",
+          "suggested_semester": 4,
+          "prerequisites": [],
+          "corequisites": [
+            "30015"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30016"
+        },
+        {
+          "course_id": "CRS_3C3CAF71EF27",
+          "course_name": "نظریه زبان‌ها و ماشین‌ها",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30017",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "30011"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30017"
+        },
+        {
+          "course_id": "CRS_2AFB6ECE9696",
+          "course_name": "آمار و احتمال مهندسی",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "271463",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "2102"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "271463"
+        },
+        {
+          "course_id": "CRS_E02DCD614769",
+          "course_name": "جبرخطی کاربردی",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30018",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "2102"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30018"
+        },
+        {
+          "course_id": "CRS_C84172E75E62",
+          "course_name": "طراحی الگوریتم‌ها",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "30029",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "30011",
+            "30006"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30029"
+        },
+        {
+          "course_id": "CRS_0A259B9B17F8",
+          "course_name": "آیین زندگی (اخلاق کاربردی)",
+          "credits": 2,
+          "course_type": "O",
+          "course_code": "272479",
+          "suggested_semester": 4,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "272479"
+        },
+        {
+          "course_id": "CRS_F23DFD7AE37B",
+          "course_name": "ریزپردازنده و زبان اسمبلی",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30019",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "30015"
+          ],
+          "corequisites": [
+            "30020"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30019"
+        },
+        {
+          "course_id": "CRS_5E834601F42B",
+          "course_name": "آزمایشگاه ریزپردازنده و زبان اسمبلی",
+          "credits": 1,
+          "course_type": "A",
+          "course_code": "30020",
+          "suggested_semester": 5,
+          "prerequisites": [],
+          "corequisites": [
+            "30019"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30020"
+        },
+        {
+          "course_id": "CRS_E332D4A34B76",
+          "course_name": "سیستم های عامل",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30021",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "30015"
+          ],
+          "corequisites": [
+            "30022"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30021"
+        },
+        {
+          "course_id": "CRS_4C50C6ABB1DC",
+          "course_name": "آزمایشگاه سیستم‌های عامل",
+          "credits": 1,
+          "course_type": "A",
+          "course_code": "30022",
+          "suggested_semester": 5,
+          "prerequisites": [],
+          "corequisites": [
+            "30021"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30022"
+        },
+        {
+          "course_id": "CRS_ED00F6700AE6",
+          "course_name": "اصول طراحی پایگاه داده‌ها",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "30030",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "30011"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30030"
+        },
+        {
+          "course_id": "CRS_CD908A72E109",
+          "course_name": "شبکه های کامپیوتری",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30023",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "30015",
+            "271463"
+          ],
+          "corequisites": [
+            "30021",
+            "30024"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30023"
+        },
+        {
+          "course_id": "CRS_27193B7F9C5D",
+          "course_name": "آزمایشگاه شبکه‌های کامپیوتری",
+          "credits": 1,
+          "course_type": "A",
+          "course_code": "30024",
+          "suggested_semester": 5,
+          "prerequisites": [],
+          "corequisites": [
+            "30023"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30024"
+        },
+        {
+          "course_id": "CRS_A05FD49F581E",
+          "course_name": "سیگنال‌ها و سیستم‌ها",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "30037",
+          "suggested_semester": 6,
+          "prerequisites": [
+            "2135"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30037"
+        },
+        {
+          "course_id": "CRS_9EE73BB7839D",
+          "course_name": "مبانی و کاربردهای هوش مصنوعی",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "30051",
+          "suggested_semester": 6,
+          "prerequisites": [
+            "30011"
+          ],
+          "corequisites": [
+            "30018"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30051"
+        },
+        {
+          "course_id": "CRS_A43B6A9B74B6",
+          "course_name": "مبانی هوش محاسباتی",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "30052",
+          "suggested_semester": 6,
+          "prerequisites": [
+            "30029"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30052"
+        },
+        {
+          "course_id": "CRS_BCA7B1DB9E9A",
+          "course_name": "مهندسی نرم افزار1",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30025",
+          "suggested_semester": 6,
+          "prerequisites": [
+            "30007"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30025"
+        },
+        {
+          "course_id": "CRS_25787809672A",
+          "course_name": "برنامه‌نویسی وب",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "30128",
+          "suggested_semester": 6,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": false,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "review_reason": "کد تصویر 30128 با کد 30045 داده قبلی متفاوت است؛ مسیر پیش‌نیاز در تصویر نیازمند بررسی است",
+          "base_course_code": "30045"
+        },
+        {
+          "course_id": "CRS_972360A7E4E8",
+          "course_name": "روش پژوهش و ارائه",
+          "credits": 2,
+          "course_type": "A",
+          "course_code": "30026",
+          "suggested_semester": 6,
+          "prerequisites": [
+            "30014"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "minimum_semester": 5,
+          "base_course_code": "30026"
+        },
+        {
+          "course_id": "CRS_79DFEA4D15BB",
+          "course_name": "کارآموزی",
+          "credits": 1,
+          "course_type": "A",
+          "course_code": "30027",
+          "suggested_semester": 6,
+          "prerequisites": [
+            "30026"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "minimum_semester": 7,
+          "base_course_code": "30027"
+        },
+        {
+          "course_id": "CRS_8C048E7C7206",
+          "course_name": "داده کاوی",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "30054",
+          "suggested_semester": 7,
+          "prerequisites": [
+            "30052"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30054"
+        },
+        {
+          "course_id": "CRS_C65C0BD3B525",
+          "course_name": "طراحی واسط کاربر",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "30035",
+          "suggested_semester": 7,
+          "prerequisites": [
+            "30025"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30035"
+        },
+        {
+          "course_id": "CRS_665D15603306",
+          "course_name": "مهندسی نرم‌افزار ۲",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "30033",
+          "suggested_semester": 7,
+          "prerequisites": [
+            "30025"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30033"
+        },
+        {
+          "course_id": "CRS_0838533DB9BF",
+          "course_name": "تفسیر موضوعی قرآن",
+          "credits": 2,
+          "course_type": "O",
+          "course_code": "1139",
+          "suggested_semester": 7,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "1139"
+        },
+        {
+          "course_id": "CRS_5C79A91DABD2",
+          "course_name": "پروژه پایانی",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "30028",
+          "suggested_semester": 7,
+          "prerequisites": [
+            "30026"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30028"
+        },
+        {
+          "course_id": "CRS_899512540AAF",
+          "course_name": "بازیابی اطلاعات",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "30036",
+          "suggested_semester": 8,
+          "prerequisites": [
+            "30011",
+            "271463"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30036"
+        },
+        {
+          "course_id": "CRS_EBA3B5BC112B",
+          "course_name": "اصول علم ربات",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "30055",
+          "suggested_semester": 8,
+          "prerequisites": [
+            "30037"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "30055"
+        },
+        {
+          "course_id": "CRS_3B269F85C223",
+          "course_name": "دانش خانواده و جمعیت",
+          "credits": 2,
+          "course_type": "OE",
+          "course_code": "1124",
+          "suggested_semester": 8,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-1.png",
+          "base_course_code": "1124"
+        }
+      ],
+      "slots": [
+        {
+          "suggested_semester": 5,
+          "name": "انقلاب اسلامی / اندیشه سیاسی امام",
+          "kind": "alternative",
+          "course_codes": [
+            "272481",
+            "272459"
+          ]
+        },
+        {
+          "suggested_semester": 6,
+          "name": "تاریخ تحلیلی اسلام / تاریخ امامت",
+          "kind": "alternative",
+          "course_codes": [
+            "272483",
+            "272461"
+          ]
+        },
+        {
+          "suggested_semester": 7,
+          "name": "کنترل پروژه / کسب و کار نوپا",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 7,
+          "name": "مباحث ویژه / مبانی امنیت اطلاعات",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 8,
+          "name": "کنترل پروژه / کسب و کار نوپا",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 8,
+          "name": "اختیاری به انتخاب دانشجو",
+          "kind": "unresolved_option"
+        }
+      ]
+    },
+    {
+      "chart": "1403-plus",
+      "image": "image-2.png",
+      "sha256": "5c99fd4ff67245e7ed9b2df52487d92d6fb74ec80cb2fae1386a2628c78d966e",
+      "entry_year_from": 1403,
+      "entry_year_to": null,
+      "year_source": "user_confirmation_2026-10-28",
+      "nodes": [
+        {
+          "course_id": "CRS_4D8E1A81A859",
+          "course_name": "فیزیک ۱",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "SCI-106",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "SCI-106"
+        },
+        {
+          "course_id": "CRS_EC6BE2AE497B",
+          "course_name": "ریاضی عمومی ۱",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "SCI-101",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "SCI-101"
+        },
+        {
+          "course_id": "CRS_36A411F3F922",
+          "course_name": "کارگاه کامپیوتر",
+          "credits": 1,
+          "course_type": "TE",
+          "course_code": "CSE-102",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-102"
+        },
+        {
+          "course_id": "CRS_95D82E0D6350",
+          "course_name": "آشنایی با صنعت کامپیوتر (کاربینی)",
+          "credits": 2,
+          "course_type": "MEP",
+          "course_code": "CSE-100",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-100"
+        },
+        {
+          "course_id": "CRS_5F09C77118FD",
+          "course_name": "مبانی کامپیوتر و برنامه‌سازی",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-101",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-101"
+        },
+        {
+          "course_id": "CRS_760F4B7A0785",
+          "course_name": "فیزیک ۲",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "SCI-107",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "SCI-106"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "SCI-107"
+        },
+        {
+          "course_id": "CRS_01AF92175286",
+          "course_name": "ریاضی عمومی ۲",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "SCI-102",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "SCI-101"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "SCI-102"
+        },
+        {
+          "course_id": "CRS_8A004CF16638",
+          "course_name": "کارگاه عمومی",
+          "credits": 2,
+          "course_type": "P",
+          "course_code": "SCI-113",
+          "suggested_semester": 2,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "SCI-113"
+        },
+        {
+          "course_id": "CRS_ACB8471FAC91",
+          "course_name": "مدارهای منطقی",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-104",
+          "suggested_semester": 2,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-104"
+        },
+        {
+          "course_id": "CRS_37B1150DE68E",
+          "course_name": "برنامه‌سازی پیشرفته",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-106",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "CSE-101"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-106"
+        },
+        {
+          "course_id": "CRS_890FF93028BF",
+          "course_name": "ریاضیات گسسته",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-103",
+          "suggested_semester": 2,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-103"
+        },
+        {
+          "course_id": "CRS_EE1F88E8C716",
+          "course_name": "آزمایشگاه فیزیک ۲",
+          "credits": 1,
+          "course_type": "P",
+          "course_code": "SCI-110",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "SCI-107"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "SCI-110"
+        },
+        {
+          "course_id": "CRS_81DD3B74A849",
+          "course_name": "معادلات دیفرانسیل",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "SCI-103",
+          "suggested_semester": 3,
+          "prerequisites": [],
+          "corequisites": [
+            "SCI-102"
+          ],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "SCI-103"
+        },
+        {
+          "course_id": "CRS_688B4DAB1F5A",
+          "course_name": "آزمایشگاه مدارهای منطقی",
+          "credits": 1,
+          "course_type": "TE",
+          "course_code": "CSE-105",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "CSE-104"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-105"
+        },
+        {
+          "course_id": "CRS_E3DF69DC3026",
+          "course_name": "معماری کامپیوتر",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-111",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "CSE-104"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-111"
+        },
+        {
+          "course_id": "CRS_F4E65E5B86E5",
+          "course_name": "مهارت‌های نرم شغلی",
+          "credits": 2,
+          "course_type": "MEP",
+          "course_code": "CSE-150",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "CSE-106"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-150"
+        },
+        {
+          "course_id": "CRS_1104198FC9E6",
+          "course_name": "داده‌ساختارها و الگوریتم‌ها",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-110",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "CSE-103"
+          ],
+          "corequisites": [
+            "CSE-106"
+          ],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-110"
+        },
+        {
+          "course_id": "CRS_885AE25D84B1",
+          "course_name": "زبان تخصصی کامپیوتر",
+          "credits": 2,
+          "course_type": "TE",
+          "course_code": "CSE-107",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "CSE-102"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "requires_unresolved_reference": "زبان انگلیسی؛ کد در تصویر درج نشده است",
+          "base_course_code": "CSE-107"
+        },
+        {
+          "course_id": "CRS_2AFB6ECE9696",
+          "course_name": "آمار و احتمال مهندسی",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "SCI-104",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "SCI-101"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "SCI-104"
+        },
+        {
+          "course_id": "CRS_107E45CF4850",
+          "course_name": "مدارهای الکتریکی و الکترونیکی",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-108",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "SCI-103",
+            "SCI-107"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-108"
+        },
+        {
+          "course_id": "CRS_FDF9170DB53C",
+          "course_name": "آزمایشگاه معماری کامپیوتر",
+          "credits": 1,
+          "course_type": "TE",
+          "course_code": "CSE-112",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "CSE-105",
+            "CSE-111"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-112"
+        },
+        {
+          "course_id": "CRS_0D819424F4CC",
+          "course_name": "طراحی سیستم‌های دیجیتال",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-113",
+          "suggested_semester": 4,
+          "prerequisites": [],
+          "corequisites": [
+            "CSE-111"
+          ],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-113"
+        },
+        {
+          "course_id": "CRS_E5BF4B236A57",
+          "course_name": "جبر خطی",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-115",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "SCI-102"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-115"
+        },
+        {
+          "course_id": "CRS_3C3CAF71EF27",
+          "course_name": "نظریه زبان‌ها و ماشین‌ها",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-114",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "CSE-110"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-114"
+        },
+        {
+          "course_id": "CRS_5E10FC66488F",
+          "course_name": "هوش مصنوعی",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-116",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "SCI-104",
+            "CSE-110"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-116"
+        },
+        {
+          "course_id": "CRS_112D7E5CBA9B",
+          "course_name": "آزمایشگاه مدارهای الکتریکی و الکترونیکی",
+          "credits": 1,
+          "course_type": "TE",
+          "course_code": "CSE-109",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "CSE-108"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-109"
+        },
+        {
+          "course_id": "CRS_E332D4A34B76",
+          "course_name": "سیستم‌های عامل",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-118",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "CSE-110",
+            "CSE-111"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-118"
+        },
+        {
+          "course_id": "CRS_C2430EF0420D",
+          "course_name": "سیستم‌های نهفته و بی‌درنگ",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-117",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "CSE-111"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-117"
+        },
+        {
+          "course_id": "CRS_03A6A8F83901",
+          "course_name": "روش پژوهش و ارائه",
+          "credits": 2,
+          "course_type": "TE",
+          "course_code": "CSE-120",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "CSE-107"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-120"
+        },
+        {
+          "course_id": "CRS_4C50C6ABB1DC",
+          "course_name": "آزمایشگاه سیستم‌های عامل",
+          "credits": 1,
+          "course_type": "TE",
+          "course_code": "CSE-119",
+          "suggested_semester": 6,
+          "prerequisites": [
+            "CSE-118"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-119"
+        },
+        {
+          "course_id": "CRS_CD908A72E109",
+          "course_name": "شبکه‌های کامپیوتری",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-122",
+          "suggested_semester": 6,
+          "prerequisites": [],
+          "corequisites": [
+            "CSE-118"
+          ],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-122"
+        },
+        {
+          "course_id": "CRS_282BEF90DDBB",
+          "course_name": "تحلیل و طراحی نرم‌افزار",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-121",
+          "suggested_semester": 6,
+          "prerequisites": [
+            "CSE-120"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-121"
+        },
+        {
+          "course_id": "CRS_27193B7F9C5D",
+          "course_name": "آزمایشگاه شبکه‌های کامپیوتری",
+          "credits": 1,
+          "course_type": "TE",
+          "course_code": "CSE-123",
+          "suggested_semester": 7,
+          "prerequisites": [
+            "CSE-122"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-123"
+        },
+        {
+          "course_id": "CRS_1C12F738DC03",
+          "course_name": "امنیت سیستم‌های کامپیوتری",
+          "credits": 3,
+          "course_type": "TE",
+          "course_code": "CSE-124",
+          "suggested_semester": 7,
+          "prerequisites": [
+            "CSE-122"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-124"
+        },
+        {
+          "course_id": "CRS_9D467804A596",
+          "course_name": "کارآموزی",
+          "credits": 2,
+          "course_type": "MEP",
+          "course_code": "CSE-200",
+          "suggested_semester": 7,
+          "prerequisites": [
+            "CSE-120"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "base_course_code": "CSE-200"
+        },
+        {
+          "course_id": "VIS2-UNRESOLVED-PROJECT",
+          "course_type": "T",
+          "course_code": null,
+          "suggested_semester": 8,
+          "prerequisites": [
+            "CSE-120"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "existing_json_unverified_by_image",
+          "source_image": "image-2.png",
+          "course_name": "پروژه کارشناسی",
+          "credits": 3,
+          "requires_unresolved_reference": "کد درس پروژه در تصویر و داده قبلی موجود نیست",
+          "base_course_code": "UNRESOLVED-PROJECT"
+        }
+      ],
+      "slots": [
+        {
+          "suggested_semester": 1,
+          "name": "معارف اسلامی",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 4,
+          "name": "معارف اسلامی",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 5,
+          "name": "معارف اسلامی",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 6,
+          "name": "معارف اسلامی",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 7,
+          "name": "معارف اسلامی",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 8,
+          "name": "معارف اسلامی",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 1,
+          "name": "زبان انگلیسی",
+          "kind": "missing_code"
+        },
+        {
+          "suggested_semester": 1,
+          "name": "تربیت بدنی",
+          "kind": "missing_code"
+        },
+        {
+          "suggested_semester": 2,
+          "name": "ورزش ۱",
+          "kind": "missing_code"
+        },
+        {
+          "suggested_semester": 3,
+          "name": "زبان فارسی",
+          "kind": "missing_code"
+        },
+        {
+          "suggested_semester": 8,
+          "name": "دانش خانواده و جمعیت",
+          "kind": "missing_code"
+        },
+        {
+          "suggested_semester": 5,
+          "name": "تخصصی",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 6,
+          "name": "اختیاری",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 6,
+          "name": "تخصصی",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 6,
+          "name": "تخصصی",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 7,
+          "name": "اختیاری",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 7,
+          "name": "تخصصی",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 7,
+          "name": "تخصصی",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 8,
+          "name": "اختیاری",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 8,
+          "name": "تخصصی",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 8,
+          "name": "اختیاری",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 8,
+          "name": "تخصصی",
+          "kind": "unresolved_option"
+        }
+      ]
+    },
+    {
+      "chart": "1395-1400",
+      "image": "image-3.png",
+      "sha256": "ad8327a2d7659ec721eeac10195f6e931c087442fc3f93c5999549f3da420501",
+      "entry_year_from": 1395,
+      "entry_year_to": 1400,
+      "year_source": "image_title",
+      "nodes": [
+        {
+          "course_id": "CRS_5F09C77118FD",
+          "course_name": "مبانی کامپیوتر و برنامه سازی",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231478",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231478"
+        },
+        {
+          "course_id": "CRS_3D9A23C6EADD",
+          "course_name": "زبان خارجی",
+          "credits": 3,
+          "course_type": "O",
+          "course_code": "1108",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "1108"
+        },
+        {
+          "course_id": "CRS_4D8E1A81A859",
+          "course_name": "فیزیک 1",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "271477",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "271477"
+        },
+        {
+          "course_id": "CRS_EC6BE2AE497B",
+          "course_name": "ریاضی عمومی 1",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "2101",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "2101"
+        },
+        {
+          "course_id": "CRS_C7C1EF22A454",
+          "course_name": "زبان فارسی",
+          "credits": 3,
+          "course_type": "O",
+          "course_code": "1107",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "1107"
+        },
+        {
+          "course_id": "VIS3-1109",
+          "course_type": "O",
+          "course_code": "1109",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "course_name": "تربیت بدنی ۱",
+          "credits": 1,
+          "base_course_code": "1109"
+        },
+        {
+          "course_id": "CRS_AA3D74F3CDFA",
+          "course_name": "اندیشه اسلامی 1 (مبدأ و معاد)",
+          "credits": 2,
+          "course_type": "O",
+          "course_code": "1101",
+          "suggested_semester": 1,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "1101"
+        },
+        {
+          "course_id": "CRS_37B1150DE68E",
+          "course_name": "برنامه سازی پیشرفته",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231458",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "231478"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231458"
+        },
+        {
+          "course_id": "CRS_890FF93028BF",
+          "course_name": "ریاضیات گسسته",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231457",
+          "suggested_semester": 2,
+          "prerequisites": [],
+          "corequisites": [
+            "2101",
+            "231478"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231457"
+        },
+        {
+          "course_id": "CRS_ACB8471FAC91",
+          "course_name": "مدارهای منطقی",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231460",
+          "suggested_semester": 2,
+          "prerequisites": [],
+          "corequisites": [
+            "231457"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231460"
+        },
+        {
+          "course_id": "CRS_760F4B7A0785",
+          "course_name": "فیزیک 2",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "231480",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "271477"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231480"
+        },
+        {
+          "course_id": "CRS_01AF92175286",
+          "course_name": "ریاضی عمومی 2",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "2102",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "2101"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "2102"
+        },
+        {
+          "course_id": "CRS_36A411F3F922",
+          "course_name": "کارگاه کامپیوتر",
+          "credits": 1,
+          "course_type": "P",
+          "course_code": "271464",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "231478"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "271464"
+        },
+        {
+          "course_id": "CRS_161266772774",
+          "course_name": "اندیشه اسلامی 2 (نبوت و امامت)",
+          "credits": 2,
+          "course_type": "O",
+          "course_code": "1102",
+          "suggested_semester": 2,
+          "prerequisites": [
+            "1101"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "1102"
+        },
+        {
+          "course_id": "CRS_6C1F7D4E0E7B",
+          "course_name": "زبان تخصصی",
+          "credits": 2,
+          "course_type": "A",
+          "course_code": "231462",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "1108"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231462"
+        },
+        {
+          "course_id": "CRS_7E5CA70C34A3",
+          "course_name": "ساختمان های داده",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231459",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "231457",
+            "231458"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231459"
+        },
+        {
+          "course_id": "CRS_E3DF69DC3026",
+          "course_name": "معماری کامپیوتر",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231465",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "231460"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231465"
+        },
+        {
+          "course_id": "CRS_9402587D7FCA",
+          "course_name": "آزمایشگاه مدارهای منطقی و معماری کامپیوتر",
+          "credits": 1,
+          "course_type": "A",
+          "course_code": "231475",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "231460"
+          ],
+          "corequisites": [
+            "231465"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231475"
+        },
+        {
+          "course_id": "CRS_2AFB6ECE9696",
+          "course_name": "آمار و احتمال مهندسی",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "271463",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "2102"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "271463"
+        },
+        {
+          "course_id": "CRS_EE1F88E8C716",
+          "course_name": "آزمایشگاه فیزیک 2",
+          "credits": 1,
+          "course_type": "P",
+          "course_code": "231484",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "231480"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231484"
+        },
+        {
+          "course_id": "CRS_81DD3B74A849",
+          "course_name": "معادلات دیفرانسیل",
+          "credits": 3,
+          "course_type": "P",
+          "course_code": "2135",
+          "suggested_semester": 3,
+          "prerequisites": [
+            "2101"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "2135"
+        },
+        {
+          "course_id": "VIS3-1103",
+          "course_type": "O",
+          "course_code": "1103",
+          "suggested_semester": 3,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "course_name": "اخلاق و تربیت اسلامی",
+          "credits": 2,
+          "base_course_code": "1103"
+        },
+        {
+          "course_id": "CRS_C84172E75E62",
+          "course_name": "طراحی الگوریتم ها",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231467",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "231459"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231467"
+        },
+        {
+          "course_id": "CRS_09AE8C9A3F8F",
+          "course_name": "تحلیل و طراحی سیستم ها",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "291458",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "231458"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "291458"
+        },
+        {
+          "course_id": "CRS_E332D4A34B76",
+          "course_name": "سیستم های عامل",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231466",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "231459",
+            "231465"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231466"
+        },
+        {
+          "course_id": "CRS_40DB4ADD6584",
+          "course_name": "ریاضیات مهندسی",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231464",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "2102",
+            "2135"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231464"
+        },
+        {
+          "course_id": "CRS_96696417CF3E",
+          "course_name": "مدارهای الکتریکی",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231456",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "2135"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231456"
+        },
+        {
+          "course_id": "CRS_5A43B1809AD0",
+          "course_name": "ورزش 1",
+          "credits": 1,
+          "course_type": "O",
+          "course_code": "271478",
+          "suggested_semester": 4,
+          "prerequisites": [
+            "1109"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "271478"
+        },
+        {
+          "course_id": "CRS_972360A7E4E8",
+          "course_name": "روش پژوهش و ارائه",
+          "credits": 2,
+          "course_type": "A",
+          "course_code": "231463",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "231462"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231463"
+        },
+        {
+          "course_id": "CRS_A2D0C0093A4E",
+          "course_name": "مهندسی نرم افزار",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "291494",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "291458"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "291494"
+        },
+        {
+          "course_id": "CRS_02C9572441A7",
+          "course_name": "پایگاه داده ها",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "291492",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "291458",
+            "231459"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "291492"
+        },
+        {
+          "course_id": "CRS_3C3CAF71EF27",
+          "course_name": "نظریه زبان ها و ماشین ها",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231461",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "231459"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231461"
+        },
+        {
+          "course_id": "CRS_F23DFD7AE37B",
+          "course_name": "ریزپردازنده و زبان اسمبلی",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231470",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "231465"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231470"
+        },
+        {
+          "course_id": "CRS_CD908A72E109",
+          "course_name": "شبکه های کامپیوتری",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231471",
+          "suggested_semester": 5,
+          "prerequisites": [
+            "231466"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231471"
+        },
+        {
+          "course_id": "CRS_4C50C6ABB1DC",
+          "course_name": "آزمایشگاه سیستم های عامل",
+          "credits": 1,
+          "course_type": "A",
+          "course_code": "231474",
+          "suggested_semester": 5,
+          "prerequisites": [],
+          "corequisites": [
+            "231466"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231474"
+        },
+        {
+          "course_id": "VIS3-1105",
+          "course_type": "O",
+          "course_code": "1105",
+          "suggested_semester": 6,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "course_name": "تاریخ اسلام",
+          "credits": 2,
+          "base_course_code": "1105"
+        },
+        {
+          "course_id": "CRS_A2B2B2D3B7F5",
+          "course_name": "مباحث ویژه 1",
+          "credits": 3,
+          "course_type": "EK",
+          "course_code": "291470",
+          "suggested_semester": 6,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "291470"
+        },
+        {
+          "course_id": "CRS_8FC23E19F41A",
+          "course_name": "اصول طراحی کامپایلر",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231473",
+          "suggested_semester": 6,
+          "prerequisites": [
+            "231461"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231473"
+        },
+        {
+          "course_id": "CRS_2A7CEE5ED400",
+          "course_name": "هوش مصنوعی و سیستم‌های خبره",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231472",
+          "suggested_semester": 6,
+          "prerequisites": [
+            "231459"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231472"
+        },
+        {
+          "course_id": "CRS_A05FD49F581E",
+          "course_name": "سیگنال ها و سیستم ها",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231469",
+          "suggested_semester": 6,
+          "prerequisites": [
+            "231464"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231469"
+        },
+        {
+          "course_id": "CRS_5AA0506605C9",
+          "course_name": "طراحی کامپیوتری سیستم های دیجیتال",
+          "credits": 3,
+          "course_type": "A",
+          "course_code": "231468",
+          "suggested_semester": 6,
+          "prerequisites": [
+            "231465"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231468"
+        },
+        {
+          "course_id": "CRS_06AA453E2757",
+          "course_name": "آزمایشگاه ریزپردازنده",
+          "credits": 1,
+          "course_type": "A",
+          "course_code": "231476",
+          "suggested_semester": 6,
+          "prerequisites": [
+            "231470"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231476"
+        },
+        {
+          "course_id": "CRS_27193B7F9C5D",
+          "course_name": "آزمایشگاه شبکه های کامپیوتری",
+          "credits": 1,
+          "course_type": "A",
+          "course_code": "231479",
+          "suggested_semester": 6,
+          "prerequisites": [],
+          "corequisites": [
+            "231471"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "231479"
+        },
+        {
+          "course_id": "CRS_79DFEA4D15BB",
+          "course_name": "کارآموزی",
+          "credits": 1,
+          "course_type": "T",
+          "course_code": "291468",
+          "suggested_semester": 6,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "suggested_period": "summer_after_6",
+          "unresolved_credit_condition": "اخذ ۸۰ واحد طبق تصویر؛ تعریف اخذ باید تأیید شود",
+          "base_course_code": "291468"
+        },
+        {
+          "course_id": "CRS_7C23EDCFB814",
+          "course_name": "آزمایشگاه مهندسی نرم افزار",
+          "credits": 1,
+          "course_type": "EK",
+          "course_code": "291474",
+          "suggested_semester": 7,
+          "prerequisites": [],
+          "corequisites": [
+            "291458"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "291474"
+        },
+        {
+          "course_id": "CRS_89E1E39AAEE7",
+          "course_name": "آزمایشگاه پایگاه داده",
+          "credits": 1,
+          "course_type": "EK",
+          "course_code": "261479",
+          "suggested_semester": 7,
+          "prerequisites": [],
+          "corequisites": [
+            "291492"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "261479"
+        },
+        {
+          "course_id": "CRS_5159817F45E6",
+          "course_name": "طراحی زبان های برنامه سازی",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "291493",
+          "suggested_semester": 7,
+          "prerequisites": [
+            "231473"
+          ],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "291493"
+        },
+        {
+          "course_id": "CRS_E2356A22462B",
+          "course_name": "مهندسی اینترنت",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "291495",
+          "suggested_semester": 7,
+          "prerequisites": [
+            "231471"
+          ],
+          "corequisites": [
+            "291492"
+          ],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "291495"
+        },
+        {
+          "course_id": "CRS_3B269F85C223",
+          "course_name": "دانش خانواده و جمعیت",
+          "credits": 2,
+          "course_type": "O",
+          "course_code": "1124",
+          "suggested_semester": 7,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "1124"
+        },
+        {
+          "course_id": "CRS_EE626072DECC",
+          "course_name": "پروژه نرم افزار",
+          "credits": 3,
+          "course_type": "T",
+          "course_code": "291496",
+          "suggested_semester": 8,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "unresolved_credit_condition": "اخذ ۱۰۰ واحد طبق تصویر؛ تعریف اخذ باید تأیید شود",
+          "base_course_code": "291496"
+        },
+        {
+          "course_id": "CRS_9CCFC40A1A4A",
+          "course_name": "مباحث ویژه 2",
+          "credits": 3,
+          "course_type": "EK",
+          "course_code": "291471",
+          "suggested_semester": 8,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "base_course_code": "291471"
+        },
+        {
+          "course_id": "CRS_627976B53B10",
+          "course_name": "آزمایشگاه ابزارهای طراحی با کمک کامپیوتر",
+          "credits": 1,
+          "course_type": "T",
+          "course_code": "291478",
+          "suggested_semester": 8,
+          "prerequisites": [
+            "231468"
+          ],
+          "corequisites": [],
+          "relationships_complete": false,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "review_reason": "کد تصویر 291478 با داده قبلی 291503 متفاوت است؛ رابطه آزمایشگاه باید بازبینی شود",
+          "base_course_code": "291503"
+        },
+        {
+          "course_id": "VIS3-1106",
+          "course_type": "O",
+          "course_code": "1106",
+          "suggested_semester": 8,
+          "prerequisites": [],
+          "corequisites": [],
+          "relationships_complete": true,
+          "code_source": "image",
+          "source_image": "image-3.png",
+          "course_name": "آشنایی با منابع اسلامی",
+          "credits": 2,
+          "base_course_code": "1106"
+        }
+      ],
+      "slots": [
+        {
+          "suggested_semester": 4,
+          "name": "انقلاب اسلامی / اندیشه سیاسی امام",
+          "kind": "alternative",
+          "course_codes": []
+        },
+        {
+          "suggested_semester": 7,
+          "name": "درس تمرکز 1",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 7,
+          "name": "درس تمرکز 2",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 8,
+          "name": "درس تمرکز 3",
+          "kind": "unresolved_option"
+        },
+        {
+          "suggested_semester": 8,
+          "name": "درس تمرکز 4",
+          "kind": "unresolved_option"
+        }
+      ]
+    }
+  ]
+}

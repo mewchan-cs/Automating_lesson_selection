@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "student": {
+    "student_id": "TEST-0001",
+    "full_name": "دانشجوی آزمایشی",
+    "major": "مهندسی کامپیوتر"
+  },
+  "semesters": [
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "courses": [
+        {
+          "course_code": "2101",
+          "course_name": "ریاضی 1",
+          "credits": 3,
+          "grade": 9.75
+        },
+        {
+          "course_code": "30006",
+          "course_name": "ریاضیات گسسته",
+          "credits": 3,
+          "grade": null
+        },
+        {
+          "course_code": "X-NOT-IN-CHART",
+          "course_name": "درس آزمایشی",
+          "credits": 2,
+          "grade": 11.0
+        }
+      ],
+      "reported_summary": {
+        "term_attempted_credits": 8,
+        "term_gpa": 11.0,
+        "cumulative_passed_credits": 2,
+        "cumulative_gpa": 11.0
+      }
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "courses": [
+        {
+          "course_code": "2101",
+          "course_name": "ریاضی ۱",
+          "credits": 3,
+          "grade": 17.5
+        }
+      ],
+      "reported_summary": {
+        "term_attempted_credits": 3,
+        "cumulative_passed_credits": 5,
+        "cumulative_gpa": 15.0
+      }
+    }
+  ],
+  "extraction": {
+    "semester_count": 2,
+    "attempt_count": 4,
+    "warnings": []
+  }
+}

@@ -1,0 +1,16 @@
+const fs = require('node:fs'), path = require('node:path'), vm = require('node:vm'), assert = require('node:assert/strict');
+const source = fs.readFileSync(path.join(__dirname,'../extension/popup.js'),'utf8');
+const fn = source.slice(source.indexOf('function renderRecommendations('),source.indexOf('async function extractFromOpenTab('));
+const node = () => ({children:[],textContent:'',append(child){this.children.push(child);},replaceChildren(){this.children=[];}});
+const elements = {priorityCourses:node(),otherCourses:node(),recommendationNotice:node()};
+const context = vm.createContext({$:id=>elements[id],document:{createElement:node}});
+vm.runInContext(fn,context);
+context.data = {priority:[{course_name:'ریاضی عمومی ۱',course_code:'2101',credits:3,private_note:'SHOULD NOT DISPLAY'}],other:[{course_name:'<script>آزمایش</script>',course_code:'TEST'}],notice:'نمونه'};
+vm.runInContext('renderRecommendations(data)',context);
+assert.equal(elements.priorityCourses.children[0].textContent,'ریاضی عمومی ۱ — 2101');
+assert.equal(elements.otherCourses.children[0].textContent,'<script>آزمایش</script> — TEST');
+assert.equal(elements.priorityCourses.children.length,1);
+vm.runInContext('renderRecommendations({priority:[],other:[]})',context);
+assert.equal(elements.priorityCourses.children.length,1);
+assert.equal(elements.otherCourses.children.length,1);
+console.log('PASS: concise name/code rendering, text-only content, empty-state replacement');

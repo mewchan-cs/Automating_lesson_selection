@@ -1,0 +1,5038 @@
+{
+  "schema_version": "1.0",
+  "report_type": "CONSERVATIVE_MVP_AUDIT",
+  "curriculum": "1401-1402",
+  "student": {
+    "student_id": "VISUAL-DEMO",
+    "full_name": null,
+    "major": null
+  },
+  "overview": {
+    "semester_count": 1,
+    "course_attempts": 0,
+    "attempted_credits_from_rows": 0.0,
+    "latest_reported_passed_credits": null,
+    "latest_reported_gpa": null,
+    "observed_grades_at_least_10": 0,
+    "observed_grades_below_10": 0,
+    "observed_missing_grades": 0,
+    "matched_attempts": 0,
+    "unmatched_attempts": 0,
+    "repeated_course_count": 0
+  },
+  "semesters": [
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "attempt_count": 0,
+      "credits_from_rows": 0.0,
+      "reported_attempted_credits": null,
+      "reported_passed_credits": null,
+      "reported_term_gpa": null,
+      "reported_cumulative_gpa": null,
+      "reported_cumulative_passed_credits": null
+    }
+  ],
+  "unmatched_courses": [],
+  "ambiguous_courses": [],
+  "repeated_courses": [],
+  "course_attempts": [],
+  "warnings": [
+    "قوانین قبولی، مردودی، هم‌نیازی، سقف واحد و فارغ‌التحصیلی هنوز ثبت نشده‌اند؛ هیچ حکم آموزشی صادر نشده است."
+  ],
+  "limitations": "آستانه نمره ۱۰ فقط یک دسته‌بندی آماری است؛ به معنی قبولی یا جواز اخذ درس نیست.",
+  "rules_snapshot": {},
+  "remaining": {
+    "courses": [
+      {
+        "course_id": "CRS_AA3D74F3CDFA",
+        "course_code": "1101",
+        "course_name": "اندیشه اسلامی ۱ (مبدأ و معاد)",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | مبانی نظری اسلام",
+        "source_row": 1,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "1101",
+            "course_id": "CRS_AA3D74F3CDFA",
+            "course_name": "اندیشه اسلامی ۱ (مبدأ و معاد)",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "مبانی نظری اسلام",
+            "source_category": "عمومی | مبانی نظری اسلام",
+            "source_row": 1,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 1
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 1,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_161266772774",
+        "course_code": "1102",
+        "course_name": "اندیشه اسلامی ۲ (نبوت و امامت)",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | مبانی نظری اسلام",
+        "source_row": 2,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "1102",
+            "course_id": "CRS_161266772774",
+            "course_name": "اندیشه اسلامی ۲ (نبوت و امامت)",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": "1101",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "مبانی نظری اسلام",
+            "source_category": "عمومی | مبانی نظری اسلام",
+            "source_row": 2,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": "اندیشه اسلامی ۱ (مبدأ و معاد) (1101)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 3
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 2,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_F0D89C9CA9D4",
+        "course_code": "1154",
+        "course_name": "انسان در اسلام",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | مبانی نظری اسلام",
+        "source_row": 3,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "1154",
+            "course_id": "CRS_F0D89C9CA9D4",
+            "course_name": "انسان در اسلام",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "مبانی نظری اسلام",
+            "source_category": "عمومی | مبانی نظری اسلام",
+            "source_row": 3,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 3,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_01ED4E768D8B",
+        "course_code": "272440",
+        "course_name": "حقوق اجتماعی و سیاسی در اسلام",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | مبانی نظری اسلام",
+        "source_row": 4,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "272440",
+            "course_id": "CRS_01ED4E768D8B",
+            "course_name": "حقوق اجتماعی و سیاسی در اسلام",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "مبانی نظری اسلام",
+            "source_category": "عمومی | مبانی نظری اسلام",
+            "source_row": 4,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 4,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_51BA6018FD6D",
+        "course_code": "272455",
+        "course_name": "فلسفه اخلاق (با تکیه بر مباحث تربیتی)",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | اخلاق در اسلام",
+        "source_row": 5,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "272455",
+            "course_id": "CRS_51BA6018FD6D",
+            "course_name": "فلسفه اخلاق (با تکیه بر مباحث تربیتی)",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "اخلاق در اسلام",
+            "source_category": "عمومی | اخلاق در اسلام",
+            "source_row": 5,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 5,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_0218AAEF4233",
+        "course_code": "272456",
+        "course_name": "اخلاق اسلامی (مبانی و مفاهیم)",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | اخلاق در اسلام",
+        "source_row": 6,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "272456",
+            "course_id": "CRS_0218AAEF4233",
+            "course_name": "اخلاق اسلامی (مبانی و مفاهیم)",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "اخلاق در اسلام",
+            "source_category": "عمومی | اخلاق در اسلام",
+            "source_row": 6,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 6,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_0A259B9B17F8",
+        "course_code": "272479",
+        "course_name": "آیین زندگی (اخلاق کاربردی)",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | اخلاق در اسلام",
+        "source_row": 7,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "272479",
+            "course_id": "CRS_0A259B9B17F8",
+            "course_name": "آیین زندگی (اخلاق کاربردی)",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "اخلاق در اسلام",
+            "source_category": "عمومی | اخلاق در اسلام",
+            "source_row": 7,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 4
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 7,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_37A21906C2A6",
+        "course_code": "272457",
+        "course_name": "عرفان عملی در اسلام",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | اخلاق در اسلام",
+        "source_row": 8,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "272457",
+            "course_id": "CRS_37A21906C2A6",
+            "course_name": "عرفان عملی در اسلام",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "اخلاق در اسلام",
+            "source_category": "عمومی | اخلاق در اسلام",
+            "source_row": 8,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 8,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_14EAA502DE73",
+        "course_code": "272446",
+        "course_name": "اخلاق مهندسی",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | اخلاق در اسلام",
+        "source_row": 9,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "272446",
+            "course_id": "CRS_14EAA502DE73",
+            "course_name": "اخلاق مهندسی",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "اخلاق در اسلام",
+            "source_category": "عمومی | اخلاق در اسلام",
+            "source_row": 9,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 9,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_8BA1A6A99C85",
+        "course_code": "272481",
+        "course_name": "انقلاب اسلامی ایران",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | انقلاب اسلامی",
+        "source_row": 10,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "272481",
+            "course_id": "CRS_8BA1A6A99C85",
+            "course_name": "انقلاب اسلامی ایران",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "انقلاب اسلامی",
+            "source_category": "عمومی | انقلاب اسلامی",
+            "source_row": 10,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 10,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_32379CB41C65",
+        "course_code": "272458",
+        "course_name": "آشنایی با قانون اساسی جمهوری اسلامی ایران",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | انقلاب اسلامی",
+        "source_row": 11,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "272458",
+            "course_id": "CRS_32379CB41C65",
+            "course_name": "آشنایی با قانون اساسی جمهوری اسلامی ایران",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "انقلاب اسلامی",
+            "source_category": "عمومی | انقلاب اسلامی",
+            "source_row": 11,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 11,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_AA5925A9FBCC",
+        "course_code": "272459",
+        "course_name": "اندیشه سیاسی امام خمینی (ره)",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | انقلاب اسلامی",
+        "source_row": 12,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "272459",
+            "course_id": "CRS_AA5925A9FBCC",
+            "course_name": "اندیشه سیاسی امام خمینی (ره)",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "انقلاب اسلامی",
+            "source_category": "عمومی | انقلاب اسلامی",
+            "source_row": 12,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 12,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_E36983CECDBC",
+        "course_code": "272461",
+        "course_name": "تاریخ امامت",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | تاریخ و تمدن اسلامی",
+        "source_row": 13,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "272461",
+            "course_id": "CRS_E36983CECDBC",
+            "course_name": "تاریخ امامت",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "تاریخ و تمدن اسلامی",
+            "source_category": "عمومی | تاریخ و تمدن اسلامی",
+            "source_row": 13,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 13,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_4172591D4050",
+        "course_code": "272460",
+        "course_name": "تاریخ فرهنگ و تمدن اسلامی",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | تاریخ و تمدن اسلامی",
+        "source_row": 14,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "272460",
+            "course_id": "CRS_4172591D4050",
+            "course_name": "تاریخ فرهنگ و تمدن اسلامی",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "تاریخ و تمدن اسلامی",
+            "source_category": "عمومی | تاریخ و تمدن اسلامی",
+            "source_row": 14,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 14,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_6922B6E70B7B",
+        "course_code": "272483",
+        "course_name": "تاریخ تحلیلی صدر اسلام",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | تاریخ و تمدن اسلامی",
+        "source_row": 15,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "272483",
+            "course_id": "CRS_6922B6E70B7B",
+            "course_name": "تاریخ تحلیلی صدر اسلام",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "تاریخ و تمدن اسلامی",
+            "source_category": "عمومی | تاریخ و تمدن اسلامی",
+            "source_row": 15,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 15,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_0838533DB9BF",
+        "course_code": "1139",
+        "course_name": "تفسیر موضوعی قرآن",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | آشنایی با منابع اسلامی",
+        "source_row": 16,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "1139",
+            "course_id": "CRS_0838533DB9BF",
+            "course_name": "تفسیر موضوعی قرآن",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "آشنایی با منابع اسلامی",
+            "source_category": "عمومی | آشنایی با منابع اسلامی",
+            "source_row": 16,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 7
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 16,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_11FF137464C4",
+        "course_code": "272439",
+        "course_name": "تفسیر موضوعی نهج‌البلاغه",
+        "credits": 2,
+        "course_type": "O",
+        "source_category": "عمومی | آشنایی با منابع اسلامی",
+        "source_row": 17,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "272439",
+            "course_id": "CRS_11FF137464C4",
+            "course_name": "تفسیر موضوعی نهج‌البلاغه",
+            "credits": 2,
+            "course_type": "O",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "آشنایی با منابع اسلامی",
+            "source_category": "عمومی | آشنایی با منابع اسلامی",
+            "source_row": 17,
+            "notes": "گزینه گروه معارف؛ تمام گزینه‌های گروه الزامی نیستند",
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 17,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_3B269F85C223",
+        "course_code": "1124",
+        "course_name": "دانش خانواده و جمعیت",
+        "credits": 2,
+        "course_type": "OE",
+        "source_category": "عمومی | عمومی الزامی",
+        "source_row": 18,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "1124",
+            "course_id": "CRS_3B269F85C223",
+            "course_name": "دانش خانواده و جمعیت",
+            "credits": 2,
+            "course_type": "OE",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "عمومی الزامی",
+            "source_category": "عمومی | عمومی الزامی",
+            "source_row": 18,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 8
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 18,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_C7C1EF22A454",
+        "course_code": "1107",
+        "course_name": "زبان فارسی",
+        "credits": 3,
+        "course_type": "OE",
+        "source_category": "عمومی | عمومی الزامی",
+        "source_row": 19,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "1107",
+            "course_id": "CRS_C7C1EF22A454",
+            "course_name": "زبان فارسی",
+            "credits": 3,
+            "course_type": "OE",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "عمومی الزامی",
+            "source_category": "عمومی | عمومی الزامی",
+            "source_row": 19,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 1
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 19,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_F11366438FA2",
+        "course_code": "30001",
+        "course_name": "زبان انگلیسی ۱",
+        "credits": 1,
+        "course_type": "OE",
+        "source_category": "عمومی | عمومی الزامی",
+        "source_row": 20,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30001",
+            "course_id": "CRS_F11366438FA2",
+            "course_name": "زبان انگلیسی ۱",
+            "credits": 1,
+            "course_type": "OE",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "عمومی الزامی",
+            "source_category": "عمومی | عمومی الزامی",
+            "source_row": 20,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 1
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 20,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_2C0C23D8F377",
+        "course_code": "30002",
+        "course_name": "زبان انگلیسی ۲",
+        "credits": 2,
+        "course_type": "OE",
+        "source_category": "عمومی | عمومی الزامی",
+        "source_row": 21,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30002",
+            "course_id": "CRS_2C0C23D8F377",
+            "course_name": "زبان انگلیسی ۲",
+            "credits": 2,
+            "course_type": "OE",
+            "prerequisites": "30001",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "عمومی الزامی",
+            "source_category": "عمومی | عمومی الزامی",
+            "source_row": 21,
+            "notes": null,
+            "prerequisites_source": "زبان انگلیسی ۱ (30001)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 2
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 21,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_6C0C48A919F4",
+        "course_code": "1109",
+        "course_name": "تربیت بدنی ۱",
+        "credits": 1,
+        "course_type": "OE",
+        "source_category": "عمومی | عمومی الزامی",
+        "source_row": 22,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "1109",
+            "course_id": "CRS_6C0C48A919F4",
+            "course_name": "تربیت بدنی ۱",
+            "credits": 1,
+            "course_type": "OE",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "عمومی الزامی",
+            "source_category": "عمومی | عمومی الزامی",
+            "source_row": 22,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 1
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 22,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_83719EE82C75",
+        "course_code": "1110",
+        "course_name": "تربیت بدنی ۲",
+        "credits": 1,
+        "course_type": "OE",
+        "source_category": "عمومی | عمومی الزامی",
+        "source_row": 23,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "1110",
+            "course_id": "CRS_83719EE82C75",
+            "course_name": "تربیت بدنی ۲",
+            "credits": 1,
+            "course_type": "OE",
+            "prerequisites": "1109",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "عمومی الزامی",
+            "source_category": "عمومی | عمومی الزامی",
+            "source_row": 23,
+            "notes": null,
+            "prerequisites_source": "تربیت بدنی ۱ (1109)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 2
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 23,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_EC6BE2AE497B",
+        "course_code": "2101",
+        "course_name": "ریاضی عمومی 1",
+        "credits": 3,
+        "course_type": "P",
+        "source_category": "پایه",
+        "source_row": 24,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "2101",
+            "course_id": "CRS_EC6BE2AE497B",
+            "course_name": "ریاضی عمومی 1",
+            "credits": 3,
+            "course_type": "P",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "پایه",
+            "source_row": 24,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 1
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 24,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_01AF92175286",
+        "course_code": "2102",
+        "course_name": "ریاضی عمومی 2",
+        "credits": 3,
+        "course_type": "P",
+        "source_category": "پایه",
+        "source_row": 25,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "2102",
+            "course_id": "CRS_01AF92175286",
+            "course_name": "ریاضی عمومی 2",
+            "credits": 3,
+            "course_type": "P",
+            "prerequisites": "2101",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "پایه",
+            "source_row": 25,
+            "notes": null,
+            "prerequisites_source": "ریاضی عمومی 1 (2101)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 2
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 25,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_81DD3B74A849",
+        "course_code": "2135",
+        "course_name": "معادلات دیفرانسیل",
+        "credits": 3,
+        "course_type": "P",
+        "source_category": "پایه",
+        "source_row": 26,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "2135",
+            "course_id": "CRS_81DD3B74A849",
+            "course_name": "معادلات دیفرانسیل",
+            "credits": 3,
+            "course_type": "P",
+            "prerequisites": "2101",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "پایه",
+            "source_row": 26,
+            "notes": null,
+            "prerequisites_source": "ریاضی عمومی 1 (2101)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 3
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 26,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_4D8E1A81A859",
+        "course_code": "271477",
+        "course_name": "فیزیک ۱",
+        "credits": 3,
+        "course_type": "P",
+        "source_category": "پایه",
+        "source_row": 27,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "271477",
+            "course_id": "CRS_4D8E1A81A859",
+            "course_name": "فیزیک ۱",
+            "credits": 3,
+            "course_type": "P",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "پایه",
+            "source_row": 27,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 1
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 27,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_760F4B7A0785",
+        "course_code": "231480",
+        "course_name": "فیزیک ۲",
+        "credits": 3,
+        "course_type": "P",
+        "source_category": "پایه",
+        "source_row": 28,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "231480",
+            "course_id": "CRS_760F4B7A0785",
+            "course_name": "فیزیک ۲",
+            "credits": 3,
+            "course_type": "P",
+            "prerequisites": "271477",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "پایه",
+            "source_row": 28,
+            "notes": null,
+            "prerequisites_source": "ریاضی عمومی 1 (2101)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 2
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 28,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_2AFB6ECE9696",
+        "course_code": "271463",
+        "course_name": "آمار و احتمال مهندسی",
+        "credits": 3,
+        "course_type": "P",
+        "source_category": "پایه",
+        "source_row": 29,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "271463",
+            "course_id": "CRS_2AFB6ECE9696",
+            "course_name": "آمار و احتمال مهندسی",
+            "credits": 3,
+            "course_type": "P",
+            "prerequisites": "2102",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "پایه",
+            "source_row": 29,
+            "notes": null,
+            "prerequisites_source": "ریاضی عمومی 2 (2102)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 4
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 29,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_EE1F88E8C716",
+        "course_code": "231484",
+        "course_name": "آزمایشگاه فیزیک ۲",
+        "credits": 1,
+        "course_type": "P",
+        "source_category": "پایه",
+        "source_row": 30,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "231484",
+            "course_id": "CRS_EE1F88E8C716",
+            "course_name": "آزمایشگاه فیزیک ۲",
+            "credits": 1,
+            "course_type": "P",
+            "prerequisites": "231480",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "پایه",
+            "source_row": 30,
+            "notes": null,
+            "prerequisites_source": "فیزیک ۲ (231480)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 3
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 30,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_FB72FAA0E398",
+        "course_code": "30003",
+        "course_name": "کارگاه عمومی یا کارگاه برق",
+        "credits": 1,
+        "course_type": "P",
+        "source_category": "پایه",
+        "source_row": 31,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30003",
+            "course_id": "CRS_FB72FAA0E398",
+            "course_name": "کارگاه عمومی یا کارگاه برق",
+            "credits": 1,
+            "course_type": "P",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "پایه",
+            "source_row": 31,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 2
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 31,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_5F09C77118FD",
+        "course_code": "30004",
+        "course_name": "مبانی کامپیوتر و برنامه‌نویسی",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 32,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30004",
+            "course_id": "CRS_5F09C77118FD",
+            "course_name": "مبانی کامپیوتر و برنامه‌نویسی",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": null,
+            "corequisites": "30005",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 32,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": "کارگاه مبانی کامپیوتر و برنامه‌نویسی (30005)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 1
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 32,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_7677167740A6",
+        "course_code": "30005",
+        "course_name": "کارگاه مبانی کامپیوتر و برنامه‌نویسی",
+        "credits": 1,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 33,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30005",
+            "course_id": "CRS_7677167740A6",
+            "course_name": "کارگاه مبانی کامپیوتر و برنامه‌نویسی",
+            "credits": 1,
+            "course_type": "A",
+            "prerequisites": null,
+            "corequisites": "30004",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 33,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": "مبانی کامپیوتر و برنامه‌نویسی (30004)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 1
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 33,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_890FF93028BF",
+        "course_code": "30006",
+        "course_name": "ریاضیات گسسته",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 34,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30006",
+            "course_id": "CRS_890FF93028BF",
+            "course_name": "ریاضیات گسسته",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": "2101, 30004",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 34,
+            "notes": null,
+            "prerequisites_source": "ریاضی عمومی 1 (2101)، مبانی کامپیوتر و برنامه‌نویسی (30004)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 2
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 34,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_37B1150DE68E",
+        "course_code": "30007",
+        "course_name": "برنامه نویسی پیشرفته",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 35,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30007",
+            "course_id": "CRS_37B1150DE68E",
+            "course_name": "برنامه نویسی پیشرفته",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": "30004",
+            "corequisites": "30008",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 35,
+            "notes": null,
+            "prerequisites_source": "مبانی کامپیوتر و برنامه‌نویسی (30004)",
+            "corequisites_source": "کارگاه برنامه‌نویسی پیشرفته (30008)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 2
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 35,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_71DD849206C5",
+        "course_code": "30008",
+        "course_name": "کارگاه برنامه‌نویسی پیشرفته",
+        "credits": 1,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 36,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30008",
+            "course_id": "CRS_71DD849206C5",
+            "course_name": "کارگاه برنامه‌نویسی پیشرفته",
+            "credits": 1,
+            "course_type": "A",
+            "prerequisites": null,
+            "corequisites": "30007",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 36,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": "برنامه نویسی پیشرفته (30007)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 2
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 36,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_ACB8471FAC91",
+        "course_code": "30009",
+        "course_name": "مدارهای منطقی",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 37,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30009",
+            "course_id": "CRS_ACB8471FAC91",
+            "course_name": "مدارهای منطقی",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": null,
+            "corequisites": "30006, 30010",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 37,
+            "notes": "در جدول اصلی صفحه ۵ ریاضیات گسسته در ستون هم‌نیاز درج شده است.",
+            "prerequisites_source": null,
+            "corequisites_source": "ریاضیات گسسته (30006)، آزمایشگاه مدارهای منطقی (30010)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 3
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 37,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_688B4DAB1F5A",
+        "course_code": "30010",
+        "course_name": "آزمایشگاه مدارهای منطقی",
+        "credits": 1,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 38,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30010",
+            "course_id": "CRS_688B4DAB1F5A",
+            "course_name": "آزمایشگاه مدارهای منطقی",
+            "credits": 1,
+            "course_type": "A",
+            "prerequisites": null,
+            "corequisites": "30009",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 38,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": "مدارهای منطقی (30009)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 3
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 38,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_10F05F832F99",
+        "course_code": "30011",
+        "course_name": "ساختمان داده‌ها و الگوریتم‌ها",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 39,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30011",
+            "course_id": "CRS_10F05F832F99",
+            "course_name": "ساختمان داده‌ها و الگوریتم‌ها",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": "30006, 30007",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 39,
+            "notes": null,
+            "prerequisites_source": "ریاضیات گسسته (30006)، برنامه نویسی پیشرفته (30007)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 3
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 39,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_107E45CF4850",
+        "course_code": "30012",
+        "course_name": "مدارهای الکتریکی و الکترونیکی",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 40,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30012",
+            "course_id": "CRS_107E45CF4850",
+            "course_name": "مدارهای الکتریکی و الکترونیکی",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": "231480",
+            "corequisites": "2135, 30013",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 40,
+            "notes": null,
+            "prerequisites_source": "فیزیک ۲ (231480)",
+            "corequisites_source": "معادلات دیفرانسیل (2135)، آزمایشگاه مدارهای الکتریکی و الکترونیکی (30013)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 3
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 40,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_112D7E5CBA9B",
+        "course_code": "30013",
+        "course_name": "آزمایشگاه مدارهای الکتریکی و الکترونیکی",
+        "credits": 1,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 41,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30013",
+            "course_id": "CRS_112D7E5CBA9B",
+            "course_name": "آزمایشگاه مدارهای الکتریکی و الکترونیکی",
+            "credits": 1,
+            "course_type": "A",
+            "prerequisites": null,
+            "corequisites": "30012",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 41,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": "مدارهای الکتریکی و الکترونیکی (30012)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 3
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 41,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_6C1F7D4E0E7B",
+        "course_code": "30014",
+        "course_name": "زبان تخصصی",
+        "credits": 2,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 42,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30014",
+            "course_id": "CRS_6C1F7D4E0E7B",
+            "course_name": "زبان تخصصی",
+            "credits": 2,
+            "course_type": "A",
+            "prerequisites": "30002",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 42,
+            "notes": null,
+            "prerequisites_source": "زبان انگلیسی ۲ (30002)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 3
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 42,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_E3DF69DC3026",
+        "course_code": "30015",
+        "course_name": "معماری کامپیوتر",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 43,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30015",
+            "course_id": "CRS_E3DF69DC3026",
+            "course_name": "معماری کامپیوتر",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": "30009",
+            "corequisites": "30016",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 43,
+            "notes": null,
+            "prerequisites_source": "مدارهای منطقی (30009)",
+            "corequisites_source": "آزمایشگاه معماری کامپیوتر (30016)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 4
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 43,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_FDF9170DB53C",
+        "course_code": "30016",
+        "course_name": "آزمایشگاه معماری کامپیوتر",
+        "credits": 1,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 44,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30016",
+            "course_id": "CRS_FDF9170DB53C",
+            "course_name": "آزمایشگاه معماری کامپیوتر",
+            "credits": 1,
+            "course_type": "A",
+            "prerequisites": null,
+            "corequisites": "30015",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 44,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": "معماری کامپیوتر (30015)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 4
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 44,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_3C3CAF71EF27",
+        "course_code": "30017",
+        "course_name": "نظریه زبان‌ها و ماشین‌ها",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 45,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30017",
+            "course_id": "CRS_3C3CAF71EF27",
+            "course_name": "نظریه زبان‌ها و ماشین‌ها",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": "30011",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 45,
+            "notes": null,
+            "prerequisites_source": "ساختمان داده‌ها و الگوریتم‌ها (30011)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 4
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 45,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_E02DCD614769",
+        "course_code": "30018",
+        "course_name": "جبرخطی کاربردی",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 46,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30018",
+            "course_id": "CRS_E02DCD614769",
+            "course_name": "جبرخطی کاربردی",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": "2102",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 46,
+            "notes": null,
+            "prerequisites_source": "ریاضی عمومی 2 (2102)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 4
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 46,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_F23DFD7AE37B",
+        "course_code": "30019",
+        "course_name": "ریزپردازنده و زبان اسمبلی",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 47,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30019",
+            "course_id": "CRS_F23DFD7AE37B",
+            "course_name": "ریزپردازنده و زبان اسمبلی",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": "30015",
+            "corequisites": "30020",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 47,
+            "notes": null,
+            "prerequisites_source": "معماری کامپیوتر (30015)",
+            "corequisites_source": "آزمایشگاه ریزپردازنده و زبان اسمبلی (30020)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 5
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 47,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_5E834601F42B",
+        "course_code": "30020",
+        "course_name": "آزمایشگاه ریزپردازنده و زبان اسمبلی",
+        "credits": 1,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 48,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30020",
+            "course_id": "CRS_5E834601F42B",
+            "course_name": "آزمایشگاه ریزپردازنده و زبان اسمبلی",
+            "credits": 1,
+            "course_type": "A",
+            "prerequisites": null,
+            "corequisites": "30019",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 48,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": "ریزپردازنده و زبان اسمبلی (30019)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 5
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 48,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_E332D4A34B76",
+        "course_code": "30021",
+        "course_name": "سیستم های عامل",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 49,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30021",
+            "course_id": "CRS_E332D4A34B76",
+            "course_name": "سیستم های عامل",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": "30015",
+            "corequisites": "30022",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 49,
+            "notes": null,
+            "prerequisites_source": "معماری کامپیوتر (30015)",
+            "corequisites_source": "آزمایشگاه سیستم‌های عامل (30022)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 5
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 49,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_4C50C6ABB1DC",
+        "course_code": "30022",
+        "course_name": "آزمایشگاه سیستم‌های عامل",
+        "credits": 1,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 50,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30022",
+            "course_id": "CRS_4C50C6ABB1DC",
+            "course_name": "آزمایشگاه سیستم‌های عامل",
+            "credits": 1,
+            "course_type": "A",
+            "prerequisites": null,
+            "corequisites": "30021",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 50,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": "سیستم های عامل (30021)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 5
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 50,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_CD908A72E109",
+        "course_code": "30023",
+        "course_name": "شبکه های کامپیوتری",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 51,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30023",
+            "course_id": "CRS_CD908A72E109",
+            "course_name": "شبکه های کامپیوتری",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": "30015, 271463",
+            "corequisites": "30021, 30024",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 51,
+            "notes": null,
+            "prerequisites_source": "آمار و احتمال مهندسی (271463)، معماری کامپیوتر (30015)",
+            "corequisites_source": "سیستم های عامل (30021)، آزمایشگاه شبکه‌های کامپیوتری (30024)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 5
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 51,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_27193B7F9C5D",
+        "course_code": "30024",
+        "course_name": "آزمایشگاه شبکه‌های کامپیوتری",
+        "credits": 1,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 52,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30024",
+            "course_id": "CRS_27193B7F9C5D",
+            "course_name": "آزمایشگاه شبکه‌های کامپیوتری",
+            "credits": 1,
+            "course_type": "A",
+            "prerequisites": null,
+            "corequisites": "30023",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 52,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": "شبکه های کامپیوتری (30023)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 5
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 52,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_BCA7B1DB9E9A",
+        "course_code": "30025",
+        "course_name": "مهندسی نرم افزار1",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 53,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30025",
+            "course_id": "CRS_BCA7B1DB9E9A",
+            "course_name": "مهندسی نرم افزار1",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": "30007",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 53,
+            "notes": null,
+            "prerequisites_source": "برنامه نویسی پیشرفته (30007)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 6
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 53,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_972360A7E4E8",
+        "course_code": "30026",
+        "course_name": "روش پژوهش و ارائه",
+        "credits": 2,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 54,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30026",
+            "course_id": "CRS_972360A7E4E8",
+            "course_name": "روش پژوهش و ارائه",
+            "credits": 2,
+            "course_type": "A",
+            "prerequisites": "30014",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 54,
+            "notes": "شرط دیگر: نیمسال پنجم و بالاتر",
+            "prerequisites_source": "زبان تخصصی (30014)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 6
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 54,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_79DFEA4D15BB",
+        "course_code": "30027",
+        "course_name": "کارآموزی",
+        "credits": 1,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 55,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30027",
+            "course_id": "CRS_79DFEA4D15BB",
+            "course_name": "کارآموزی",
+            "credits": 1,
+            "course_type": "A",
+            "prerequisites": "30026",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 55,
+            "notes": null,
+            "prerequisites_source": "روش پژوهش و ارائه (30026)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 6
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 55,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_5C79A91DABD2",
+        "course_code": "30028",
+        "course_name": "پروژه پایانی",
+        "credits": 3,
+        "course_type": "A",
+        "source_category": "اصلی",
+        "source_row": 56,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30028",
+            "course_id": "CRS_5C79A91DABD2",
+            "course_name": "پروژه پایانی",
+            "credits": 3,
+            "course_type": "A",
+            "prerequisites": "30026",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اصلی",
+            "source_row": 56,
+            "notes": null,
+            "prerequisites_source": "روش پژوهش و ارائه (30026)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 7
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 56,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_C84172E75E62",
+        "course_code": "30029",
+        "course_name": "طراحی الگوریتم‌ها",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+        "source_row": 57,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30029",
+            "course_id": "CRS_C84172E75E62",
+            "course_name": "طراحی الگوریتم‌ها",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30011, 30006",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "طراحی و توسعه نرم‌افزار",
+            "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+            "source_row": 57,
+            "notes": null,
+            "prerequisites_source": "ساختمان داده‌ها و الگوریتم‌ها (30011)، ریاضیات گسسته (30006)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 4
+          },
+          {
+            "course_code": "30029",
+            "course_id": "CRS_C84172E75E62",
+            "course_name": "طراحی الگوریتم‌ها",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30011, 30006",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "هوش مصنوعی",
+            "source_category": "تخصصی | هوش مصنوعی",
+            "source_row": 81,
+            "notes": null,
+            "prerequisites_source": "ساختمان داده‌ها و الگوریتم‌ها (30011)، ریاضیات گسسته (30006)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 4
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 57,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_ED00F6700AE6",
+        "course_code": "30030",
+        "course_name": "اصول طراحی پایگاه داده‌ها",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+        "source_row": 58,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30030",
+            "course_id": "CRS_ED00F6700AE6",
+            "course_name": "اصول طراحی پایگاه داده‌ها",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30011",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "طراحی و توسعه نرم‌افزار",
+            "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+            "source_row": 58,
+            "notes": null,
+            "prerequisites_source": "ساختمان داده‌ها و الگوریتم‌ها (30011)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 5
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 58,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_8FC23E19F41A",
+        "course_code": "30031",
+        "course_name": "اصول طراحی کامپایلر",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+        "source_row": 59,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30031",
+            "course_id": "CRS_8FC23E19F41A",
+            "course_name": "اصول طراحی کامپایلر",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30011",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "طراحی و توسعه نرم‌افزار",
+            "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+            "source_row": 59,
+            "notes": null,
+            "prerequisites_source": "ساختمان داده‌ها و الگوریتم‌ها (30011)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 59,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_94F49CE9CA90",
+        "course_code": "30032",
+        "course_name": "زبان‌های برنامه‌نویسی",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+        "source_row": 60,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30032",
+            "course_id": "CRS_94F49CE9CA90",
+            "course_name": "زبان‌های برنامه‌نویسی",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30017",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "طراحی و توسعه نرم‌افزار",
+            "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+            "source_row": 60,
+            "notes": null,
+            "prerequisites_source": "نظریه زبان‌ها و ماشین‌ها (30017)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 60,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_665D15603306",
+        "course_code": "30033",
+        "course_name": "مهندسی نرم‌افزار ۲",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+        "source_row": 61,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30033",
+            "course_id": "CRS_665D15603306",
+            "course_name": "مهندسی نرم‌افزار ۲",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30025",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "طراحی و توسعه نرم‌افزار",
+            "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+            "source_row": 61,
+            "notes": null,
+            "prerequisites_source": "مهندسی نرم افزار1 (30025)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 7
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 61,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_9EE65FDBE1DF",
+        "course_code": "30034",
+        "course_name": "آزمون نرم افزار",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+        "source_row": 62,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30034",
+            "course_id": "CRS_9EE65FDBE1DF",
+            "course_name": "آزمون نرم افزار",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30033",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "طراحی و توسعه نرم‌افزار",
+            "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+            "source_row": 62,
+            "notes": null,
+            "prerequisites_source": "مهندسی نرم‌افزار ۲ (30033)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 62,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_C65C0BD3B525",
+        "course_code": "30035",
+        "course_name": "طراحی واسط کاربر",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+        "source_row": 63,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30035",
+            "course_id": "CRS_C65C0BD3B525",
+            "course_name": "طراحی واسط کاربر",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30025",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "طراحی و توسعه نرم‌افزار",
+            "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+            "source_row": 63,
+            "notes": null,
+            "prerequisites_source": "مهندسی نرم افزار1 (30025)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 7
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 63,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_899512540AAF",
+        "course_code": "30036",
+        "course_name": "بازیابی اطلاعات",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+        "source_row": 64,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30036",
+            "course_id": "CRS_899512540AAF",
+            "course_name": "بازیابی اطلاعات",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30011, 271463",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "طراحی و توسعه نرم‌افزار",
+            "source_category": "تخصصی | طراحی و توسعه نرم‌افزار",
+            "source_row": 64,
+            "notes": null,
+            "prerequisites_source": "ساختمان داده‌ها و الگوریتم‌ها (30011)، آمار و احتمال مهندسی (271463)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 8
+          },
+          {
+            "course_code": "30036",
+            "course_id": "CRS_899512540AAF",
+            "course_name": "بازیابی اطلاعات",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30011, 271463",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "هوش مصنوعی",
+            "source_category": "تخصصی | هوش مصنوعی",
+            "source_row": 88,
+            "notes": null,
+            "prerequisites_source": "ساختمان داده‌ها و الگوریتم‌ها (30011)، آمار و احتمال مهندسی (271463)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 8
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 64,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_A05FD49F581E",
+        "course_code": "30037",
+        "course_name": "سیگنال‌ها و سیستم‌ها",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | سیستم‌های کامپیوتری",
+        "source_row": 65,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30037",
+            "course_id": "CRS_A05FD49F581E",
+            "course_name": "سیگنال‌ها و سیستم‌ها",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "2135",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "سیستم‌های کامپیوتری",
+            "source_category": "تخصصی | سیستم‌های کامپیوتری",
+            "source_row": 65,
+            "notes": null,
+            "prerequisites_source": "معادلات دیفرانسیل (2135)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 6
+          },
+          {
+            "course_code": "30037",
+            "course_id": "CRS_A05FD49F581E",
+            "course_name": "سیگنال‌ها و سیستم‌ها",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "2135",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "شبکه‌های کامپیوتری",
+            "source_category": "تخصصی | شبکه‌های کامپیوتری",
+            "source_row": 73,
+            "notes": null,
+            "prerequisites_source": "معادلات دیفرانسیل (2135)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 6
+          },
+          {
+            "course_code": "30037",
+            "course_id": "CRS_A05FD49F581E",
+            "course_name": "سیگنال‌ها و سیستم‌ها",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "2135",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "هوش مصنوعی",
+            "source_category": "تخصصی | هوش مصنوعی",
+            "source_row": 82,
+            "notes": null,
+            "prerequisites_source": "معادلات دیفرانسیل (2135)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 6
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 65,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_D666ADECE5B5",
+        "course_code": "30038",
+        "course_name": "طراحی مدارهای واسط",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | سیستم‌های کامپیوتری",
+        "source_row": 66,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30038",
+            "course_id": "CRS_D666ADECE5B5",
+            "course_name": "طراحی مدارهای واسط",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30019",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "سیستم‌های کامپیوتری",
+            "source_category": "تخصصی | سیستم‌های کامپیوتری",
+            "source_row": 66,
+            "notes": null,
+            "prerequisites_source": "ریزپردازنده و زبان اسمبلی (30019)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 66,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_26845060B0EA",
+        "course_code": "30039",
+        "course_name": "طراحی سیستم‌های دیجیتال برنامه‌پذیر",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | سیستم‌های کامپیوتری",
+        "source_row": 67,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30039",
+            "course_id": "CRS_26845060B0EA",
+            "course_name": "طراحی سیستم‌های دیجیتال برنامه‌پذیر",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30015",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "سیستم‌های کامپیوتری",
+            "source_category": "تخصصی | سیستم‌های کامپیوتری",
+            "source_row": 67,
+            "notes": null,
+            "prerequisites_source": "معماری کامپیوتر (30015)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 67,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_F923C0C17A07",
+        "course_code": "30040",
+        "course_name": "الکترونیک دیجیتال",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | سیستم‌های کامپیوتری",
+        "source_row": 68,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30040",
+            "course_id": "CRS_F923C0C17A07",
+            "course_name": "الکترونیک دیجیتال",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30012",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "سیستم‌های کامپیوتری",
+            "source_category": "تخصصی | سیستم‌های کامپیوتری",
+            "source_row": 68,
+            "notes": null,
+            "prerequisites_source": "مدارهای الکتریکی و الکترونیکی (30012)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 68,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_C2430EF0420D",
+        "course_code": "30041",
+        "course_name": "سیستم‌های نهفته و بی‌درنگ",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | سیستم‌های کامپیوتری",
+        "source_row": 69,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30041",
+            "course_id": "CRS_C2430EF0420D",
+            "course_name": "سیستم‌های نهفته و بی‌درنگ",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30021, 30019",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "سیستم‌های کامپیوتری",
+            "source_category": "تخصصی | سیستم‌های کامپیوتری",
+            "source_row": 69,
+            "notes": null,
+            "prerequisites_source": "سیستم های عامل (30021)، ریزپردازنده و زبان اسمبلی (30019)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 69,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_B2A7F267F59C",
+        "course_code": "30042",
+        "course_name": "برنامه‌نویسی چندهسته‌ای",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | سیستم‌های کامپیوتری",
+        "source_row": 70,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30042",
+            "course_id": "CRS_B2A7F267F59C",
+            "course_name": "برنامه‌نویسی چندهسته‌ای",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30021",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "سیستم‌های کامپیوتری",
+            "source_category": "تخصصی | سیستم‌های کامپیوتری",
+            "source_row": 70,
+            "notes": null,
+            "prerequisites_source": "سیستم های عامل (30021)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 70,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_0D830B080DF7",
+        "course_code": "30043",
+        "course_name": "مبانی رایانش ابری",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | سیستم‌های کامپیوتری",
+        "source_row": 71,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30043",
+            "course_id": "CRS_0D830B080DF7",
+            "course_name": "مبانی رایانش ابری",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30023, 30021",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "سیستم‌های کامپیوتری",
+            "source_category": "تخصصی | سیستم‌های کامپیوتری",
+            "source_row": 71,
+            "notes": null,
+            "prerequisites_source": "شبکه های کامپیوتری (30023)، سیستم های عامل (30021)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          },
+          {
+            "course_code": "30043",
+            "course_id": "CRS_0D830B080DF7",
+            "course_name": "مبانی رایانش ابری",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30023, 30021",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "شبکه‌های کامپیوتری",
+            "source_category": "تخصصی | شبکه‌های کامپیوتری",
+            "source_row": 79,
+            "notes": null,
+            "prerequisites_source": "شبکه های کامپیوتری (30023)، سیستم های عامل (30021)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 71,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_3F879927F9A3",
+        "course_code": "30044",
+        "course_name": "طراحی توأم سخت‌افزار و نرم‌افزار",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | سیستم‌های کامپیوتری",
+        "source_row": 72,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30044",
+            "course_id": "CRS_3F879927F9A3",
+            "course_name": "طراحی توأم سخت‌افزار و نرم‌افزار",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30015",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "سیستم‌های کامپیوتری",
+            "source_category": "تخصصی | سیستم‌های کامپیوتری",
+            "source_row": 72,
+            "notes": null,
+            "prerequisites_source": "معماری کامپیوتر (30015)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 72,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_25787809672A",
+        "course_code": "30128",
+        "course_name": "برنامه‌نویسی وب",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | شبکه‌های کامپیوتری",
+        "source_row": 74,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30128",
+            "course_id": "CRS_25787809672A",
+            "course_name": "برنامه‌نویسی وب",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "شبکه‌های کامپیوتری",
+            "source_category": "تخصصی | شبکه‌های کامپیوتری",
+            "source_row": 74,
+            "notes": "در چارت ترمی صفحه ۱۶ کد ۳۰۱۲۸ درج شده؛ جدول تخصصی صفحه ۹: ۳۰۰۴۵",
+            "prerequisites_source": "شبکه های کامپیوتری (30023)",
+            "corequisites_source": null,
+            "validation_status": "REVIEW_RELATION",
+            "visual_source": "image-1.png",
+            "suggested_semester": 6
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 74,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_7EF6760ABAF5",
+        "course_code": "30046",
+        "course_name": "انتقال داده ها",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | شبکه‌های کامپیوتری",
+        "source_row": 75,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30046",
+            "course_id": "CRS_7EF6760ABAF5",
+            "course_name": "انتقال داده ها",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30023, 30037",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "شبکه‌های کامپیوتری",
+            "source_category": "تخصصی | شبکه‌های کامپیوتری",
+            "source_row": 75,
+            "notes": null,
+            "prerequisites_source": "شبکه های کامپیوتری (30023)، سیگنال‌ها و سیستم‌ها (30037)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 75,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_6A18CF9362E1",
+        "course_code": "30047",
+        "course_name": "مبانی امنیت اطلاعات",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | شبکه‌های کامپیوتری",
+        "source_row": 76,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30047",
+            "course_id": "CRS_6A18CF9362E1",
+            "course_name": "مبانی امنیت اطلاعات",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30023",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "شبکه‌های کامپیوتری",
+            "source_category": "تخصصی | شبکه‌های کامپیوتری",
+            "source_row": 76,
+            "notes": null,
+            "prerequisites_source": "شبکه های کامپیوتری (30023)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 76,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_43D3B0C7F8F1",
+        "course_code": "30048",
+        "course_name": "سیستم‌های چندرسانه‌ای",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | شبکه‌های کامپیوتری",
+        "source_row": 77,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30048",
+            "course_id": "CRS_43D3B0C7F8F1",
+            "course_name": "سیستم‌های چندرسانه‌ای",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "271463, 30037",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "شبکه‌های کامپیوتری",
+            "source_category": "تخصصی | شبکه‌های کامپیوتری",
+            "source_row": 77,
+            "notes": null,
+            "prerequisites_source": "آمار و احتمال مهندسی (271463)، سیگنال‌ها و سیستم‌ها (30037)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 77,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_7A048E51EE59",
+        "course_code": "30049",
+        "course_name": "برنامه‌نویسی دستگاه‌های سیار",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | شبکه‌های کامپیوتری",
+        "source_row": 78,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30049",
+            "course_id": "CRS_7A048E51EE59",
+            "course_name": "برنامه‌نویسی دستگاه‌های سیار",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30007",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "شبکه‌های کامپیوتری",
+            "source_category": "تخصصی | شبکه‌های کامپیوتری",
+            "source_row": 78,
+            "notes": null,
+            "prerequisites_source": "برنامه نویسی پیشرفته (30007)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 78,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_500FAEE7BB05",
+        "course_code": "30050",
+        "course_name": "مبانی اینترنت اشیا",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | شبکه‌های کامپیوتری",
+        "source_row": 80,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30050",
+            "course_id": "CRS_500FAEE7BB05",
+            "course_name": "مبانی اینترنت اشیا",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30019, 30023",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "شبکه‌های کامپیوتری",
+            "source_category": "تخصصی | شبکه‌های کامپیوتری",
+            "source_row": 80,
+            "notes": null,
+            "prerequisites_source": "ریزپردازنده و زبان اسمبلی (30019)، شبکه های کامپیوتری (30023)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 80,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_9EE73BB7839D",
+        "course_code": "30051",
+        "course_name": "مبانی و کاربردهای هوش مصنوعی",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | هوش مصنوعی",
+        "source_row": 83,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30051",
+            "course_id": "CRS_9EE73BB7839D",
+            "course_name": "مبانی و کاربردهای هوش مصنوعی",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30011",
+            "corequisites": "30018",
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "هوش مصنوعی",
+            "source_category": "تخصصی | هوش مصنوعی",
+            "source_row": 83,
+            "notes": null,
+            "prerequisites_source": "ساختمان داده‌ها و الگوریتم‌ها (30011)",
+            "corequisites_source": "جبرخطی کاربردی (30018)",
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 6
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 83,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_A43B6A9B74B6",
+        "course_code": "30052",
+        "course_name": "مبانی هوش محاسباتی",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | هوش مصنوعی",
+        "source_row": 84,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30052",
+            "course_id": "CRS_A43B6A9B74B6",
+            "course_name": "مبانی هوش محاسباتی",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30029",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "هوش مصنوعی",
+            "source_category": "تخصصی | هوش مصنوعی",
+            "source_row": 84,
+            "notes": null,
+            "prerequisites_source": "طراحی الگوریتم‌ها (30029)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 6
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 84,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_BF6326F9CC51",
+        "course_code": "30053",
+        "course_name": "مقدمه‌ای بر بیوانفورماتیک",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | هوش مصنوعی",
+        "source_row": 85,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30053",
+            "course_id": "CRS_BF6326F9CC51",
+            "course_name": "مقدمه‌ای بر بیوانفورماتیک",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30052",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "هوش مصنوعی",
+            "source_category": "تخصصی | هوش مصنوعی",
+            "source_row": 85,
+            "notes": null,
+            "prerequisites_source": "مبانی هوش محاسباتی (30052)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 85,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_8C048E7C7206",
+        "course_code": "30054",
+        "course_name": "داده کاوی",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | هوش مصنوعی",
+        "source_row": 86,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30054",
+            "course_id": "CRS_8C048E7C7206",
+            "course_name": "داده کاوی",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30052",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "هوش مصنوعی",
+            "source_category": "تخصصی | هوش مصنوعی",
+            "source_row": 86,
+            "notes": null,
+            "prerequisites_source": "مبانی هوش محاسباتی (30052)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 7
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 86,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_EBA3B5BC112B",
+        "course_code": "30055",
+        "course_name": "اصول علم ربات",
+        "credits": 3,
+        "course_type": "T",
+        "source_category": "تخصصی | هوش مصنوعی",
+        "source_row": 87,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30055",
+            "course_id": "CRS_EBA3B5BC112B",
+            "course_name": "اصول علم ربات",
+            "credits": 3,
+            "course_type": "T",
+            "prerequisites": "30037",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": "هوش مصنوعی",
+            "source_category": "تخصصی | هوش مصنوعی",
+            "source_row": 87,
+            "notes": null,
+            "prerequisites_source": "سیگنال‌ها و سیستم‌ها (30037)",
+            "corequisites_source": null,
+            "validation_status": "OK",
+            "visual_source": "image-1.png",
+            "suggested_semester": 8
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 87,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_60C07AE41C92",
+        "course_code": "30100",
+        "course_name": "گرافیک کامپیوتری",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 89,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30100",
+            "course_id": "CRS_60C07AE41C92",
+            "course_name": "گرافیک کامپیوتری",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": "30007",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 89,
+            "notes": null,
+            "prerequisites_source": "برنامه نویسی پیشرفته (30007)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 89,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_6521BF3605DA",
+        "course_code": "30101",
+        "course_name": "تعامل انسان و کامپیوتر",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 90,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30101",
+            "course_id": "CRS_6521BF3605DA",
+            "course_name": "تعامل انسان و کامپیوتر",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": "30025",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 90,
+            "notes": null,
+            "prerequisites_source": "مهندسی نرم افزار1 (30025)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 90,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_D4EB2D087DDC",
+        "course_code": "30102",
+        "course_name": "کارگاه ساخت ربات",
+        "credits": 1,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 91,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30102",
+            "course_id": "CRS_D4EB2D087DDC",
+            "course_name": "کارگاه ساخت ربات",
+            "credits": 1,
+            "course_type": "EK",
+            "prerequisites": "30055",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 91,
+            "notes": null,
+            "prerequisites_source": "اصول علم ربات (30055)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 91,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_A9A036391CB5",
+        "course_code": "30103",
+        "course_name": "طراحی بازی‌های کامپیوتری",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 92,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30103",
+            "course_id": "CRS_A9A036391CB5",
+            "course_name": "طراحی بازی‌های کامپیوتری",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": "30007",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 92,
+            "notes": null,
+            "prerequisites_source": "برنامه نویسی پیشرفته (30007)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 92,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_55E88E499A17",
+        "course_code": "30104",
+        "course_name": "نظریه محاسبات",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 93,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30104",
+            "course_id": "CRS_55E88E499A17",
+            "course_name": "نظریه محاسبات",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": "30017",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 93,
+            "notes": null,
+            "prerequisites_source": "نظریه زبان‌ها و ماشین‌ها (30017)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 93,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_B79F6DBAFABC",
+        "course_code": "30105",
+        "course_name": "شبیه سازی کامپیوتری",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 94,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30105",
+            "course_id": "CRS_B79F6DBAFABC",
+            "course_name": "شبیه سازی کامپیوتری",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": "30021, 271463",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 94,
+            "notes": null,
+            "prerequisites_source": "سیستم های عامل (30021)، آمار و احتمال مهندسی (271463)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 94,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_489E480B902D",
+        "course_code": "30106",
+        "course_name": "مبانی پویانمایی کامپیوتری",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 95,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30106",
+            "course_id": "CRS_489E480B902D",
+            "course_name": "مبانی پویانمایی کامپیوتری",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": "30100",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 95,
+            "notes": null,
+            "prerequisites_source": "گرافیک کامپیوتری (30100)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 95,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_6E80AB13A570",
+        "course_code": "30107",
+        "course_name": "مدیریت پروژه فناوری اطلاعات",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 96,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30107",
+            "course_id": "CRS_6E80AB13A570",
+            "course_name": "مدیریت پروژه فناوری اطلاعات",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 96,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 96,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_747F31CA7595",
+        "course_code": "30108",
+        "course_name": "تجارت الکترونیکی",
+        "credits": 2,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 97,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30108",
+            "course_id": "CRS_747F31CA7595",
+            "course_name": "تجارت الکترونیکی",
+            "credits": 2,
+            "course_type": "EK",
+            "prerequisites": "30114, 30023",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 97,
+            "notes": null,
+            "prerequisites_source": "اقتصاد مهندسی (مهندسی صنایع) (30114)، شبکه های کامپیوتری (30023)",
+            "corequisites_source": null,
+            "validation_status": "REVIEW_EQUIVALENCE"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 97,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_FA5709664ED5",
+        "course_code": "30109",
+        "course_name": "توسعه کسب و کار نوپا",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 98,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30109",
+            "course_id": "CRS_FA5709664ED5",
+            "course_name": "توسعه کسب و کار نوپا",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": "30025",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 98,
+            "notes": null,
+            "prerequisites_source": "مهندسی نرم افزار1 (30025)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 98,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_64447F553FA7",
+        "course_code": "30110",
+        "course_name": "سیستم‌های اتوماسیون صنعتی",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 99,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30110",
+            "course_id": "CRS_64447F553FA7",
+            "course_name": "سیستم‌های اتوماسیون صنعتی",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": "30019",
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 99,
+            "notes": null,
+            "prerequisites_source": "ریزپردازنده و زبان اسمبلی (30019)",
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 99,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_A2B2B2D3B7F5",
+        "course_code": "30111",
+        "course_name": "مباحث ویژه 1",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 100,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30111",
+            "course_id": "CRS_A2B2B2D3B7F5",
+            "course_name": "مباحث ویژه 1",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 100,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 100,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_9CCFC40A1A4A",
+        "course_code": "30112",
+        "course_name": "مباحث ویژه ۲",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 101,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30112",
+            "course_id": "CRS_9CCFC40A1A4A",
+            "course_name": "مباحث ویژه ۲",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 101,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 101,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_ED63066A58AC",
+        "course_code": "30113",
+        "course_name": "کنترل خطی (مهندسی برق)",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 102,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30113",
+            "course_id": "CRS_ED63066A58AC",
+            "course_name": "کنترل خطی (مهندسی برق)",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 102,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 102,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_C61B3555056F",
+        "course_code": "30114",
+        "course_name": "اقتصاد مهندسی (مهندسی صنایع)",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 103,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30114",
+            "course_id": "CRS_C61B3555056F",
+            "course_name": "اقتصاد مهندسی (مهندسی صنایع)",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 103,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 103,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_FD6E4757D9C1",
+        "course_code": "30115",
+        "course_name": "کنترل پروژه (مهندسی صنایع)",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 104,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30115",
+            "course_id": "CRS_FD6E4757D9C1",
+            "course_name": "کنترل پروژه (مهندسی صنایع)",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 104,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 104,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_0180FF1C09AA",
+        "course_code": "30116",
+        "course_name": "نظریه گراف (علوم کامپیوتر)",
+        "credits": 3,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 105,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30116",
+            "course_id": "CRS_0180FF1C09AA",
+            "course_name": "نظریه گراف (علوم کامپیوتر)",
+            "credits": 3,
+            "course_type": "EK",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 105,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 105,
+          "attempts": []
+        }
+      },
+      {
+        "course_id": "CRS_75B408EB2D5E",
+        "course_code": "30117",
+        "course_name": "محاسبات عددی (ریاضی)",
+        "credits": 2,
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_row": 106,
+        "requirement": "OPTION_OR_UNSPECIFIED",
+        "chart_rows": [
+          {
+            "course_code": "30117",
+            "course_id": "CRS_75B408EB2D5E",
+            "course_name": "محاسبات عددی (ریاضی)",
+            "credits": 2,
+            "course_type": "EK",
+            "prerequisites": null,
+            "corequisites": null,
+            "entry_year_from": 1401,
+            "entry_year_to": 1402,
+            "course_group": null,
+            "source_category": "اختیاری",
+            "source_row": 106,
+            "notes": null,
+            "prerequisites_source": null,
+            "corequisites_source": null,
+            "validation_status": "OK"
+          }
+        ],
+        "status": "UNKNOWN",
+        "reason": "گزینه چارت؛ الزام اخذ فقط طبق تنظیم رسمی تعیین می‌شود",
+        "evidence": {
+          "chart": "1401-1402",
+          "source_row": 106,
+          "attempts": []
+        }
+      }
+    ],
+    "candidate_credits_by_category": {
+      "عمومی | مبانی نظری اسلام": 8.0,
+      "عمومی | اخلاق در اسلام": 10.0,
+      "عمومی | انقلاب اسلامی": 6.0,
+      "عمومی | تاریخ و تمدن اسلامی": 6.0,
+      "عمومی | آشنایی با منابع اسلامی": 4.0,
+      "عمومی | عمومی الزامی": 10.0,
+      "پایه": 20.0,
+      "اصلی": 55.0,
+      "تخصصی | طراحی و توسعه نرم‌افزار": 24.0,
+      "تخصصی | سیستم‌های کامپیوتری": 24.0,
+      "تخصصی | شبکه‌های کامپیوتری": 18.0,
+      "تخصصی | هوش مصنوعی": 15.0,
+      "اختیاری": 50.0
+    },
+    "candidate_credits_total": 250.0,
+    "elective_groups": [],
+    "required_balance_before_uncertainty": null,
+    "exact_remaining_credits": null,
+    "status": "UNKNOWN",
+    "reason": "جمع گزینه‌ها معادل واحد لازم برای فارغ‌التحصیلی نیست؛ مقدار دقیق فقط با قواعد کامل و داده تعیین‌تکلیف‌شده ارائه می‌شود"
+  },
+  "audit": [
+    {
+      "kind": "requirements",
+      "status": "UNKNOWN",
+      "reason": "نیازمند تعیین قانون: الزامی‌ها، سهم گروه‌های اختیاری و نحوه احتساب",
+      "evidence": [
+        {
+          "source_row": 107,
+          "rule_text": "کلیه درس‌های اخذنشده از بسته‌های تخصصی (تا پنج درس)",
+          "course_type": "EK",
+          "source_category": "اختیاری",
+          "source_credits": 3,
+          "entry_year_from": 1401,
+          "entry_year_to": 1402,
+          "prerequisites_source": null,
+          "corequisites_source": null,
+          "notes": "مسیر انتخاب درس؛ فاقد کد ثابت در سند",
+          "record_type": "CURRICULUM_OPTION"
+        },
+        {
+          "source_row": 108,
+          "rule_text": "دو درس از دوره کارشناسی سایر رشته‌ها",
+          "course_type": "EK",
+          "source_category": "اختیاری",
+          "source_credits": 3,
+          "entry_year_from": 1401,
+          "entry_year_to": 1402,
+          "prerequisites_source": null,
+          "corequisites_source": null,
+          "notes": "مسیر انتخاب درس؛ فاقد کد ثابت در سند",
+          "record_type": "CURRICULUM_OPTION"
+        },
+        {
+          "source_row": 109,
+          "rule_text": "دو درس از مقطع کارشناسی ارشد مهندسی کامپیوتر",
+          "course_type": "EK",
+          "source_category": "اختیاری",
+          "source_credits": 3,
+          "entry_year_from": 1401,
+          "entry_year_to": 1402,
+          "prerequisites_source": null,
+          "corequisites_source": null,
+          "notes": "مسیر انتخاب درس؛ فاقد کد ثابت در سند",
+          "record_type": "CURRICULUM_OPTION"
+        },
+        {
+          "source_row": 110,
+          "rule_text": "اخذ ۱۵ واحد از بسته‌های اختیاری سایر رشته‌ها به‌عنوان گرایش فرعی (با تأیید دانشگاه)",
+          "course_type": "EK",
+          "source_category": "اختیاری",
+          "source_credits": null,
+          "entry_year_from": 1401,
+          "entry_year_to": 1402,
+          "prerequisites_source": null,
+          "corequisites_source": null,
+          "notes": "قاعده انتخاب واحد، نه یک درس مستقل",
+          "record_type": "CURRICULUM_OPTION"
+        }
+      ]
+    },
+    {
+      "kind": "passing",
+      "status": "UNKNOWN",
+      "reason": "نیازمند تعیین قانون: حد قبولی و معنای نمره صفر",
+      "evidence": []
+    },
+    {
+      "kind": "credit_load",
+      "status": "UNKNOWN",
+      "reason": "وضعیت: نامشخص؛ نیازمند تعیین قانون یا مدرک وضعیت و ثبت فعال دروس",
+      "evidence": {
+        "state": {},
+        "limits": {},
+        "credits": 0.0,
+        "attempt_refs": []
+      },
+      "semester": "1403-1"
+    }
+  ],
+  "chart_issues": [
+    {
+      "severity": "WARNING",
+      "code": "unresolved_relationship",
+      "message": "رابطه درس نیازمند بازبینی است: برنامه‌نویسی وب",
+      "source_row": 74
+    },
+    {
+      "severity": "REVIEW",
+      "code": "same_name_different_credits",
+      "message": "بازبینی منبع: روش پژوهش و ارائه | برای جلوگیری از ادغام نادرست، شناسه بر اساس تعداد واحد تفکیک شد؛ هم‌ارزی نیازمند تأیید است",
+      "source_row": 54
+    },
+    {
+      "severity": "REVIEW",
+      "code": "same_name_different_credits",
+      "message": "بازبینی منبع: کارآموزی | برای جلوگیری از ادغام نادرست، شناسه بر اساس تعداد واحد تفکیک شد؛ هم‌ارزی نیازمند تأیید است",
+      "source_row": 55
+    },
+    {
+      "severity": "REVIEW",
+      "code": "same_name_different_credits",
+      "message": "بازبینی منبع: تجارت الکترونیکی | برای جلوگیری از ادغام نادرست، شناسه بر اساس تعداد واحد تفکیک شد؛ هم‌ارزی نیازمند تأیید است",
+      "source_row": 97
+    }
+  ],
+  "recommendations": {
+    "priority": [
+      {
+        "course_id": "CRS_AA3D74F3CDFA",
+        "course_name": "اندیشه اسلامی ۱ (مبدأ و معاد)",
+        "course_code": "1101",
+        "suggested_semester": 1,
+        "source_image": "image-1.png",
+        "code_source": "image",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_6C0C48A919F4",
+        "course_name": "تربیت بدنی ۱",
+        "course_code": "1109",
+        "suggested_semester": 1,
+        "source_image": "image-1.png",
+        "code_source": "image",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_EC6BE2AE497B",
+        "course_name": "ریاضی عمومی 1",
+        "course_code": "2101",
+        "suggested_semester": 1,
+        "source_image": "image-1.png",
+        "code_source": "image",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_F11366438FA2",
+        "course_name": "زبان انگلیسی ۱",
+        "course_code": "30001",
+        "suggested_semester": 1,
+        "source_image": "image-1.png",
+        "code_source": "image",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_C7C1EF22A454",
+        "course_name": "زبان فارسی",
+        "course_code": "1107",
+        "suggested_semester": 1,
+        "source_image": "image-1.png",
+        "code_source": "image",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_4D8E1A81A859",
+        "course_name": "فیزیک ۱",
+        "course_code": "271477",
+        "suggested_semester": 1,
+        "source_image": "image-1.png",
+        "code_source": "image",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_5F09C77118FD",
+        "course_name": "مبانی کامپیوتر و برنامه‌نویسی",
+        "course_code": "30004",
+        "suggested_semester": 1,
+        "source_image": "image-1.png",
+        "code_source": "image",
+        "concurrent_course_ids": [
+          "CRS_7677167740A6"
+        ],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_7677167740A6",
+        "course_name": "کارگاه مبانی کامپیوتر و برنامه‌نویسی",
+        "course_code": "30005",
+        "suggested_semester": 1,
+        "source_image": "image-1.png",
+        "code_source": "image",
+        "concurrent_course_ids": [
+          "CRS_5F09C77118FD"
+        ],
+        "scope": "CHART_CONDITIONS_ONLY"
+      }
+    ],
+    "other": [
+      {
+        "course_id": "CRS_FB72FAA0E398",
+        "course_name": "کارگاه عمومی یا کارگاه برق",
+        "course_code": "30003",
+        "suggested_semester": 2,
+        "source_image": "image-1.png",
+        "code_source": "image",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_0A259B9B17F8",
+        "course_name": "آیین زندگی (اخلاق کاربردی)",
+        "course_code": "272479",
+        "suggested_semester": 4,
+        "source_image": "image-1.png",
+        "code_source": "image",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_0838533DB9BF",
+        "course_name": "تفسیر موضوعی قرآن",
+        "course_code": "1139",
+        "suggested_semester": 7,
+        "source_image": "image-1.png",
+        "code_source": "image",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_3B269F85C223",
+        "course_name": "دانش خانواده و جمعیت",
+        "course_code": "1124",
+        "suggested_semester": 8,
+        "source_image": "image-1.png",
+        "code_source": "image",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_32379CB41C65",
+        "course_name": "آشنایی با قانون اساسی جمهوری اسلامی ایران",
+        "course_code": "272458",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_0218AAEF4233",
+        "course_name": "اخلاق اسلامی (مبانی و مفاهیم)",
+        "course_code": "272456",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_14EAA502DE73",
+        "course_name": "اخلاق مهندسی",
+        "course_code": "272446",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_C61B3555056F",
+        "course_name": "اقتصاد مهندسی (مهندسی صنایع)",
+        "course_code": "30114",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_AA5925A9FBCC",
+        "course_name": "اندیشه سیاسی امام خمینی (ره)",
+        "course_code": "272459",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_F0D89C9CA9D4",
+        "course_name": "انسان در اسلام",
+        "course_code": "1154",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_8BA1A6A99C85",
+        "course_name": "انقلاب اسلامی ایران",
+        "course_code": "272481",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_E36983CECDBC",
+        "course_name": "تاریخ امامت",
+        "course_code": "272461",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_6922B6E70B7B",
+        "course_name": "تاریخ تحلیلی صدر اسلام",
+        "course_code": "272483",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_4172591D4050",
+        "course_name": "تاریخ فرهنگ و تمدن اسلامی",
+        "course_code": "272460",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_11FF137464C4",
+        "course_name": "تفسیر موضوعی نهج‌البلاغه",
+        "course_code": "272439",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_01ED4E768D8B",
+        "course_name": "حقوق اجتماعی و سیاسی در اسلام",
+        "course_code": "272440",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_37A21906C2A6",
+        "course_name": "عرفان عملی در اسلام",
+        "course_code": "272457",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_51BA6018FD6D",
+        "course_name": "فلسفه اخلاق (با تکیه بر مباحث تربیتی)",
+        "course_code": "272455",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_A2B2B2D3B7F5",
+        "course_name": "مباحث ویژه 1",
+        "course_code": "30111",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_9CCFC40A1A4A",
+        "course_name": "مباحث ویژه ۲",
+        "course_code": "30112",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_75B408EB2D5E",
+        "course_name": "محاسبات عددی (ریاضی)",
+        "course_code": "30117",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_6E80AB13A570",
+        "course_name": "مدیریت پروژه فناوری اطلاعات",
+        "course_code": "30107",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_0180FF1C09AA",
+        "course_name": "نظریه گراف (علوم کامپیوتر)",
+        "course_code": "30116",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_ED63066A58AC",
+        "course_name": "کنترل خطی (مهندسی برق)",
+        "course_code": "30113",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      },
+      {
+        "course_id": "CRS_FD6E4757D9C1",
+        "course_name": "کنترل پروژه (مهندسی صنایع)",
+        "course_code": "30115",
+        "suggested_semester": null,
+        "source_image": null,
+        "code_source": "existing_json",
+        "concurrent_course_ids": [],
+        "scope": "CHART_CONDITIONS_ONLY"
+      }
+    ],
+    "withheld": [
+      {
+        "course_id": "CRS_161266772774",
+        "course_code": "1102",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_2C0C23D8F377",
+        "course_code": "30002",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_83719EE82C75",
+        "course_code": "1110",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_01AF92175286",
+        "course_code": "2102",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_81DD3B74A849",
+        "course_code": "2135",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_760F4B7A0785",
+        "course_code": "231480",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_2AFB6ECE9696",
+        "course_code": "271463",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_EE1F88E8C716",
+        "course_code": "231484",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_890FF93028BF",
+        "course_code": "30006",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_37B1150DE68E",
+        "course_code": "30007",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_10F05F832F99",
+        "course_code": "30011",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_107E45CF4850",
+        "course_code": "30012",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_6C1F7D4E0E7B",
+        "course_code": "30014",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_E3DF69DC3026",
+        "course_code": "30015",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_3C3CAF71EF27",
+        "course_code": "30017",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_E02DCD614769",
+        "course_code": "30018",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_F23DFD7AE37B",
+        "course_code": "30019",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_E332D4A34B76",
+        "course_code": "30021",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_CD908A72E109",
+        "course_code": "30023",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_BCA7B1DB9E9A",
+        "course_code": "30025",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_972360A7E4E8",
+        "course_code": "30026",
+        "reasons": [
+          "شرط نیمسال",
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_79DFEA4D15BB",
+        "course_code": "30027",
+        "reasons": [
+          "شرط نیمسال",
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_5C79A91DABD2",
+        "course_code": "30028",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_C84172E75E62",
+        "course_code": "30029",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_ED00F6700AE6",
+        "course_code": "30030",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_8FC23E19F41A",
+        "course_code": "30031",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_94F49CE9CA90",
+        "course_code": "30032",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_665D15603306",
+        "course_code": "30033",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_9EE65FDBE1DF",
+        "course_code": "30034",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_C65C0BD3B525",
+        "course_code": "30035",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_899512540AAF",
+        "course_code": "30036",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_A05FD49F581E",
+        "course_code": "30037",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_D666ADECE5B5",
+        "course_code": "30038",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_26845060B0EA",
+        "course_code": "30039",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_F923C0C17A07",
+        "course_code": "30040",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_C2430EF0420D",
+        "course_code": "30041",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_B2A7F267F59C",
+        "course_code": "30042",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_0D830B080DF7",
+        "course_code": "30043",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_3F879927F9A3",
+        "course_code": "30044",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_25787809672A",
+        "course_code": "30128",
+        "reasons": [
+          "رابطه نیازمند بازبینی",
+          "کد تصویر 30128 با کد 30045 داده قبلی متفاوت است؛ مسیر پیش‌نیاز در تصویر نیازمند بررسی است"
+        ]
+      },
+      {
+        "course_id": "CRS_7EF6760ABAF5",
+        "course_code": "30046",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_6A18CF9362E1",
+        "course_code": "30047",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_43D3B0C7F8F1",
+        "course_code": "30048",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_7A048E51EE59",
+        "course_code": "30049",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_500FAEE7BB05",
+        "course_code": "30050",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_9EE73BB7839D",
+        "course_code": "30051",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_A43B6A9B74B6",
+        "course_code": "30052",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_BF6326F9CC51",
+        "course_code": "30053",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_8C048E7C7206",
+        "course_code": "30054",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_EBA3B5BC112B",
+        "course_code": "30055",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_60C07AE41C92",
+        "course_code": "30100",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_6521BF3605DA",
+        "course_code": "30101",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_D4EB2D087DDC",
+        "course_code": "30102",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_A9A036391CB5",
+        "course_code": "30103",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_55E88E499A17",
+        "course_code": "30104",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_B79F6DBAFABC",
+        "course_code": "30105",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_489E480B902D",
+        "course_code": "30106",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_747F31CA7595",
+        "course_code": "30108",
+        "reasons": [
+          "رابطه نیازمند بازبینی",
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_FA5709664ED5",
+        "course_code": "30109",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_64447F553FA7",
+        "course_code": "30110",
+        "reasons": [
+          "پیش‌نیاز احراز نشده"
+        ]
+      },
+      {
+        "course_id": "CRS_71DD849206C5",
+        "course_code": "30008",
+        "reasons": [
+          "هم‌نیاز قابل اخذ یا گذرانده‌شده احراز نشد"
+        ]
+      },
+      {
+        "course_id": "CRS_ACB8471FAC91",
+        "course_code": "30009",
+        "reasons": [
+          "هم‌نیاز قابل اخذ یا گذرانده‌شده احراز نشد"
+        ]
+      },
+      {
+        "course_id": "CRS_688B4DAB1F5A",
+        "course_code": "30010",
+        "reasons": [
+          "هم‌نیاز قابل اخذ یا گذرانده‌شده احراز نشد"
+        ]
+      },
+      {
+        "course_id": "CRS_112D7E5CBA9B",
+        "course_code": "30013",
+        "reasons": [
+          "هم‌نیاز قابل اخذ یا گذرانده‌شده احراز نشد"
+        ]
+      },
+      {
+        "course_id": "CRS_FDF9170DB53C",
+        "course_code": "30016",
+        "reasons": [
+          "هم‌نیاز قابل اخذ یا گذرانده‌شده احراز نشد"
+        ]
+      },
+      {
+        "course_id": "CRS_5E834601F42B",
+        "course_code": "30020",
+        "reasons": [
+          "هم‌نیاز قابل اخذ یا گذرانده‌شده احراز نشد"
+        ]
+      },
+      {
+        "course_id": "CRS_4C50C6ABB1DC",
+        "course_code": "30022",
+        "reasons": [
+          "هم‌نیاز قابل اخذ یا گذرانده‌شده احراز نشد"
+        ]
+      },
+      {
+        "course_id": "CRS_27193B7F9C5D",
+        "course_code": "30024",
+        "reasons": [
+          "هم‌نیاز قابل اخذ یا گذرانده‌شده احراز نشد"
+        ]
+      }
+    ],
+    "source_image": "image-1.png",
+    "source_sha256": "7750840ee4709197a20c42c26f25460a1afe465873c818fc3269597b0c0dfe78",
+    "selection_rule": "ابتدا قدیمی‌ترین نیمسال دارای درس قابل پیشنهاد در چارت تصویری؛ سپس سایر گزینه‌ها",
+    "notice": "بر اساس کارنامه موجود و شرایط چارت؛ هم‌نیازها باید با هم انتخاب شوند. ارائه، ظرفیت و سقف واحد نیازمند بررسی‌اند.",
+    "code_notice": null,
+    "visual_slots": [
+      {
+        "suggested_semester": 5,
+        "name": "انقلاب اسلامی / اندیشه سیاسی امام",
+        "kind": "alternative",
+        "course_codes": [
+          "272481",
+          "272459"
+        ]
+      },
+      {
+        "suggested_semester": 6,
+        "name": "تاریخ تحلیلی اسلام / تاریخ امامت",
+        "kind": "alternative",
+        "course_codes": [
+          "272483",
+          "272461"
+        ]
+      },
+      {
+        "suggested_semester": 7,
+        "name": "کنترل پروژه / کسب و کار نوپا",
+        "kind": "unresolved_option"
+      },
+      {
+        "suggested_semester": 7,
+        "name": "مباحث ویژه / مبانی امنیت اطلاعات",
+        "kind": "unresolved_option"
+      },
+      {
+        "suggested_semester": 8,
+        "name": "کنترل پروژه / کسب و کار نوپا",
+        "kind": "unresolved_option"
+      },
+      {
+        "suggested_semester": 8,
+        "name": "اختیاری به انتخاب دانشجو",
+        "kind": "unresolved_option"
+      }
+    ],
+    "visual_conflicts": [
+      {
+        "course_id": "CRS_760F4B7A0785",
+        "before": {
+          "course_code": "231480",
+          "credits": 3,
+          "prerequisites": "2101",
+          "corequisites": null
+        },
+        "visual": {
+          "course_code": "231480",
+          "credits": 3,
+          "prerequisites": "271477",
+          "corequisites": null
+        },
+        "image": "image-1.png",
+        "semester": 2
+      },
+      {
+        "course_id": "CRS_CD908A72E109",
+        "before": {
+          "course_code": "30023",
+          "credits": 3,
+          "prerequisites": "271463, 30015",
+          "corequisites": "30021, 30024"
+        },
+        "visual": {
+          "course_code": "30023",
+          "credits": 3,
+          "prerequisites": "30015, 271463",
+          "corequisites": "30021, 30024"
+        },
+        "image": "image-1.png",
+        "semester": 5
+      },
+      {
+        "course_id": "CRS_25787809672A",
+        "before": {
+          "course_code": "30045",
+          "credits": 3,
+          "prerequisites": "30023",
+          "corequisites": null
+        },
+        "visual": {
+          "course_code": "30128",
+          "credits": 3,
+          "prerequisites": null,
+          "corequisites": null
+        },
+        "image": "image-1.png",
+        "semester": 6
+      }
+    ]
+  }
+}

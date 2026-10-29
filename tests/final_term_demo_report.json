@@ -1,0 +1,1730 @@
+{
+  "schema_version": "1.0",
+  "report_type": "PRELIMINARY_TRANSCRIPT_ANALYSIS",
+  "curriculum": "1401-1402",
+  "student": {
+    "student_id": "FULL-PLAN-DEMO",
+    "full_name": null,
+    "major": null
+  },
+  "overview": {
+    "semester_count": 9,
+    "course_attempts": 59,
+    "attempted_credits_from_rows": 139.0,
+    "latest_reported_passed_credits": null,
+    "latest_reported_gpa": 15,
+    "observed_grades_at_least_10": 59,
+    "observed_grades_below_10": 0,
+    "observed_missing_grades": 0,
+    "matched_attempts": 59,
+    "unmatched_attempts": 0,
+    "repeated_course_count": 0
+  },
+  "semesters": [
+    {
+      "academic_year_start": 1401,
+      "term": 1,
+      "attempt_count": 8,
+      "credits_from_rows": 17.0,
+      "reported_attempted_credits": null,
+      "reported_passed_credits": null,
+      "reported_term_gpa": 15.0,
+      "reported_cumulative_gpa": 15,
+      "reported_cumulative_passed_credits": null
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 2,
+      "attempt_count": 8,
+      "credits_from_rows": 17.0,
+      "reported_attempted_credits": null,
+      "reported_passed_credits": null,
+      "reported_term_gpa": 15.0,
+      "reported_cumulative_gpa": 15,
+      "reported_cumulative_passed_credits": null
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "attempt_count": 9,
+      "credits_from_rows": 19.0,
+      "reported_attempted_credits": null,
+      "reported_passed_credits": null,
+      "reported_term_gpa": 15.0,
+      "reported_cumulative_gpa": 15,
+      "reported_cumulative_passed_credits": null
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "attempt_count": 7,
+      "credits_from_rows": 18.0,
+      "reported_attempted_credits": null,
+      "reported_passed_credits": null,
+      "reported_term_gpa": 15.0,
+      "reported_cumulative_gpa": 15,
+      "reported_cumulative_passed_credits": null
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "attempt_count": 8,
+      "credits_from_rows": 17.0,
+      "reported_attempted_credits": null,
+      "reported_passed_credits": null,
+      "reported_term_gpa": 15.0,
+      "reported_cumulative_gpa": 15,
+      "reported_cumulative_passed_credits": null
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "attempt_count": 6,
+      "credits_from_rows": 16.0,
+      "reported_attempted_credits": null,
+      "reported_passed_credits": null,
+      "reported_term_gpa": 15.0,
+      "reported_cumulative_gpa": 15,
+      "reported_cumulative_passed_credits": null
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 3,
+      "attempt_count": 1,
+      "credits_from_rows": 1.0,
+      "reported_attempted_credits": null,
+      "reported_passed_credits": null,
+      "reported_term_gpa": 15.0,
+      "reported_cumulative_gpa": 15,
+      "reported_cumulative_passed_credits": null
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "attempt_count": 6,
+      "credits_from_rows": 17.0,
+      "reported_attempted_credits": null,
+      "reported_passed_credits": null,
+      "reported_term_gpa": 15.0,
+      "reported_cumulative_gpa": 15,
+      "reported_cumulative_passed_credits": null
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "attempt_count": 6,
+      "credits_from_rows": 17.0,
+      "reported_attempted_credits": null,
+      "reported_passed_credits": null,
+      "reported_term_gpa": 15.0,
+      "reported_cumulative_gpa": 15,
+      "reported_cumulative_passed_credits": null
+    }
+  ],
+  "unmatched_courses": [],
+  "ambiguous_courses": [],
+  "repeated_courses": [],
+  "course_attempts": [
+    {
+      "academic_year_start": 1401,
+      "term": 1,
+      "course_code": "30004",
+      "course_id": "CRS_5F09C77118FD",
+      "course_name": "مبانی کامپیوتر و برنامه‌نویسی",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "مبانی کامپیوتر و برنامه‌نویسی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 1,
+      "course_code": "30005",
+      "course_id": "CRS_7677167740A6",
+      "course_name": "کارگاه مبانی کامپیوتر و برنامه‌نویسی",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "کارگاه مبانی کامپیوتر و برنامه‌نویسی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 1,
+      "course_code": "1107",
+      "course_id": "CRS_C7C1EF22A454",
+      "course_name": "زبان فارسی",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "OE",
+      "chart_course_name": "زبان فارسی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 1,
+      "course_code": "2101",
+      "course_id": "CRS_EC6BE2AE497B",
+      "course_name": "ریاضی عمومی 1",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "P",
+      "chart_course_name": "ریاضی عمومی 1",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 1,
+      "course_code": "271477",
+      "course_id": "CRS_4D8E1A81A859",
+      "course_name": "فیزیک ۱",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "P",
+      "chart_course_name": "فیزیک ۱",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 1,
+      "course_code": "1101",
+      "course_id": "CRS_AA3D74F3CDFA",
+      "course_name": "اندیشه اسلامی ۱ (مبدأ و معاد)",
+      "credits": 2.0,
+      "grade": 17.0,
+      "course_type": "O",
+      "chart_course_name": "اندیشه اسلامی ۱ (مبدأ و معاد)",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 1,
+      "course_code": "1109",
+      "course_id": "CRS_6C0C48A919F4",
+      "course_name": "تربیت بدنی ۱",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "OE",
+      "chart_course_name": "تربیت بدنی ۱",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 1,
+      "course_code": "30001",
+      "course_id": "CRS_F11366438FA2",
+      "course_name": "زبان انگلیسی ۱",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "OE",
+      "chart_course_name": "زبان انگلیسی ۱",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 2,
+      "course_code": "30006",
+      "course_id": "CRS_890FF93028BF",
+      "course_name": "ریاضیات گسسته",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "ریاضیات گسسته",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 2,
+      "course_code": "30007",
+      "course_id": "CRS_37B1150DE68E",
+      "course_name": "برنامه نویسی پیشرفته",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "برنامه نویسی پیشرفته",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 2,
+      "course_code": "30008",
+      "course_id": "CRS_71DD849206C5",
+      "course_name": "کارگاه برنامه‌نویسی پیشرفته",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "کارگاه برنامه‌نویسی پیشرفته",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 2,
+      "course_code": "2102",
+      "course_id": "CRS_01AF92175286",
+      "course_name": "ریاضی عمومی 2",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "P",
+      "chart_course_name": "ریاضی عمومی 2",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 2,
+      "course_code": "231480",
+      "course_id": "CRS_760F4B7A0785",
+      "course_name": "فیزیک ۲",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "P",
+      "chart_course_name": "فیزیک ۲",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 2,
+      "course_code": "30003",
+      "course_id": "CRS_FB72FAA0E398",
+      "course_name": "کارگاه عمومی یا کارگاه برق",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "P",
+      "chart_course_name": "کارگاه عمومی یا کارگاه برق",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 2,
+      "course_code": "1110",
+      "course_id": "CRS_83719EE82C75",
+      "course_name": "تربیت بدنی ۲",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "OE",
+      "chart_course_name": "تربیت بدنی ۲",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1401,
+      "term": 2,
+      "course_code": "30002",
+      "course_id": "CRS_2C0C23D8F377",
+      "course_name": "زبان انگلیسی ۲",
+      "credits": 2.0,
+      "grade": 17.0,
+      "course_type": "OE",
+      "chart_course_name": "زبان انگلیسی ۲",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "30009",
+      "course_id": "CRS_ACB8471FAC91",
+      "course_name": "مدارهای منطقی",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "مدارهای منطقی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "30010",
+      "course_id": "CRS_688B4DAB1F5A",
+      "course_name": "آزمایشگاه مدارهای منطقی",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "آزمایشگاه مدارهای منطقی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "30011",
+      "course_id": "CRS_10F05F832F99",
+      "course_name": "ساختمان داده‌ها و الگوریتم‌ها",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "ساختمان داده‌ها و الگوریتم‌ها",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "2135",
+      "course_id": "CRS_81DD3B74A849",
+      "course_name": "معادلات دیفرانسیل",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "P",
+      "chart_course_name": "معادلات دیفرانسیل",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "30012",
+      "course_id": "CRS_107E45CF4850",
+      "course_name": "مدارهای الکتریکی و الکترونیکی",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "مدارهای الکتریکی و الکترونیکی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "30013",
+      "course_id": "CRS_112D7E5CBA9B",
+      "course_name": "آزمایشگاه مدارهای الکتریکی و الکترونیکی",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "آزمایشگاه مدارهای الکتریکی و الکترونیکی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "231484",
+      "course_id": "CRS_EE1F88E8C716",
+      "course_name": "آزمایشگاه فیزیک ۲",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "P",
+      "chart_course_name": "آزمایشگاه فیزیک ۲",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "30014",
+      "course_id": "CRS_6C1F7D4E0E7B",
+      "course_name": "زبان تخصصی",
+      "credits": 2.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "زبان تخصصی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "course_code": "1102",
+      "course_id": "CRS_161266772774",
+      "course_name": "اندیشه اسلامی ۲ (نبوت و امامت)",
+      "credits": 2.0,
+      "grade": 17.0,
+      "course_type": "O",
+      "chart_course_name": "اندیشه اسلامی ۲ (نبوت و امامت)",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "30015",
+      "course_id": "CRS_E3DF69DC3026",
+      "course_name": "معماری کامپیوتر",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "معماری کامپیوتر",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "30016",
+      "course_id": "CRS_FDF9170DB53C",
+      "course_name": "آزمایشگاه معماری کامپیوتر",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "آزمایشگاه معماری کامپیوتر",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "30017",
+      "course_id": "CRS_3C3CAF71EF27",
+      "course_name": "نظریه زبان‌ها و ماشین‌ها",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "نظریه زبان‌ها و ماشین‌ها",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "271463",
+      "course_id": "CRS_2AFB6ECE9696",
+      "course_name": "آمار و احتمال مهندسی",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "P",
+      "chart_course_name": "آمار و احتمال مهندسی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "30018",
+      "course_id": "CRS_E02DCD614769",
+      "course_name": "جبرخطی کاربردی",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "جبرخطی کاربردی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "30029",
+      "course_id": "CRS_C84172E75E62",
+      "course_name": "طراحی الگوریتم‌ها",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "T",
+      "chart_course_name": "طراحی الگوریتم‌ها",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1402,
+      "term": 2,
+      "course_code": "272479",
+      "course_id": "CRS_0A259B9B17F8",
+      "course_name": "آیین زندگی (اخلاق کاربردی)",
+      "credits": 2.0,
+      "grade": 17.0,
+      "course_type": "O",
+      "chart_course_name": "آیین زندگی (اخلاق کاربردی)",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "30019",
+      "course_id": "CRS_F23DFD7AE37B",
+      "course_name": "ریزپردازنده و زبان اسمبلی",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "ریزپردازنده و زبان اسمبلی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "30020",
+      "course_id": "CRS_5E834601F42B",
+      "course_name": "آزمایشگاه ریزپردازنده و زبان اسمبلی",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "آزمایشگاه ریزپردازنده و زبان اسمبلی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "30021",
+      "course_id": "CRS_E332D4A34B76",
+      "course_name": "سیستم های عامل",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "سیستم های عامل",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "30022",
+      "course_id": "CRS_4C50C6ABB1DC",
+      "course_name": "آزمایشگاه سیستم‌های عامل",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "آزمایشگاه سیستم‌های عامل",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "30030",
+      "course_id": "CRS_ED00F6700AE6",
+      "course_name": "اصول طراحی پایگاه داده‌ها",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "T",
+      "chart_course_name": "اصول طراحی پایگاه داده‌ها",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "30023",
+      "course_id": "CRS_CD908A72E109",
+      "course_name": "شبکه های کامپیوتری",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "شبکه های کامپیوتری",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "30024",
+      "course_id": "CRS_27193B7F9C5D",
+      "course_name": "آزمایشگاه شبکه‌های کامپیوتری",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "آزمایشگاه شبکه‌های کامپیوتری",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "course_code": "272481",
+      "course_id": "CRS_8BA1A6A99C85",
+      "course_name": "انقلاب اسلامی ایران",
+      "credits": 2.0,
+      "grade": 17.0,
+      "course_type": "O",
+      "chart_course_name": "انقلاب اسلامی ایران",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "course_code": "30037",
+      "course_id": "CRS_A05FD49F581E",
+      "course_name": "سیگنال‌ها و سیستم‌ها",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "T",
+      "chart_course_name": "سیگنال‌ها و سیستم‌ها",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "course_code": "30051",
+      "course_id": "CRS_9EE73BB7839D",
+      "course_name": "مبانی و کاربردهای هوش مصنوعی",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "T",
+      "chart_course_name": "مبانی و کاربردهای هوش مصنوعی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "course_code": "30052",
+      "course_id": "CRS_A43B6A9B74B6",
+      "course_name": "مبانی هوش محاسباتی",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "T",
+      "chart_course_name": "مبانی هوش محاسباتی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "course_code": "30025",
+      "course_id": "CRS_BCA7B1DB9E9A",
+      "course_name": "مهندسی نرم افزار1",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "مهندسی نرم افزار1",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "course_code": "30026",
+      "course_id": "CRS_972360A7E4E8",
+      "course_name": "روش پژوهش و ارائه",
+      "credits": 2.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "روش پژوهش و ارائه",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 2,
+      "course_code": "272461",
+      "course_id": "CRS_E36983CECDBC",
+      "course_name": "تاریخ امامت",
+      "credits": 2.0,
+      "grade": 17.0,
+      "course_type": "O",
+      "chart_course_name": "تاریخ امامت",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "30054",
+      "course_id": "CRS_8C048E7C7206",
+      "course_name": "داده کاوی",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "T",
+      "chart_course_name": "داده کاوی",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "30035",
+      "course_id": "CRS_C65C0BD3B525",
+      "course_name": "طراحی واسط کاربر",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "T",
+      "chart_course_name": "طراحی واسط کاربر",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "30033",
+      "course_id": "CRS_665D15603306",
+      "course_name": "مهندسی نرم‌افزار ۲",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "T",
+      "chart_course_name": "مهندسی نرم‌افزار ۲",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "1139",
+      "course_id": "CRS_0838533DB9BF",
+      "course_name": "تفسیر موضوعی قرآن",
+      "credits": 2.0,
+      "grade": 17.0,
+      "course_type": "O",
+      "chart_course_name": "تفسیر موضوعی قرآن",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "30115",
+      "course_id": "CRS_FD6E4757D9C1",
+      "course_name": "کنترل پروژه (مهندسی صنایع)",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "EK",
+      "chart_course_name": "کنترل پروژه (مهندسی صنایع)",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 1,
+      "course_code": "30111",
+      "course_id": "CRS_A2B2B2D3B7F5",
+      "course_name": "مباحث ویژه 1",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "EK",
+      "chart_course_name": "مباحث ویژه 1",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "30036",
+      "course_id": "CRS_899512540AAF",
+      "course_name": "بازیابی اطلاعات",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "T",
+      "chart_course_name": "بازیابی اطلاعات",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "30055",
+      "course_id": "CRS_EBA3B5BC112B",
+      "course_name": "اصول علم ربات",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "T",
+      "chart_course_name": "اصول علم ربات",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "1124",
+      "course_id": "CRS_3B269F85C223",
+      "course_name": "دانش خانواده و جمعیت",
+      "credits": 2.0,
+      "grade": 17.0,
+      "course_type": "OE",
+      "chart_course_name": "دانش خانواده و جمعیت",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "30109",
+      "course_id": "CRS_FA5709664ED5",
+      "course_name": "توسعه کسب و کار نوپا",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "EK",
+      "chart_course_name": "توسعه کسب و کار نوپا",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "30107",
+      "course_id": "CRS_6E80AB13A570",
+      "course_name": "مدیریت پروژه فناوری اطلاعات",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "EK",
+      "chart_course_name": "مدیریت پروژه فناوری اطلاعات",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1404,
+      "term": 2,
+      "course_code": "30114",
+      "course_id": "CRS_C61B3555056F",
+      "course_name": "اقتصاد مهندسی (مهندسی صنایع)",
+      "credits": 3.0,
+      "grade": 17.0,
+      "course_type": "EK",
+      "chart_course_name": "اقتصاد مهندسی (مهندسی صنایع)",
+      "matching": "EXACT_CODE"
+    },
+    {
+      "academic_year_start": 1403,
+      "term": 3,
+      "course_code": "30027",
+      "course_id": "CRS_79DFEA4D15BB",
+      "course_name": "کارآموزی",
+      "credits": 1.0,
+      "grade": 17.0,
+      "course_type": "A",
+      "chart_course_name": "کارآموزی",
+      "matching": "EXACT_CODE"
+    }
+  ],
+  "warnings": [
+    "مقایسه بر پایه کارنامه موجود و چارت انتخابی انجام می‌شود؛ ثبت رسمی فارغ‌التحصیلی با آموزش است."
+  ],
+  "limitations": "حد قبولی ثبت‌شده ۱۰ است؛ تطبیق کد، واحد و سهم گروه‌ها جداگانه بررسی می‌شود. صدور مدرک و مجوز اخذ درس موضوع این گزارش نیست.",
+  "visual_summary": {
+    "schema_version": "1.0",
+    "chart": "1401-1402",
+    "source_image": "image-1.png",
+    "source_sha256": "7750840ee4709197a20c42c26f25460a1afe465873c818fc3269597b0c0dfe78",
+    "not_taken": [
+      {
+        "course_id": "CRS_25787809672A",
+        "course_name": "برنامه‌نویسی وب",
+        "course_code": "30128",
+        "code_source": "image",
+        "suggested_semester": 6,
+        "availability": {
+          "status": "UNKNOWN",
+          "reasons": [
+            "کد یا شرط چارت نیازمند بررسی"
+          ],
+          "concurrent_ids": []
+        },
+        "source_image": "image-1.png"
+      },
+      {
+        "course_id": "CRS_5C79A91DABD2",
+        "course_name": "پروژه پایانی",
+        "course_code": "30028",
+        "code_source": "image",
+        "suggested_semester": 7,
+        "availability": {
+          "status": "READY",
+          "reasons": [],
+          "concurrent_ids": []
+        },
+        "source_image": "image-1.png"
+      }
+    ],
+    "option_groups": [
+      {
+        "key": "elective",
+        "title": "اختیاری به انتخاب دانشجو",
+        "semesters": [
+          8
+        ],
+        "note": "گزینه‌های ثبت‌شده جدول اختیاری؛ مسیر استفاده از بسته‌های تخصصی سهم و تأیید جداگانه دارد.",
+        "previously_taken_count": 5,
+        "ready": [
+          {
+            "course_id": "CRS_6521BF3605DA",
+            "course_name": "تعامل انسان و کامپیوتر",
+            "course_code": "30101",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_64447F553FA7",
+            "course_name": "سیستم‌های اتوماسیون صنعتی",
+            "course_code": "30110",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_B79F6DBAFABC",
+            "course_name": "شبیه سازی کامپیوتری",
+            "course_code": "30105",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_A9A036391CB5",
+            "course_name": "طراحی بازی‌های کامپیوتری",
+            "course_code": "30103",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_9CCFC40A1A4A",
+            "course_name": "مباحث ویژه ۲",
+            "course_code": "30112",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_75B408EB2D5E",
+            "course_name": "محاسبات عددی (ریاضی)",
+            "course_code": "30117",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_55E88E499A17",
+            "course_name": "نظریه محاسبات",
+            "course_code": "30104",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_0180FF1C09AA",
+            "course_name": "نظریه گراف (علوم کامپیوتر)",
+            "course_code": "30116",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_D4EB2D087DDC",
+            "course_name": "کارگاه ساخت ربات",
+            "course_code": "30102",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_ED63066A58AC",
+            "course_name": "کنترل خطی (مهندسی برق)",
+            "course_code": "30113",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_60C07AE41C92",
+            "course_name": "گرافیک کامپیوتری",
+            "course_code": "30100",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          }
+        ],
+        "needs_review": [
+          {
+            "course_id": "CRS_747F31CA7595",
+            "course_name": "تجارت الکترونیکی",
+            "course_code": "30108",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "UNKNOWN",
+              "reasons": [
+                "کد یا شرط چارت نیازمند بررسی"
+              ],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          }
+        ],
+        "waiting": [
+          {
+            "course_id": "CRS_489E480B902D",
+            "course_name": "مبانی پویانمایی کامپیوتری",
+            "course_code": "30106",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "WAITING",
+              "reasons": [
+                "پیش‌نیاز در کارنامه موجود نیست"
+              ],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          }
+        ],
+        "remaining_option_count": 13,
+        "required_slots_remaining": null,
+        "show_in_main": false,
+        "completion_status": null,
+        "choice_rule": null,
+        "retake_options": []
+      },
+      {
+        "key": "elective_from_package:طراحی و توسعه نرم‌افزار",
+        "title": "اختیاری از بسته‌های تخصصی — طراحی و توسعه نرم‌افزار",
+        "semesters": [
+          8
+        ],
+        "note": "طبق متن داده قبلی، مسیر اخذ درس‌های اخذنشدهٔ بسته‌های تخصصی تا پنج درس پیش‌بینی شده است؛ سهم و تأیید این مسیر باید بررسی شود.",
+        "previously_taken_count": 5,
+        "ready": [
+          {
+            "course_id": "CRS_9EE65FDBE1DF",
+            "course_name": "آزمون نرم افزار",
+            "course_code": "30034",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_8FC23E19F41A",
+            "course_name": "اصول طراحی کامپایلر",
+            "course_code": "30031",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_94F49CE9CA90",
+            "course_name": "زبان‌های برنامه‌نویسی",
+            "course_code": "30032",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          }
+        ],
+        "needs_review": [],
+        "waiting": [],
+        "remaining_option_count": 3,
+        "required_slots_remaining": null,
+        "show_in_main": false,
+        "completion_status": null,
+        "choice_rule": null,
+        "retake_options": []
+      },
+      {
+        "key": "elective_from_package:هوش مصنوعی",
+        "title": "اختیاری از بسته‌های تخصصی — هوش مصنوعی",
+        "semesters": [
+          8
+        ],
+        "note": "طبق متن داده قبلی، مسیر اخذ درس‌های اخذنشدهٔ بسته‌های تخصصی تا پنج درس پیش‌بینی شده است؛ سهم و تأیید این مسیر باید بررسی شود.",
+        "previously_taken_count": 7,
+        "ready": [
+          {
+            "course_id": "CRS_BF6326F9CC51",
+            "course_name": "مقدمه‌ای بر بیوانفورماتیک",
+            "course_code": "30053",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          }
+        ],
+        "needs_review": [],
+        "waiting": [],
+        "remaining_option_count": 1,
+        "required_slots_remaining": null,
+        "show_in_main": false,
+        "completion_status": null,
+        "choice_rule": null,
+        "retake_options": []
+      },
+      {
+        "key": "elective_from_package:سیستم‌های کامپیوتری",
+        "title": "اختیاری از بسته‌های تخصصی — سیستم‌های کامپیوتری",
+        "semesters": [
+          8
+        ],
+        "note": "طبق متن داده قبلی، مسیر اخذ درس‌های اخذنشدهٔ بسته‌های تخصصی تا پنج درس پیش‌بینی شده است؛ سهم و تأیید این مسیر باید بررسی شود.",
+        "previously_taken_count": 1,
+        "ready": [
+          {
+            "course_id": "CRS_F923C0C17A07",
+            "course_name": "الکترونیک دیجیتال",
+            "course_code": "30040",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_B2A7F267F59C",
+            "course_name": "برنامه‌نویسی چندهسته‌ای",
+            "course_code": "30042",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_C2430EF0420D",
+            "course_name": "سیستم‌های نهفته و بی‌درنگ",
+            "course_code": "30041",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_3F879927F9A3",
+            "course_name": "طراحی توأم سخت‌افزار و نرم‌افزار",
+            "course_code": "30044",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_26845060B0EA",
+            "course_name": "طراحی سیستم‌های دیجیتال برنامه‌پذیر",
+            "course_code": "30039",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_D666ADECE5B5",
+            "course_name": "طراحی مدارهای واسط",
+            "course_code": "30038",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_0D830B080DF7",
+            "course_name": "مبانی رایانش ابری",
+            "course_code": "30043",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          }
+        ],
+        "needs_review": [],
+        "waiting": [],
+        "remaining_option_count": 7,
+        "required_slots_remaining": null,
+        "show_in_main": false,
+        "completion_status": null,
+        "choice_rule": null,
+        "retake_options": []
+      },
+      {
+        "key": "elective_from_package:شبکه‌های کامپیوتری",
+        "title": "اختیاری از بسته‌های تخصصی — شبکه‌های کامپیوتری",
+        "semesters": [
+          8
+        ],
+        "note": "طبق متن داده قبلی، مسیر اخذ درس‌های اخذنشدهٔ بسته‌های تخصصی تا پنج درس پیش‌بینی شده است؛ سهم و تأیید این مسیر باید بررسی شود.",
+        "previously_taken_count": 1,
+        "ready": [
+          {
+            "course_id": "CRS_7EF6760ABAF5",
+            "course_name": "انتقال داده ها",
+            "course_code": "30046",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_7A048E51EE59",
+            "course_name": "برنامه‌نویسی دستگاه‌های سیار",
+            "course_code": "30049",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_43D3B0C7F8F1",
+            "course_name": "سیستم‌های چندرسانه‌ای",
+            "course_code": "30048",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_6A18CF9362E1",
+            "course_name": "مبانی امنیت اطلاعات",
+            "course_code": "30047",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_500FAEE7BB05",
+            "course_name": "مبانی اینترنت اشیا",
+            "course_code": "30050",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_0D830B080DF7",
+            "course_name": "مبانی رایانش ابری",
+            "course_code": "30043",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          }
+        ],
+        "needs_review": [
+          {
+            "course_id": "CRS_25787809672A",
+            "course_name": "برنامه‌نویسی وب",
+            "course_code": "30128",
+            "code_source": "image",
+            "suggested_semester": 6,
+            "availability": {
+              "status": "UNKNOWN",
+              "reasons": [
+                "کد یا شرط چارت نیازمند بررسی"
+              ],
+              "concurrent_ids": []
+            },
+            "source_image": "image-1.png"
+          }
+        ],
+        "waiting": [],
+        "remaining_option_count": 7,
+        "required_slots_remaining": null,
+        "show_in_main": false,
+        "completion_status": null,
+        "choice_rule": null,
+        "retake_options": []
+      },
+      {
+        "key": "startup",
+        "title": "کنترل پروژه / کسب و کار نوپا",
+        "semesters": [
+          7,
+          8
+        ],
+        "note": "گزینه‌های جایگزین تصویر؛ وجود دو خانه به معنی الزام اخذ هر دو گزینه نیست.",
+        "previously_taken_count": 2,
+        "ready": [],
+        "needs_review": [],
+        "waiting": [],
+        "remaining_option_count": 0,
+        "required_slots_remaining": null,
+        "show_in_main": false,
+        "completion_status": null,
+        "choice_rule": null,
+        "retake_options": []
+      },
+      {
+        "key": "special_topics",
+        "title": "مباحث ویژه / مبانی امنیت اطلاعات",
+        "semesters": [
+          7
+        ],
+        "note": "شماره مباحث ویژه در تصویر مشخص نیست؛ انتخاب نهایی نیازمند تأیید است.",
+        "previously_taken_count": 1,
+        "ready": [
+          {
+            "course_id": "CRS_9CCFC40A1A4A",
+            "course_name": "مباحث ویژه ۲",
+            "course_code": "30112",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          },
+          {
+            "course_id": "CRS_6A18CF9362E1",
+            "course_name": "مبانی امنیت اطلاعات",
+            "course_code": "30047",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          }
+        ],
+        "needs_review": [],
+        "waiting": [],
+        "remaining_option_count": 2,
+        "required_slots_remaining": null,
+        "show_in_main": false,
+        "completion_status": null,
+        "choice_rule": null,
+        "retake_options": []
+      },
+      {
+        "key": "revolution",
+        "title": "انقلاب اسلامی / اندیشه سیاسی امام",
+        "semesters": [
+          5
+        ],
+        "note": null,
+        "previously_taken_count": 1,
+        "ready": [
+          {
+            "course_id": "CRS_AA5925A9FBCC",
+            "course_name": "اندیشه سیاسی امام خمینی (ره)",
+            "course_code": "272459",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          }
+        ],
+        "needs_review": [],
+        "waiting": [],
+        "remaining_option_count": 1,
+        "required_slots_remaining": 0,
+        "show_in_main": true,
+        "completion_status": "COMPLETE",
+        "choice_rule": "one_passed_course",
+        "retake_options": []
+      },
+      {
+        "key": "history",
+        "title": "تاریخ تحلیلی اسلام / تاریخ امامت",
+        "semesters": [
+          6
+        ],
+        "note": null,
+        "previously_taken_count": 1,
+        "ready": [
+          {
+            "course_id": "CRS_6922B6E70B7B",
+            "course_name": "تاریخ تحلیلی صدر اسلام",
+            "course_code": "272483",
+            "code_source": "existing_json",
+            "suggested_semester": null,
+            "availability": {
+              "status": "READY",
+              "reasons": [],
+              "concurrent_ids": []
+            },
+            "source_image": null
+          }
+        ],
+        "needs_review": [],
+        "waiting": [],
+        "remaining_option_count": 1,
+        "required_slots_remaining": 0,
+        "show_in_main": true,
+        "completion_status": "COMPLETE",
+        "choice_rule": "one_passed_course",
+        "retake_options": []
+      }
+    ],
+    "main_alternatives": [],
+    "needs_matching": [],
+    "uncertain_visual_courses": [],
+    "unresolved_slots": [
+      {
+        "suggested_semester": 7,
+        "name": "کنترل پروژه / کسب و کار نوپا",
+        "kind": "unresolved_option"
+      },
+      {
+        "suggested_semester": 7,
+        "name": "مباحث ویژه / مبانی امنیت اطلاعات",
+        "kind": "unresolved_option"
+      },
+      {
+        "suggested_semester": 8,
+        "name": "کنترل پروژه / کسب و کار نوپا",
+        "kind": "unresolved_option"
+      },
+      {
+        "suggested_semester": 8,
+        "name": "اختیاری به انتخاب دانشجو",
+        "kind": "unresolved_option"
+      }
+    ],
+    "selection_notes": [
+      {
+        "source_row": 107,
+        "rule_text": "کلیه درس‌های اخذنشده از بسته‌های تخصصی (تا پنج درس)",
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_credits": 3,
+        "entry_year_from": 1401,
+        "entry_year_to": 1402,
+        "prerequisites_source": null,
+        "corequisites_source": null,
+        "notes": "مسیر انتخاب درس؛ فاقد کد ثابت در سند",
+        "record_type": "CURRICULUM_OPTION"
+      },
+      {
+        "source_row": 108,
+        "rule_text": "دو درس از دوره کارشناسی سایر رشته‌ها",
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_credits": 3,
+        "entry_year_from": 1401,
+        "entry_year_to": 1402,
+        "prerequisites_source": null,
+        "corequisites_source": null,
+        "notes": "مسیر انتخاب درس؛ فاقد کد ثابت در سند",
+        "record_type": "CURRICULUM_OPTION"
+      },
+      {
+        "source_row": 109,
+        "rule_text": "دو درس از مقطع کارشناسی ارشد مهندسی کامپیوتر",
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_credits": 3,
+        "entry_year_from": 1401,
+        "entry_year_to": 1402,
+        "prerequisites_source": null,
+        "corequisites_source": null,
+        "notes": "مسیر انتخاب درس؛ فاقد کد ثابت در سند",
+        "record_type": "CURRICULUM_OPTION"
+      },
+      {
+        "source_row": 110,
+        "rule_text": "اخذ ۱۵ واحد از بسته‌های اختیاری سایر رشته‌ها به‌عنوان گرایش فرعی (با تأیید دانشگاه)",
+        "course_type": "EK",
+        "source_category": "اختیاری",
+        "source_credits": null,
+        "entry_year_from": 1401,
+        "entry_year_to": 1402,
+        "prerequisites_source": null,
+        "corequisites_source": null,
+        "notes": "قاعده انتخاب واحد، نه یک درس مستقل",
+        "record_type": "CURRICULUM_OPTION"
+      }
+    ],
+    "code_notice": null,
+    "notice": "اخذنشده‌ها بر اساس کارنامه موجودند؛ گزینه‌های آماده فقط از نظر شروط ثبت‌شده چارت بررسی شده‌اند. هم‌نیازهای پیشنهادی باید با هم اخذ شوند؛ ارائه، سهم اختیاری و سقف واحد جداگانه بررسی شود."
+  },
+  "academic_review": {
+    "mode": "graduation",
+    "chart": "1401-1402",
+    "basis": "supplied_visual_reference_plan",
+    "scope": "passed_courses_and_category_credits_only",
+    "status": "NOT_COMPLETE",
+    "title": "دروس یا سهم گروه‌های چارت تکمیل نیست",
+    "reason": "3 واحد از الزامات مشخصِ این برنامه هنوز تکمیل نشده است.",
+    "required_credits": 142,
+    "counted_passed_credits": 139,
+    "verified_chart_passed_credits": 139,
+    "reported_passed_credits": null,
+    "remaining_to_confirm": 3,
+    "exact_remaining_credits": 3,
+    "minimum_total_shortage": null,
+    "categories": [
+      {
+        "name": "تخصصی",
+        "required": 30,
+        "confirmed": 30,
+        "remaining_to_confirm": 0
+      },
+      {
+        "name": "عمومی",
+        "required": 22,
+        "confirmed": 22,
+        "remaining_to_confirm": 0
+      },
+      {
+        "name": "پایه",
+        "required": 20,
+        "confirmed": 20,
+        "remaining_to_confirm": 0
+      },
+      {
+        "name": "اصلی",
+        "required": 55,
+        "confirmed": 52,
+        "remaining_to_confirm": 3
+      },
+      {
+        "name": "اختیاری",
+        "required": 15,
+        "confirmed": 15,
+        "remaining_to_confirm": 0
+      }
+    ],
+    "missing_courses": [
+      {
+        "course_id": "CRS_5C79A91DABD2",
+        "course_name": "پروژه پایانی",
+        "course_code": "30028",
+        "credits": 3,
+        "completion_status": "NOT_TAKEN"
+      }
+    ],
+    "groups": [
+      {
+        "name": "انقلاب اسلامی یا اندیشه سیاسی امام",
+        "category": "عمومی",
+        "required": 2,
+        "confirmed": 2,
+        "remaining": 0,
+        "assigned_course_ids": [
+          "CRS_8BA1A6A99C85"
+        ],
+        "candidate_course_ids": [],
+        "choices": []
+      },
+      {
+        "name": "تاریخ تحلیلی اسلام یا تاریخ امامت",
+        "category": "عمومی",
+        "required": 2,
+        "confirmed": 2,
+        "remaining": 0,
+        "assigned_course_ids": [
+          "CRS_E36983CECDBC"
+        ],
+        "candidate_course_ids": [],
+        "choices": []
+      },
+      {
+        "name": "کنترل پروژه و کسب‌وکار نوپا",
+        "category": "اختیاری",
+        "required": 6,
+        "confirmed": 6,
+        "remaining": 0,
+        "assigned_course_ids": [
+          "CRS_FA5709664ED5",
+          "CRS_FD6E4757D9C1"
+        ],
+        "candidate_course_ids": [],
+        "choices": []
+      },
+      {
+        "name": "مباحث ویژه یا مبانی امنیت اطلاعات",
+        "category": "اختیاری",
+        "required": 3,
+        "confirmed": 3,
+        "remaining": 0,
+        "assigned_course_ids": [
+          "CRS_A2B2B2D3B7F5"
+        ],
+        "candidate_course_ids": [],
+        "choices": []
+      },
+      {
+        "name": "اختیاری",
+        "category": "اختیاری",
+        "required": 3,
+        "confirmed": 3,
+        "remaining": 0,
+        "assigned_course_ids": [
+          "CRS_6E80AB13A570"
+        ],
+        "candidate_course_ids": [],
+        "choices": []
+      },
+      {
+        "name": "اختیاریِ خانه برنامه‌نویسی وب",
+        "category": "اختیاری",
+        "required": 3,
+        "confirmed": 3,
+        "remaining": 0,
+        "assigned_course_ids": [
+          "CRS_C61B3555056F"
+        ],
+        "candidate_course_ids": [],
+        "choices": []
+      }
+    ],
+    "unresolved_rows": [],
+    "passed_not_allocated": [],
+    "note": "قبولی نمرهٔ ۱۰ و بالاتر است؛ هر درس فقط یک‌بار در سهم واحدها شمرده می‌شود. مقایسه بر پایهٔ برنامهٔ مرجع چارت انتخابی است."
+  }
+}

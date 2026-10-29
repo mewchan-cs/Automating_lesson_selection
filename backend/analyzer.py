@@ -1,7 +1,7 @@
-"""Course transcript → curriculum matching & factual, NON-regulatory report.
+"""Transcript matching plus optional completion of a supplied reference curriculum.
 
-No eligibility, graduation or pass/fail verdicts: university rules are not yet provided.
-The supplied chart JSONs are the original phase-1 engine inputs.
+Passing uses the saved, user-confirmed threshold. Administrative graduation and
+deferred enrollment rules are outside the graduation-only report.
 """
 from __future__ import annotations
 
@@ -42,7 +42,9 @@ def chart_for(name: str) -> Curriculum:
     return Curriculum(name)
 
 
-def analyze_transcript(transcript: dict, chart_name: str) -> dict:
+def analyze_transcript(transcript: dict, chart_name: str, *, academic_review=False, target_term='regular',review_mode='academic') -> dict:
+    if type(academic_review) is not bool:
+        raise DataError('گزینه بررسی آموزشی باید روشن یا خاموش باشد.')
     if not isinstance(transcript, dict):
         raise DataError('کارنامه باید یک شیء JSON باشد.')
     if transcript.get('schema_version') != '1.0':
@@ -99,8 +101,10 @@ def analyze_transcript(transcript: dict, chart_name: str) -> dict:
             name = _text(c.get('course_name'), 'course_name', 200)
             credits = _number(c.get('credits'), 'credits', minimum=0.01, maximum=30)
             grade = _number(c.get('grade'), 'grade', minimum=0, maximum=20, nullable=True)
-            if not code or not name:
-                raise DataError('کد یا نام درس در کارنامه خالی است.')
+            if not name:
+                raise DataError('نام درس در کارنامه خالی است.')
+            if not code:
+                warnings.append(f'کد درس «{name}» در نیمسال {label} موجود نیست؛ تطبیق نیازمند بررسی است.')
             total += 1
             term_credits += credits
             sum_credits += credits
@@ -128,7 +132,7 @@ def analyze_transcript(transcript: dict, chart_name: str) -> dict:
                 type_code = None
                 chart_name_fa = None
                 if not matches_by_code:
-                    unmatched.setdefault(code, {'course_code': code, 'course_name': name, 'attempts': 0})['attempts'] += 1
+                    unmatched.setdefault(code or f'MISSING:{total}', {'course_code': code, 'course_name': name, 'attempts': 0})['attempts'] += 1
                 else:
                     ambiguous.setdefault(code, {'course_code': code, 'course_name': name, 'attempts': 0})['attempts'] += 1
             attempt = {
@@ -138,7 +142,7 @@ def analyze_transcript(transcript: dict, chart_name: str) -> dict:
                 'matching': 'EXACT_CODE' if mapped_id else ('AMBIGUOUS_CODE' if matches_by_code else 'NOT_IN_CHART'),
             }
             attempts.append(attempt)
-            groups[mapped_id or f'OFFICIAL:{code}'].append(attempt)
+            groups[mapped_id or (f'OFFICIAL:{code}' if code else f'MISSING:{total}')].append(attempt)
         reported = semester.get('reported_summary')
         if reported is not None and not isinstance(reported, dict):
             raise DataError('خلاصه نیمسال نامعتبر است.')
@@ -184,10 +188,10 @@ def analyze_transcript(transcript: dict, chart_name: str) -> dict:
         warnings.append(f'{len(unmatched)} کد درس در چارت انتخاب‌شده پیدا نشد؛ تطبیق نامی خودکار انجام نشد.')
     if ambiguous:
         warnings.append(f'{len(ambiguous)} کد درس در چارت به چند شناسه اشاره دارد و نیازمند بازبینی است.')
-    warnings.append('قوانین قبولی، مردودی، هم‌نیازی، سقف واحد و فارغ‌التحصیلی هنوز ثبت نشده‌اند؛ هیچ حکم آموزشی صادر نشده است.')
+    warnings.append('مقایسه بر پایه کارنامه موجود و چارت انتخابی انجام می‌شود؛ ثبت رسمی فارغ‌التحصیلی با آموزش است.')
     terms.sort(key=lambda t: (t['academic_year_start'], t['term']))
     last_reported = terms[-1] if terms else {}
-    return {
+    report = {
         'schema_version': '1.0', 'report_type': 'PRELIMINARY_TRANSCRIPT_ANALYSIS',
         'curriculum': chart_name,
         'student': {'student_id': student_id or None, 'full_name': full_name or None, 'major': major or None},
@@ -208,5 +212,12 @@ def analyze_transcript(transcript: dict, chart_name: str) -> dict:
         'repeated_courses': repeats,
         'course_attempts': attempts,
         'warnings': warnings,
-        'limitations': 'آستانه نمره ۱۰ فقط یک دسته‌بندی آماری است؛ به معنی قبولی یا جواز اخذ درس نیست.',
+        'limitations': 'حد قبولی ثبت‌شده ۱۰ است؛ تطبیق کد، واحد و سهم گروه‌ها جداگانه بررسی می‌شود. صدور مدرک و مجوز اخذ درس موضوع این گزارش نیست.',
     }
+    from visual_summary import summarize_visual
+    report['visual_summary'] = summarize_visual(report, transcript, chart)
+    if academic_review:
+        from academic_review import review_academics, apply_final_waiver
+        report['academic_review'] = review_academics(report, transcript, chart, target=target_term,mode=review_mode)
+        if review_mode=='academic':apply_final_waiver(report['visual_summary'],report['academic_review'])
+    return report

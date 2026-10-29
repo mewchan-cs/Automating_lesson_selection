@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "student": {
+    "student_id": "VISUAL-DEMO"
+  },
+  "semesters": [
+    {
+      "academic_year_start": 1403,
+      "term": 1,
+      "courses": []
+    }
+  ]
+}

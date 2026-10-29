@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "student": {
+    "student_id": "TEST-ACADEMIC"
+  },
+  "semesters": [
+    {
+      "academic_year_start": 1402,
+      "term": 1,
+      "courses": [
+        {
+          "course_code": "1107",
+          "course_name": "زبان فارسی",
+          "credits": 3,
+          "grade": 17
+        }
+      ],
+      "reported_summary": {
+        "term_gpa": 17,
+        "cumulative_gpa": 15
+      }
+    }
+  ],
+  "extraction": {
+    "history_complete": true
+  }
+}

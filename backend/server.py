@@ -77,7 +77,10 @@ class Handler(BaseHTTPRequestHandler):
             req = json.loads(self.rfile.read(length))
             if not isinstance(req, dict):
                 raise DataError('درخواست JSON نامعتبر است.')
-            output = analyze_transcript(req.get('transcript'), req.get('chart'))
+            output = analyze_transcript(req.get('transcript'), req.get('chart'),
+                                        academic_review=req.get('academic_review',False),
+                                        target_term=req.get('target_term','regular'),
+                                        review_mode=req.get('review_mode','academic'))
         except (UnicodeDecodeError, json.JSONDecodeError, DataError, ValueError, KeyError, TypeError) as exc:
             return self._send(422, {'error': 'invalid_transcript', 'message': str(exc)[:500]})
         except Exception:

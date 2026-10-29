@@ -1,0 +1,10 @@
+const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),assert=require('node:assert/strict');
+const source=fs.readFileSync(path.join(__dirname,'../extension/popup.js'),'utf8');
+const code=source.slice(source.indexOf('function selectTranscriptCandidate('),source.indexOf('async function extractFromOpenTab('));
+const context=vm.createContext({});vm.runInContext(code,context);
+const first={found:true,transcript:{student:{student_id:'TEST-1'},semesters:[{term:1}]}};
+context.results=[{result:{found:false}},{result:first},{result:JSON.parse(JSON.stringify(first))}];
+assert.equal(vm.runInContext('selectTranscriptCandidate(results).transcript.student.student_id',context),'TEST-1');
+context.results.push({result:{found:true,transcript:{student:{student_id:'TEST-2'},semesters:[]}}});
+assert.throws(()=>vm.runInContext('selectTranscriptCandidate(results)',context),/چند کارنامه/);
+console.log('PASS: identical frame copies deduplicated; different students never silently selected');
